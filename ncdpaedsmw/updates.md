@@ -1,3 +1,12 @@
+### 01.11.2024
+
+* Temporarily moved content bundle to github
+* Proper usage tracking via aptitude
+
+### 30.10.2024
+
+* Re-introduced training area
+
 ### 18.10.2024
 
 * Included preliminary (and wrong) A5 version of the guidelines
