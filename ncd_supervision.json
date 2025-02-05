@@ -1,0 +1,80 @@
+{
+    "id": "1",
+    "type": "navigable",
+    "rules": [],
+    "steps": [
+        {
+            "stepIdentifier": { "id": "1" },
+            "type": "intro",
+            "title": "NCD supervision",
+            "text": "Health facility Supervision Tool: NCD Programm",
+            "buttonText": "Let's go!"
+        },
+        {
+            "stepIdentifier": { "id": "2" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Is there a patient pathway flow?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "3" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Is there an integrated NCD clinic where all conditions can be seen together? (vs a separate clinic per condition)",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "4" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Are NCD treatment guidelines available?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "5" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Are patients given health education?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "6" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Comments",
+            "answerFormat": {
+                "type": "text",
+                "maxLines": 5,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "7" },
+            "type": "completion",
+            "text": "Thanks for completing the survey!",
+            "title": "Done!",
+            "buttonText": "Restart"
+        }
+    ]
+}
