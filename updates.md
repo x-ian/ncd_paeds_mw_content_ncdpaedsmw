@@ -1,6 +1,10 @@
 **NCD Paeds MW content updates**
 ***
 
+##### 18.03.2025
+
+* Added final guidelines version
+
 ##### 05.02.2025
 
 * Prototype for NCD supervision questionnaire
