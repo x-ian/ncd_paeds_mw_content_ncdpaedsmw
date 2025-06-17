@@ -1,0 +1,59 @@
+{
+    "id": "1",
+    "type": "navigable",
+    "rules": [
+    ],
+    "steps": [{
+            "stepIdentifier": {
+                "id": "1"
+            },
+            "type": "intro",
+            "title": "MARS Section F",
+            "text": "Mobile Application Rating Scale (MARS) - Section F",
+            "buttonText": "Start!"
+        },
+        {
+            "stepIdentifier": {
+                "id": "2"
+            },
+            "type": "question",
+            "title": "Awareness: This app is likely to increase awareness of the importance of addressing [insert target health behaviour]",
+            "text": "",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1 - Strongly disagree",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5 - Strongly agree",
+                        "value": "5"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "3"
+            },
+            "type": "completion",
+            "text": "Thanks for completing the survey!",
+            "title": "Done!",
+            "buttonText": "Restart"
+        }
+
+    ]
+}
