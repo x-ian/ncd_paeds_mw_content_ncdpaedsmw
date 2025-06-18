@@ -33,7 +33,7 @@
             },
             "type": "question",
             "title": "Efficiency 1/4",
-            "text": "[This system] saves me time.",
+            "text": "NCD Paeds MW saves me time.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -77,7 +77,7 @@
             },
             "type": "question",
             "title": "Efficiency 2/4",
-            "text": "I tend to make a lot of mistakes with [this system].",
+            "text": "I tend to make a lot of mistakes with NCD Paeds MW.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -118,7 +118,7 @@
             },
             "type": "question",
             "title": "Efficiency 3/4",
-            "text": "I don't make many errors with [this system].",
+            "text": "I don't make many errors with NCD Paeds MW.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -159,7 +159,7 @@
             },
             "type": "question",
             "title": "Efficiency 4/4",
-            "text": "I have to spend a lot of time correcting things with (this system].",
+            "text": "I have to spend a lot of time correcting things with NCD Paeds MW.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -200,7 +200,7 @@
             },
             "type": "question",
             "title": "Effectiveness 1/4",
-            "text": "(This system] allows me to accomplish my tasks.",
+            "text": "NCD Paeds MW allows me to accomplish my tasks.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -282,7 +282,7 @@
             },
             "type": "question",
             "title": "Effectiveness 3/4",
-            "text": "I would not need to supplement [this system] with an additional one.",
+            "text": "I would not need to supplement NCD Paeds MW with an additional one.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -323,7 +323,7 @@
             },
             "type": "question",
             "title": "Effectiveness 4/4",
-            "text": "[This system's] capabilities would not meet my requirements.",
+            "text": "NCD Paeds MW's capabilities would not meet my requirements.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -366,7 +366,7 @@
             },
             "type": "question",
             "title": "Satisfaction 1/4",
-            "text": "I am satisfied with [this system].",
+            "text": "I am satisfied with NCD Paeds MW.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -407,7 +407,7 @@
             },
             "type": "question",
             "title": "Satisfaction 2/4",
-            "text": "I would prefer to use something other than [this system].",
+            "text": "I would prefer to use something other than NCD Paeds MW.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -448,7 +448,7 @@
             },
             "type": "question",
             "title": "Satisfaction 3/4",
-            "text": "Given a choice, I would choose [this system] over others.",
+            "text": "Given a choice, I would choose NCD Paeds MW over others.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
@@ -489,7 +489,7 @@
             },
             "type": "question",
             "title": "Satisfaction 4/4",
-            "text": "Using [this system] was a frustrating experience.",
+            "text": "Using NCD Paeds MW was a frustrating experience.",
             "answerFormat": {
                 "type": "single",
                 "textChoices": [
