@@ -17,6 +17,21 @@
                 "id": "2"
             },
             "type": "question",
+            "title": "Tell us about you",
+            "text": "By telling us your name, we are able to see how good your progress is.",
+            "isOptional": true,
+            "answerFormat": {
+                "type": "text",
+                "defaultValue": "(anonymous)",
+                "maxLines": 1,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "3"
+            },
+            "type": "question",
             "title": "Awareness",
             "text": "This app is likely to increase awareness of the importance of addressing [insert target health behaviour]",
             "answerFormat": {
@@ -50,7 +65,7 @@
 
         {
             "stepIdentifier": {
-                "id": "3"
+                "id": "4"
             },
             "type": "question",
             "title": "Knowledge",
@@ -83,7 +98,7 @@
         },
         {
             "stepIdentifier": {
-                "id": "4"
+                "id": "5"
             },
             "type": "question",
             "title": "Attitudes",
@@ -116,7 +131,7 @@
         },
         {
             "stepIdentifier": {
-                "id": "5"
+                "id": "6"
             },
             "type": "question",
             "title": "Intention to change",
@@ -149,7 +164,7 @@
         },
         {
             "stepIdentifier": {
-                "id": "6"
+                "id": "7"
             },
             "type": "question",
             "title": "Help seeking",
@@ -182,7 +197,7 @@
         },
         {
             "stepIdentifier": {
-                "id": "7"
+                "id": "8"
             },
             "type": "question",
             "title": "Behaviour change",
@@ -216,7 +231,7 @@
 
         {
             "stepIdentifier": {
-                "id": "8"
+                "id": "9"
             },
             "type": "completion",
             "text": "Thanks for completing the survey!",
