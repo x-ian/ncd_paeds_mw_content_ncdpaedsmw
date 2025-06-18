@@ -1,0 +1,524 @@
+{
+    "id": "1",
+    "type": "navigable",
+    "rules": [
+    ],
+    "steps": [{
+            "stepIdentifier": {
+                "id": "1"
+            },
+            "type": "intro",
+            "title": "UMUX",
+            "text": "Mobile Application Rating Scale (MARS) - Section F",
+            "buttonText": "Start!"
+        },
+        {
+            "stepIdentifier": {
+                "id": "2"
+            },
+            "type": "question",
+            "title": "Efficiency 1/4",
+            "text": "[This system] saves me time.",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+
+
+
+        {
+            "stepIdentifier": {
+                "id": "3"
+            },
+            "type": "question",
+            "title": "Efficiency 2/4",
+            "text": "I tend to make a lot of mistakes with [this system].",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "4"
+            },
+            "type": "question",
+            "title": "Efficiency 3/4",
+            "text": "I don't make many errors with [this system].",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "5"
+            },
+            "type": "question",
+            "title": "Efficiency 4/4",
+            "text": "I have to spend a lot of time correcting things with (this system].",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "6"
+            },
+            "type": "question",
+            "title": "Effectiveness 1/4",
+            "text": "(This system] allows me to accomplish my tasks.",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "7"
+            },
+            "type": "question",
+            "title": "Effectiveness 2/4",
+            "text": "I think I would need a system with more features for my tasks.",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+           }
+        },
+        {
+            "stepIdentifier": {
+                "id": "8"
+            },
+            "type": "question",
+            "title": "Effectiveness 3/4",
+            "text": "I would not need to supplement [this system] with an additional one.",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "9"
+            },
+            "type": "question",
+            "title": "Effectiveness 4/4",
+            "text": "[This system's] capabilities would not meet my requirements.",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+
+
+        {
+            "stepIdentifier": {
+                "id": "10"
+            },
+            "type": "question",
+            "title": "Satisfaction 1/4",
+            "text": "I am satisfied with [this system].",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "11"
+            },
+            "type": "question",
+            "title": "Satisfaction 2/4",
+            "text": "I would prefer to use something other than [this system].",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "12"
+            },
+            "type": "question",
+            "title": "Satisfaction 3/4",
+            "text": "Given a choice, I would choose [this system] over others.",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "stepIdentifier": {
+                "id": "13"
+            },
+            "type": "question",
+            "title": "Satisfaction 4/4",
+            "text": "Using [this system] was a frustrating experience.",
+            "answerFormat": {
+                "type": "single",
+                "textChoices": [
+                    {
+                        "text": "1",
+                        "value": "1"
+                    },
+                    {
+                        "text": "2",
+                        "value": "2"
+                    },
+                    {
+                        "text": "3",
+                        "value": "3"
+                    },
+                    {
+                        "text": "4",
+                        "value": "4"
+                    },
+                    {
+                        "text": "5",
+                        "value": "5"
+                    },
+                    {
+                        "text": "6",
+                        "value": "6"
+                    },
+                    {
+                        "text": "7",
+                        "value": "7"
+                    }
+                ]
+            }
+        },
+
+        {
+            "stepIdentifier": {
+                "id": "14"
+            },
+            "type": "completion",
+            "text": "Thanks for completing the survey!",
+            "title": "Done!",
+            "buttonText": "Restart"
+        }
+
+    ]
+}
