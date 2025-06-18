@@ -1,6 +1,10 @@
 **NCD Paeds MW content updates**
 ***
 
+##### 18.06.2025
+
+* Added drafts for UMUX and MARS-F surveys
+
 ##### 18.03.2025
 
 * Added final guidelines version
