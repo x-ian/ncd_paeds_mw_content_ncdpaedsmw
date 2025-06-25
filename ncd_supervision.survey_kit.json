@@ -1,0 +1,450 @@
+{
+    "id": "1",
+    "type": "navigable",
+    "rules": [],
+    "steps": [
+        {
+            "stepIdentifier": { "id": "1" },
+            "type": "intro",
+            "title": "NCD supervision",
+            "text": "Health facility Supervision Tool: NCD Programm",
+            "buttonText": "Let's go!"
+        },
+		
+		
+		
+		
+        {
+            "stepIdentifier": { "id": "2" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Is there a patient pathway flow?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "3" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Is there an integrated NCD clinic where all conditions can be seen together? (vs a separate clinic per condition)",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "4" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Are NCD treatment guidelines available?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "5" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Are patients given health education?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "6" },
+            "type": "question",
+            "title": "Patient care services",
+            "text": "Comments",
+            "answerFormat": {
+                "type": "text",
+                "maxLines": 5,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+
+
+
+
+        {
+            "stepIdentifier": { "id": "7" },
+            "type": "question",
+            "title": "Staff",
+            "text": "Is there dedicated staff for NCD clinic?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "8" },
+            "type": "question",
+            "title": "Staff",
+            "text": "Is there a clerk?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "9" },
+            "type": "question",
+            "title": "Staff",
+            "text": "Is there a permanent nurse allocated to the clinic?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "10" },
+            "type": "question",
+            "title": "Staff",
+            "text": "Has the nurse working today been trained in NCD management?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "11" },
+            "type": "question",
+            "title": "Staff",
+            "text": "Is there a permanent clinician allocated to the clinic?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "12" },
+            "type": "question",
+            "title": "Staff",
+            "text": "Has the nurses/clinician working today been trained in NCD management?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "13" },
+            "type": "question",
+            "title": "Staff",
+            "text": "Comments",
+            "answerFormat": {
+                "type": "text",
+                "maxLines": 5,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+
+
+
+
+        {
+            "stepIdentifier": { "id": "14" },
+            "type": "question",
+            "title": "Equipment",
+            "text": "Is a functional BP machine available today? ",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "15" },
+            "type": "question",
+            "title": "Equipment",
+            "text": "Does the BP machine have paediatric cuff sizes",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "16" },
+            "type": "question",
+            "title": "Equipment",
+            "text": "Is a working glucometer with test strips available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "17" },
+            "type": "question",
+            "title": "Equipment",
+            "text": "Is a weighing scale available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "18" },
+            "type": "question",
+            "title": "Equipment",
+            "text": "Is a height board available today? Tape measure for OFC, MUAC, pulse oximeter",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "19" },
+            "type": "question",
+            "title": "Equipment",
+            "text": "Comments",
+            "answerFormat": {
+                "type": "text",
+                "maxLines": 5,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+
+
+
+
+        {
+            "stepIdentifier": { "id": "20" },
+            "type": "question",
+            "title": "Laboratory services",
+            "text": "Are urine tests for protein, glucose, and ketones available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "21" },
+            "type": "question",
+            "title": "Laboratory services",
+            "text": "Can the lab perform chemistries today? (cre, Na, K) Hb/haemcue",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "22" },
+            "type": "question",
+            "title": "Equipment",
+            "text": "Comments",
+            "answerFormat": {
+                "type": "text",
+                "maxLines": 5,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+
+
+
+        {
+            "stepIdentifier": { "id": "23" },
+            "type": "question",
+            "title": "Medicines",
+            "text": "Diuretics available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "24" },
+            "type": "question",
+            "title": "Medicines",
+            "text": "Ace inhibitors available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "25" },
+            "type": "question",
+            "title": "Medicines",
+            "text": "Beta-blockers available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "26" },
+            "type": "question",
+            "title": "Medicines",
+            "text": "Calcium channel blockers available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "27" },
+            "type": "question",
+            "title": "Medicines",
+            "text": "Insulin available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "28" },
+            "type": "question",
+            "title": "Equipment",
+            "text": "Comments",
+            "answerFormat": {
+                "type": "text",
+                "maxLines": 5,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+
+
+
+
+        {
+            "stepIdentifier": { "id": "29" },
+            "type": "question",
+            "title": "Records and reports",
+            "text": "Do patients have an ID number?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "30" },
+            "type": "question",
+            "title": "Records and reports",
+            "text": "Is there an  NCD register being used today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "31" },
+            "type": "question",
+            "title": "Records and reports",
+            "text": "Are master cards being used according to patients condition?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "32" },
+            "type": "question",
+            "title": "Records and reports",
+            "text": "Are there appropriate Master cards for each condition?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "33" },
+            "type": "question",
+            "title": "Records and reports",
+            "text": "Is there a proper filing system for master cards?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "34" },
+            "type": "question",
+            "title": "Records and reports",
+            "text": "Are there quarterly reporting forms available today?",
+            "answerFormat": {
+                "type": "bool",
+                "positiveAnswer": "Yes",
+                "negativeAnswer": "No",
+                "result": "POSITIVE"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "35" },
+            "type": "question",
+            "title": "Records and reports",
+            "text": "Comments",
+            "answerFormat": {
+                "type": "text",
+                "maxLines": 5,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+
+
+
+
+        {
+            "stepIdentifier": { "id": "36" },
+            "type": "completion",
+            "text": "Thanks for completing the survey!",
+            "title": "Done!",
+            "buttonText": "Restart"
+        }
+    ]
+}
