@@ -23,7 +23,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -35,7 +35,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -47,7 +47,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -59,7 +59,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -69,6 +69,7 @@
             "text": "Comments",
             "answerFormat": {
                 "type": "text",
+                "defaultValue": "(no comment)",                
                 "maxLines": 5,
                 "validationRegEx": "^(?!\\s*\\$).+"
             }
@@ -86,7 +87,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -98,7 +99,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -110,7 +111,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -122,7 +123,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -134,7 +135,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -146,7 +147,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -156,6 +157,7 @@
             "text": "Comments",
             "answerFormat": {
                 "type": "text",
+                "defaultValue": "(no comment)",                
                 "maxLines": 5,
                 "validationRegEx": "^(?!\\s*\\$).+"
             }
@@ -173,7 +175,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -185,7 +187,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -197,7 +199,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -209,7 +211,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -221,7 +223,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -231,6 +233,7 @@
             "text": "Comments",
             "answerFormat": {
                 "type": "text",
+                "defaultValue": "(no comment)",                
                 "maxLines": 5,
                 "validationRegEx": "^(?!\\s*\\$).+"
             }
@@ -248,7 +251,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -260,7 +263,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -270,6 +273,7 @@
             "text": "Comments",
             "answerFormat": {
                 "type": "text",
+                "defaultValue": "(no comment)",                
                 "maxLines": 5,
                 "validationRegEx": "^(?!\\s*\\$).+"
             }
@@ -286,7 +290,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -298,7 +302,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -310,7 +314,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -322,7 +326,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -334,7 +338,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -344,6 +348,7 @@
             "text": "Comments",
             "answerFormat": {
                 "type": "text",
+                "defaultValue": "(no comment)",                
                 "maxLines": 5,
                 "validationRegEx": "^(?!\\s*\\$).+"
             }
@@ -361,7 +366,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -373,7 +378,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -385,7 +390,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -397,7 +402,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -409,7 +414,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -421,7 +426,7 @@
                 "type": "bool",
                 "positiveAnswer": "Yes",
                 "negativeAnswer": "No",
-                "result": "POSITIVE"
+                "result": "NEGATIVE"
             }
         },
         {
@@ -431,7 +436,20 @@
             "text": "Comments",
             "answerFormat": {
                 "type": "text",
+                "defaultValue": "(no comment)",                
                 "maxLines": 5,
+                "validationRegEx": "^(?!\\s*\\$).+"
+            }
+        },
+        {
+            "stepIdentifier": { "id": "36" },
+            "type": "question",
+            "title": "Name of facility",
+            "text": "Facility",
+            "answerFormat": {
+                "type": "text",
+                "defaultValue": "(unknown)",                
+                "maxLines": 1,
                 "validationRegEx": "^(?!\\s*\\$).+"
             }
         },
@@ -440,7 +458,7 @@
 
 
         {
-            "stepIdentifier": { "id": "36" },
+            "stepIdentifier": { "id": "37" },
             "type": "completion",
             "text": "Thanks for completing the survey!",
             "title": "Done!",
