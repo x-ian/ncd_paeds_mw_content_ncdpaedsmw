@@ -1,6 +1,10 @@
 **NCD Paeds MW content updates**
 ***
 
+##### 16.09.2025
+
+* NCD Guide in almost final version
+
 ##### 30.06.2025
 
 * Updated guidelines to re-designed version
