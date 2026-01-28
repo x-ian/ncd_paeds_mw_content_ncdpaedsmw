@@ -1,7 +1,7 @@
 **NCD Paeds MW content updates**
 ***
 
-##### 12701.2026
+##### 27.01.2026
 
 * NCD Guidelines with uniform layout and numerous minor corrections
 
