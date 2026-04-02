@@ -6,9 +6,9 @@ Default content bundle for NCD Paeds MW.
 
 Use VBS Macro to automatically split and save by chapter
 
-### Fine tune each chapter document
+### Fine tune each chapter document (now also included in macro)
 
-1. Move cursor to empty line right above the colored horizontal line (aafter Chapter X ... heading
+1. Move cursor to empty line right above the colored horizontal line (after Chapter X ... heading
 1. Insert -> Index and Tables -> Options... -> Remove '1' from Heading 1 Style -> Ok -> Ok
 1. Insert -> Page numbers
 1. Save As PDF -> Best for electronic publishing
