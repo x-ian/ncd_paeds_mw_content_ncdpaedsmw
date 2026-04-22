@@ -1,0 +1,304 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Nephrology",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "ACUTE KIDNEY INJURY (AKI)",
+	      "text": "In an anuric patient with no dehydration or extra-renal fluid losses, what is the correct approach to fluid management?",
+	      "correctAnswer": "B",
+	      "rationale": "In the absence of fluid losses, fluid is restricted to replacing insensible losses only. Potassium-containing fluids must be avoided in anuric patients to prevent hyperkalaemia. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer full maintenance fluids", "value": "A" },
+	          { "text": "Replace insensible losses only if needed", "value": "B" },
+	          { "text": "Start a fluid bolus immediately", "value": "C" },
+	          { "text": "Add potassium to maintenance IV fluids", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "ACUTE KIDNEY INJURY (AKI)",
+	      "text": "Which of the following is contraindicated in a child with pulmonary oedema and oliguria/anuria?",
+	      "correctAnswer": "B",
+	      "rationale": "Giving fluids in this setting worsens pulmonary oedema. These patients are fluid-overloaded and need respiratory support, diuretics, or dialysis—not additional fluids. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start oxygen therapy", "value": "A" },
+	          { "text": "Give IV fluids", "value": "B" },
+	          { "text": "Refer for dialysis", "value": "C" },
+	          { "text": "Monitor urine output", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "ACUTE KIDNEY INJURY (AKI)",
+	      "text": "A child with AKI has serum potassium of 6.7 mmol/L despite medical treatment. What is the next best step?",
+	      "correctAnswer": "C",
+	      "rationale": "Refractory hyperkalaemia (>6.5 mmol/L) not responsive to medical treatment is an indication for dialysis, per the AEIOU criteria. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer glucose and monitor", "value": "A" },
+	          { "text": "Give oral potassium", "value": "B" },
+	          { "text": "Start renal replacement therapy", "value": "C" },
+	          { "text": "Increase IV fluids", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "ACUTE KIDNEY INJURY (AKI)",
+	      "text": "After a diagnostic fluid challenge of 20 mL/kg in a child with suspected prerenal AKI, urine output improves. What does this suggest?",
+	      "correctAnswer": "C",
+	      "rationale": "Improvement in urine output following fluid resuscitation supports prerenal AKI due to hypovolemia or dehydration. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Intrinsic renal failure", "value": "A" },
+	          { "text": "Fluid overload", "value": "B" },
+	          { "text": "Prerenal pathology", "value": "C" },
+	          { "text": "Worsening acidosis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "ACUTE KIDNEY INJURY (AKI)",
+	      "text": "Which of the following is not an indication for dialysis in AKI (based on AEIOU)?",
+	      "correctAnswer": "A",
+	      "rationale": "Dialysis is indicated for refractory hyperkalaemia, not when potassium is well controlled. The AEIOU indications only apply when conservative management fails. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Controlled potassium level", "value": "A" },
+	          { "text": "Uraemic encephalopathy", "value": "B" },
+	          { "text": "Metabolic acidosis", "value": "C" },
+	          { "text": "Fluid overload not responsive to diuretics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Chronic Kidney Disease (CKD)",
+	      "text": "Which of the following is true regarding sodium intake in children with CKD and hypertension?",
+	      "correctAnswer": "A",
+	      "rationale": "Sodium restriction helps manage oedema and hypertension. However, sodium should not be restricted in salt-losing conditions. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Restrict salt intake in patients with hypertension and oedema", "value": "A" },
+	          { "text": "Encourage salt intake in all CKD patients", "value": "B" },
+	          { "text": "Add salt to meals to prevent dehydration", "value": "C" },
+	          { "text": "Restrict sodium only in salt-losing nephropathies", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Chronic Kidney Disease (CKD)",
+	      "text": "What is the most appropriate dietary recommendation for a child with CKD and serum phosphate of 2.0 mmol/L and eGFR <70 ml/min/1.73m²?",
+	      "correctAnswer": "C",
+	      "rationale": "High phosphate levels in CKD contribute to bone disease. Reducing dietary phosphate is key to management. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase phosphate-rich foods", "value": "A" },
+	          { "text": "Start bicarbonate therapy", "value": "B" },
+	          { "text": "Reduce phosphate intake", "value": "C" },
+	          { "text": "Give potassium-rich diet", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "A child with nephrotic syndrome presents with severe edema and critically low serum albumin. Urine output is adequate. What is the most appropriate next step?",
+	      "correctAnswer": "B",
+	      "rationale": "In symptomatic hypoalbuminemia with adequate urine output, IV albumin 0.5–1 g/kg slowly over 4 hours with frusemide midwaywith frusemide helps mobilize fluid and relieve symptoms. Frusemide is given halfway through the infusion to promote diuresis. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start high-dose steroids immediately", "value": "A" },
+	          { "text": "Administer IV albumin", "value": "B" },
+	          { "text": "Restrict fluids and monitor for 24 hours", "value": "C" },
+	          { "text": "Give oral albumin and wait for steroid effect", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "Which of the following is a key indication to initiate dialysis in a child with glomerulonephritis?",
+	      "correctAnswer": "A",
+	      "rationale": "Dialysis is indicated when there is severe fluid overload that is not responsive to diuretic therapy, to prevent complications such as pulmonary edema or hypertensive crisis. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Severe fluid overload unresponsive to diuretics", "value": "A" },
+	          { "text": "Mild proteinuria", "value": "B" },
+	          { "text": "Normal electrolyte levels", "value": "C" },
+	          { "text": "Low-grade fever lasting 3 days", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "HYPERKALAEMIA",
+	      "text": "A critically ill child presents with a serum potassium of 6.9 mmol/L from a finger-prick sample. What should be the next step before proceeding with treatment?",
+	      "correctAnswer": "B",
+	      "rationale": "Pseudohyperkalaemia due to haemolysis is common; confirmation using a non-haemolysed venous or arterial sample is essential to avoid unnecessary treatment. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Immediately give insulin and glucose infusion", "value": "A" },
+	          { "text": "Repeat potassium test using a non-haemolysed venous or arterial sample", "value": "B" },
+	          { "text": "Begin furosemide and sodium bicarbonate", "value": "C" },
+	          { "text": "Start salbutamol nebulization immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "HYPERNATRAEMIA",
+	      "text": "What is the recommended maximum rate of sodium correction in chronic or severe hypernatraemia?",
+	      "correctAnswer": "B",
+	      "rationale": "To prevent cerebral oedema and neurologic injury, sodium levels should not fall faster than 0.5 mEq/L/hour (10–12 mEq/L/day). ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "2 mEq/L per hour", "value": "A" },
+	          { "text": "1 mEq/L per hour", "value": "B" },
+	          { "text": "0.5 mEq/L per hour", "value": "C" },
+	          { "text": "1.5 mEq/L per hour", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "In a child presenting with severe symptomatic hyponatraemia (e.g. seizures or coma), what is the correct initial fluid of choice?",
+	      "correctAnswer": "D",
+	      "rationale": "Severe symptomatic hyponatraemia requires careful correction with hypertonic saline to prevent neurological complications like cerebral oedema. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Dextrose 5%", "value": "A" },
+	          { "text": "Normal saline (0.9%)", "value": "B" },
+	          { "text": "Half-normal saline (0.45%)", "value": "C" },
+	          { "text": "Hypertonic saline (3%)", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "HYPOCALCAEMIA",
+	      "text": "Which of the following is the gold standard for assessing calcium status in the presence of hypoalbuminemia?",
+	      "correctAnswer": "C",
+	      "rationale": "Ionized (free) calcium reflects the biologically active form and is not affected by albumin levels. It is the gold standard in assessing calcium status, especially in hypoalbuminemia. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Total serum calcium", "value": "A" },
+	          { "text": "Corrected calcium using albumin", "value": "B" },
+	          { "text": "Ionized calcium", "value": "C" },
+	          { "text": "Serum phosphate", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "RENAL REPLACEMENT THERAPY (RRT)",
+	      "text": "A child on peritoneal dialysis presents with signs of peritonitis. There are no systemic signs of infection. What is the most appropriate initial step?",
+	      "correctAnswer": "C",
+	      "rationale": "In the absence of systemic signs, empiric intraperitoneal antibiotics should be started promptly, and nephrology should be consulted. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start oral antibiotics and discharge", "value": "A" },
+	          { "text": "Delay antibiotics until culture results return", "value": "B" },
+	          { "text": "Initiate empiric intraperitoneal antibiotics and consult nephrology", "value": "C" },
+	          { "text": "Remove the dialysis catheter immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Acute severe hypertension",
+	      "text": "In a child with hypertensive emergency, what is the initial target for systolic blood pressure control during IV antihypertensive treatment?",
+	      "correctAnswer": "B",
+	      "rationale": "The target in hypertensive emergency is to carefully reduce systolic BP to the 95th percentile for age and sex to avoid hypoperfusion-related complications. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Below the 90th percentile for age and sex", "value": "A" },
+	          { "text": "At the 95th percentile for age and sex", "value": "B" },
+	          { "text": "10% reduction from baseline within 1 hour", "value": "C" },
+	          { "text": "Return to normal adult values within 2 hours", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

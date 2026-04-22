@@ -1,0 +1,358 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": { "id": "1" },
+	      "type": "intro",
+	      "title": "Neonatology",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": { "id": "2" },
+	      "type": "question",
+	      "title": "Neonatal resuscitation",
+	      "text": "What protocol should be followed during neonatal resuscitation at the primary level?",
+	      "correctAnswer": "C",
+	      "rationale": "The Helping Babies Breathe (HBB) protocol is the standard neonatal resuscitation guideline for primary care settings.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Advanced Life Support (ALS)", "value": "A" },
+	          { "text": "Emergency Triage Assessment and Treatment (ETAT)", "value": "B" },
+	          { "text": "Helping Babies Breathe (HBB) protocol", "value": "C" },
+	          { "text": "Pediatric Basic Life Support (PBLS)", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "3" },
+	      "type": "question",
+	      "title": "Neonatal resuscitation",
+	      "text": "When should a newborn be referred to a secondary hospital from primary care?",
+	      "correctAnswer": "C",
+	      "rationale": "Newborns needing bag-mask ventilation for more than 5 minutes or showing signs of encephalopathy should be referred for higher-level care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "After routine suctioning", "value": "A" },
+	          { "text": "If resuscitation took less than 1 minute", "value": "B" },
+	          { "text": "If bag-mask ventilation >5 minutes or signs of encephalopathy", "value": "C" },
+	          { "text": "If born by cesarean section", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "4" },
+	      "type": "question",
+	      "title": "Neonatal resuscitation",
+	      "text": "What additional care may be provided before referring a neonate to a higher-level facility?",
+	      "correctAnswer": "D",
+	      "rationale": "Pre-referral antibiotics are given to prevent or manage possible sepsis before transferring the newborn to a secondary care facility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start physiotherapy", "value": "A" },
+	          { "text": "Begin phototherapy", "value": "B" },
+	          { "text": "Administer oral rehydration solution", "value": "C" },
+	          { "text": "Provide pre-referral antibiotics if indicated", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "5" },
+	      "type": "question",
+	      "title": "CARE OF PREMATURE, SMALL FOR GESTATIONAL AGE AND LOW BIRTH WEIGHT",
+	      "text": "What is the appropriate initial action for managing a premature baby at the primary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "At the primary level, providers are expected to assess using ABCDE, stabilize, and prevent hypothermia before referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start full formula feeding", "value": "A" },
+	          { "text": "Perform ABCDE assessment, stabilize, and keep the baby warm", "value": "B" },
+	          { "text": "Refer immediately without any assessment", "value": "C" },
+	          { "text": "Delay any intervention until secondary review", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "6" },
+	      "type": "question",
+	      "title": "CARE OF PREMATURE, SMALL FOR GESTATIONAL AGE AND LOW BIRTH WEIGHT",
+	      "text": "In what position should a premature baby be referred to secondary care from a primary facility?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline specifies that all premature babies should be referred in KMC position to maintain warmth and stability during transport.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Supine in an open cradle", "value": "A" },
+	          { "text": "Wrapped in blankets with head uncovered", "value": "B" },
+	          { "text": "In Kangaroo Mother Care (KMC) position", "value": "C" },
+	          { "text": "Lying flat under a radiant warmer", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "7" },
+	      "type": "question",
+	      "title": "SMALL FOR GESTATIONAL AGE",
+	      "text": "What is the correct initial management for a Small for Gestational Age (SGA) baby at the primary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "According to the guideline, early feeding via NG, cup, or breast is essential to prevent hypoglycemia and stabilize the SGA baby. Only unstable babies need to be referred.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay feeding until 6 hours after birth", "value": "A" },
+	          { "text": "Initiate feeding as soon after birth as possible using NG tube, cup, or breast", "value": "B" },
+	          { "text": "Refer all SGA babies immediately to tertiary care", "value": "C" },
+	          { "text": "Administer antibiotics before any feeding", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "8" },
+	      "type": "question",
+	      "title": "KANGAROO MOTHER CARE (KMC/ (IKMC))",
+	      "text": "How should a stable premature baby be referred from a primary care facility?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline states that all premature babies should be stabilized and referred in KMC position from primary care to maintain warmth and improve outcomes during transport.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Wrapped in blankets and placed in a cot", "value": "A" },
+	          { "text": "Stabilized and referred in Kangaroo Mother Care (KMC) position", "value": "B" },
+	          { "text": "Delayed referral until baby starts feeding", "value": "C" },
+	          { "text": "Sent directly to tertiary care without any stabilization", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "9" },
+	      "type": "question",
+	      "title": "NEONATAL HYPOGLYCAEMIA",
+	      "text": "What is one correct emergency treatment for a newborn with RBS < 45 mg/dL at the primary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "Emergency treatment includes giving 10% dextrose IV at 2 ml/kg, or alternatives like 50% dextrose PO/NGT or 40% glucose gel buccally.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "IV bolus of 5% dextrose at 5 ml/kg", "value": "A" },
+	          { "text": "Slow IV bolus of 10% dextrose at 2 ml/kg", "value": "B" },
+	          { "text": "IM insulin followed by feeding", "value": "C" },
+	          { "text": "IV saline followed by observation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "10" },
+	      "type": "question",
+	      "title": "NEONATAL HYPOGLYCAEMIA",
+	      "text": "After the emergency treatment of hypoglycemia in a newborn, what is the next best step if the baby is tolerating oral feeds?",
+	      "correctAnswer": "A",
+	      "rationale": "If the baby can tolerate oral feeds, continue with regular breastfeeding or NGT feeds. If not, start IV 10% dextrose.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Continue regular breastfeeding or NGT feeds", "value": "A" },
+	          { "text": "Stop all feeding and observe", "value": "B" },
+	          { "text": "Give only IV fluids for the next 24 hours", "value": "C" },
+	          { "text": "Administer oral antibiotics to prevent sepsis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "11" },
+	      "type": "question",
+	      "title": "NEONATAL HYPOGLYCAEMIA",
+	      "text": "What should be done after giving a glucose bolus to a hypoglycemic newborn?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline advises to repeat RBS after 30 minutes, stabilize the baby, and refer after initial management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Discharge if baby looks well", "value": "A" },
+	          { "text": "Start antibiotics and wait 12 hours to recheck", "value": "B" },
+	          { "text": "Repeat RBS after 30 minutes, stabilize, and refer", "value": "C" },
+	          { "text": "Repeat the bolus immediately regardless of sugar", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "12" },
+	      "type": "question",
+	      "title": "NEONATAL HYPERGLYCAEMIA",
+	      "text": "What is the appropriate management of a neonate with hyperglycaemia at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the correct approach is to stabilize the baby using ABCD (Airway, Breathing, Circulation, Disability) and refer promptly to secondary care for further evaluation and management. Initiating insulin or complex interventions is not appropriate at this level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start insulin infusion immediately", "value": "A" },
+	          { "text": "Give a glucose bolus to correct fluid loss", "value": "B" },
+	          { "text": "Stabilize the baby (ABCD) and refer to secondary level", "value": "C" },
+	          { "text": "Initiate full formula feeds to correct the glucose imbalance", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "13" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "A newborn presents with signs of respiratory distress and cyanosis. According to the ABCDE approach, what is the most appropriate next step in the primary care setting?",
+	      "correctAnswer": "B",
+	      "rationale": "Under \"Breathing,\" if respiratory distress or cyanosis is present, oxygen should be given and vitals monitored (SPO2, RR, HR).",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin chest compressions immediately", "value": "A" },
+	          { "text": "Provide oxygen and monitor SPO2 and respiratory rate", "value": "B" },
+	          { "text": "Start paracetamol 15mg/kg immediately", "value": "C" },
+	          { "text": "Refer directly to tertiary care", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "14" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "In a neonate presenting with shock, what is the correct initial fluid management as per primary care guidelines?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline recommends 10 ml/kg IV bolus over 10 minutes for shock, and reassessment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer 20 ml/kg IV bolus Normal Saline over 5 minutes", "value": "A" },
+	          { "text": "Administer oral rehydration therapy", "value": "B" },
+	          { "text": "Give 10 ml/kg IV bolus Normal Saline or Ringers Lactate slowly over 10 minutes", "value": "C" },
+	          { "text": "Give inotropes immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "15" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "What is the recommended antibiotic intervention for stable newborns in the first 72 hours of life suspected of sepsis at the primary care level?",
+	      "correctAnswer": "A",
+	      "rationale": "The protocol clearly instructs to give a single dose of IV/IM antibiotic and refer to higher-level care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Give a single dose of IV/IM antibiotic and refer", "value": "A" },
+	          { "text": "Start oral antibiotics and discharge home", "value": "B" },
+	          { "text": "Wait for blood culture results before starting treatment", "value": "C" },
+	          { "text": "Give antibiotics only if fever is present", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "16" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "A baby with suspected sepsis has a blood sugar of 42 mg/dL. What is the most appropriate action at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "A blood glucose ≤45mg/dL is treated as hypoglycaemia according to the guideline and should be managed accordingly.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Observe and monitor closely", "value": "A" },
+	          { "text": "Recheck blood sugar in 2 hours", "value": "B" },
+	          { "text": "Treat according to the hypoglycaemia guideline", "value": "C" },
+	          { "text": "Start maintenance IV fluids only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "17" },
+	      "type": "question",
+	      "title": "APNOEA OF PREMATURITY",
+	      "text": "What is the first step in managing a premature neonate presenting with apnoea at the primary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Management begins with ABCDE stabilization to ensure airway and cardiorespiratory support before giving medications or referring.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start antibiotics immediately", "value": "A" },
+	          { "text": "Stabilize the baby using ABCDE approach", "value": "B" },
+	          { "text": "Begin phototherapy", "value": "C" },
+	          { "text": "Refer immediately without intervention", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "18" },
+	      "type": "question",
+	      "title": "APNOEA OF PREMATURITY",
+	      "text": "Which drug and dose is recommended as the first-line treatment for apnoea of prematurity at primary care when caffeine is unavailable?",
+	      "correctAnswer": "A",
+	      "rationale": "If caffeine is not available, aminophylline is used with a loading dose of 6 mg/kg STAT, followed by maintenance dosing.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Aminophylline 6 mg/kg as a loading dose", "value": "A" },
+	          { "text": "Paracetamol 10 mg/kg", "value": "B" },
+	          { "text": "Adrenaline 0.1 mg/kg", "value": "C" },
+	          { "text": "Caffeine 5 mg/kg", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "19" },
+	      "type": "question",
+	      "title": "APNOEA OF PREMATURITY",
+	      "text": "After initial stabilization and medication, what is the appropriate next step for a neonate with apnoea at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "All neonates with apnoea should be referred to secondary level after stabilization and loading dose therapy, as further monitoring and evaluation are required.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Observe for 24 hours and discharge if stable", "value": "A" },
+	          { "text": "Continue aminophylline for 3 days and send home", "value": "B" },
+	          { "text": "Refer to secondary care after initial stabilization", "value": "C" },
+	          { "text": "Begin IV fluids and monitor until day 7", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "20" },
+	      "type": "question",
+	      "title": "PROLONGED JAUNDICE",
+	      "text": "What is the appropriate management of a neonate with prolonged jaundice at the primary or secondary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "Prolonged jaundice (lasting beyond 14 days in term or 21 days in preterm infants) requires evaluation at the tertiary level to investigate causes such as biliary atresia, hypothyroidism, or infections. Early referral is essential to avoid delays in diagnosis and management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start phototherapy immediately", "value": "A" },
+	          { "text": "Prescribe multivitamins and observe at home", "value": "B" },
+	          { "text": "Refer the baby to tertiary level for further evaluation", "value": "C" },
+	          { "text": "Initiate paracetamol and monitor for 48 hours", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "21" },
+	      "type": "question",
+	      "title": "NEONATAL SEIZURES",
+	      "text": "A neonate presents with seizures and a blood glucose of 38 mg/dL. What is the appropriate immediate action?",
+	      "correctAnswer": "A",
+	      "rationale": "Hypoglycaemia (<45 mg/dL) is a reversible cause of seizures in neonates. An IV dextrose bolus is indicated immediately as part of emergency stabilization.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer an IV dextrose bolus to correct hypoglycaemia", "value": "A" },
+	          { "text": "Start anticonvulsants immediately", "value": "B" },
+	          { "text": "Wait and recheck glucose in 2 hours", "value": "C" },
+	          { "text": "Refer without intervention", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}
+	

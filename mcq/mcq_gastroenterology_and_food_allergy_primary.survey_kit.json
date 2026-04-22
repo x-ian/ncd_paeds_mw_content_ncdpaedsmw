@@ -1,0 +1,437 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Gastroenterology and food allergy",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Chronic Abdominal Pain",
+	      "text": "What is an appropriate initial step in the management of chronic abdominal pain in a child at the primary care level when no red flags are present?",
+	      "correctAnswer": "B",
+	      "rationale": "In the absence of red flags, deworming is a recommended first-line intervention in primary care for chronic abdominal pain.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Immediate referral for endoscopy", "value": "A" },
+	          { "text": "Start empiric deworming therapy", "value": "B" },
+	          { "text": "Begin long-term pain medication", "value": "C" },
+	          { "text": "Request abdominal CT scan", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Chronic Abdominal Pain",
+	      "text": "Which of the following is a red flag that warrants referral of a child with chronic abdominal pain from primary care?",
+	      "correctAnswer": "C",
+	      "rationale": "Gastrointestinal bleeding is a significant red flag and requires referral to secondary or tertiary care for further evaluation and management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Constipation once a week", "value": "A" },
+	          { "text": "Mild abdominal discomfort after large meals", "value": "B" },
+	          { "text": "Gastrointestinal blood loss (e.g. bloody diarrhoea or melena)", "value": "C" },
+	          { "text": "Occasional nausea without vomiting", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "A healthy infant has frequent regurgitation but is feeding well and gaining weight. What should be your first step?",
+	      "correctAnswer": "C",
+	      "rationale": "Most infants with uncomplicated regurgitation need reassurance and monitoring, not medication.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Prescribe acid suppressants", "value": "A" },
+	          { "text": "Order abdominal ultrasound", "value": "B" },
+	          { "text": "Reassure and observe", "value": "C" },
+	          { "text": "Refer immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "Which of the following should be advised for a school-age child with mild GERD symptoms?",
+	      "correctAnswer": "A",
+	      "rationale": "Avoiding large meals and waiting before lying down reduces reflux in older children.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Avoid large meals and late eating", "value": "A" },
+	          { "text": "Take fluids only before meals", "value": "B" },
+	          { "text": "Sleep flat to aid digestion", "value": "C" },
+	          { "text": "Increase bedtime snacks", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "What helps reduce regurgitation in an infant with GER?",
+	      "correctAnswer": "D",
+	      "rationale": "Thickening feeds and upright positioning after feeding are effective non-pharmacological strategies.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Overfeed to reduce crying", "value": "A" },
+	          { "text": "Place baby flat after feeding", "value": "B" },
+	          { "text": "Use soy-based formula", "value": "C" },
+	          { "text": "Add rice cereal and keep upright", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "When should you refer a child with suspected GERD?",
+	      "correctAnswer": "B",
+	      "rationale": "Referral is needed when conservative management fails or red flags are present.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "At the first sign of spit-up", "value": "A" },
+	          { "text": "If symptoms don’t improve with basic care", "value": "B" },
+	          { "text": "If reflux occurs less than once a week", "value": "C" },
+	          { "text": "At the first episode of vomiting", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Peptic Ulcer Disease (PUD)",
+	      "text": "What is an appropriate first step in managing a child suspected of having peptic ulcer disease (PUD) at the primary care level?",
+	      "correctAnswer": "A",
+	      "rationale": "Primary management includes stopping aggravating medications like NSAIDs and giving antacids, while preparing for referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Discontinue NSAIDs and give antacids", "value": "A" },
+	          { "text": "Start long-term PPIs and observe at home", "value": "B" },
+	          { "text": "Prescribe antibiotics and refer in 2 weeks", "value": "C" },
+	          { "text": "Begin iron supplements for prevention", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Chronic Diarrhea",
+	      "text": "What is the most appropriate management of a child presenting with chronic diarrhea at a primary health facility?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary care level, the priority is to correct dehydration and refer the child for further investigation and management. Anti-diarrheals are not appropriate in young children.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start anti-diarrheal medication and observe", "value": "A" },
+	          { "text": "Initiate long-term antibiotics", "value": "B" },
+	          { "text": "Correct dehydration and refer to higher level of care", "value": "C" },
+	          { "text": "Delay referral until diarrhea resolves", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "Which of the following is an effective preventive measure for constipation in children?",
+	      "correctAnswer": "C",
+	      "rationale": "Preventive care includes a high-fiber diet, hydration, and routine toilet habits to reduce constipation risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Limiting fiber and increasing dairy intake", "value": "A" },
+	          { "text": "Encouraging processed snacks and low-residue diet", "value": "B" },
+	          { "text": "High-fiber diet, increased fluid intake, and regular toilet routine", "value": "C" },
+	          { "text": "Delaying toilet training until adolescence", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "Which of the following findings should prompt referral of a constipated child to secondary or tertiary care?",
+	      "correctAnswer": "A",
+	      "rationale": "Delayed meconium passage may suggest conditions like Hirschsprung’s disease or cystic fibrosis and requires specialist evaluation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delayed passage of meconium beyond 48 hours after birth", "value": "A" },
+	          { "text": "Constipation for 3 days without other symptoms", "value": "B" },
+	          { "text": "Dietary history showing low vegetable intake", "value": "C" },
+	          { "text": "Toilet refusal in a toilet-trained 4-year-old", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "Which of the following is a red flag in a child with constipation that warrants referral?",
+	      "correctAnswer": "B",
+	      "rationale": "Abdominal distension and failure to thrive may point to serious underlying conditions like Hirschsprung’s disease or malabsorption, requiring specialist referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Preference for milk over solid food", "value": "A" },
+	          { "text": "Abdominal distension and failure to thrive", "value": "B" },
+	          { "text": "Skipping one bowel movement", "value": "C" },
+	          { "text": "Fussiness during toilet training", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Food allergy",
+	      "text": "A child presents with sudden wheezing, rash, and hypotension after eating peanuts. What is your first priority?",
+	      "correctAnswer": "B",
+	      "rationale": "A child with signs of anaphylaxis requires immediate stabilization using the ABCDE approach and emergency management protocols.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Order food-specific IgE test", "value": "A" },
+	          { "text": "Initiate ABCDE and manage as anaphylaxis", "value": "B" },
+	          { "text": "Give antihistamines and monitor at home", "value": "C" },
+	          { "text": "Ask the family to remove peanuts from diet and return if worse", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Food allergy",
+	      "text": "What is the next best step in a child with recurrent hives after certain meals, but currently stable?",
+	      "correctAnswer": "A",
+	      "rationale": "A thorough history is essential, but all suspected food allergy cases should be referred to higher-level care for further evaluation and testing.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Take detailed dietary history and refer", "value": "A" },
+	          { "text": "Prescribe oral steroids and observe", "value": "B" },
+	          { "text": "Perform skin prick test in primary care", "value": "C" },
+	          { "text": "Start an elimination diet without documentation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "Which of the following symptom combinations should raise suspicion for IBD in a child?",
+	      "correctAnswer": "C",
+	      "rationale": "Chronic diarrhea, rectal bleeding, and growth retardation are classic features of inflammatory bowel disease, especially Crohn’s disease.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Intermittent constipation and flatulence", "value": "A" },
+	          { "text": "Fever and isolated upper abdominal pain after meals", "value": "B" },
+	          { "text": "Chronic diarrhea with rectal bleeding and growth retardation", "value": "C" },
+	          { "text": "Isolated oral thrush and fussiness", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "Which of the following symptoms is more commonly associated with Crohn’s disease than ulcerative colitis in children?",
+	      "correctAnswer": "C",
+	      "rationale": "Crohn’s disease is more often associated with aphthous ulcers and growth retardation, which may precede GI symptoms and help differentiate it from ulcerative colitis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Tenesmus and bloody diarrhea", "value": "A" },
+	          { "text": "Abdominal distension with left-sided pain", "value": "B" },
+	          { "text": "Aphthous oral ulcers and growth failure", "value": "C" },
+	          { "text": "Rectal bleeding only during infections", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Coeliac disease",
+	      "text": "A 2-year-old presents with chronic diarrhea, abdominal distension, irritability, and failure to thrive. What is the most appropriate step at a primary care facility?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, children with symptoms suggestive of coeliac disease should be stabilized (e.g. for dehydration) and referred for confirmatory testing and specialist management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start a gluten-free diet immediately", "value": "A" },
+	          { "text": "Prescribe iron supplements and schedule follow-up", "value": "B" },
+	          { "text": "Correct dehydration and refer to higher level for further evaluation", "value": "C" },
+	          { "text": "Order a duodenal biopsy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "A 6-year-old presents with jaundice, confusion, and a history of vomiting. Blood sugar is 1.8 mmol/L. What is the most appropriate immediate action at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, management of acute liver failure involves emergency stabilization (ABCDE, glucose correction, fluid bolus) and urgent referral to a higher-level facility for definitive care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start oral rehydration and monitor for 24 hours", "value": "A" },
+	          { "text": "Refer after starting antibiotics", "value": "B" },
+	          { "text": "Begin ABCDE stabilization, treat hypoglycaemia, and refer", "value": "C" },
+	          { "text": "Wait for liver function test results before acting", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "A 10-year-old with suspected liver cirrhosis presents with confusion and vomiting. What is the most appropriate initial step at a primary or secondary care facility?",
+	      "correctAnswer": "B",
+	      "rationale": "Stabilization and checking for hypoglycemia are key priorities in any child presenting with signs of hepatic decompensation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start corticosteroids and observe", "value": "A" },
+	          { "text": "Stabilize the patient and check blood sugar", "value": "B" },
+	          { "text": "Discharge if afebrile", "value": "C" },
+	          { "text": "Start diuretics immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "What is the recommended first-line treatment for coagulopathy-related bleeding in a child with liver cirrhosis?",
+	      "correctAnswer": "C",
+	      "rationale": "Vitamin K (2.5–10 mg/day) is used to manage bleeding due to impaired synthesis of clotting factors in chronic liver disease.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Fresh frozen plasma", "value": "A" },
+	          { "text": "Aspirin", "value": "B" },
+	          { "text": "Vitamin K", "value": "C" },
+	          { "text": "Oral iron", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "Which of the following actions is appropriate in the care of a child with chronic liver disease at the primary or secondary level?",
+	      "correctAnswer": "A",
+	      "rationale": "Mid-upper arm circumference is useful for nutritional assessment, and palliative care involvement is crucial for chronic or end-stage cases.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Perform nutritional assessment and refer to palliative care if needed", "value": "A" },
+	          { "text": "Begin lifelong immunosuppressants", "value": "B" },
+	          { "text": "Initiate liver transplant evaluation", "value": "C" },
+	          { "text": "Delay referral until liver enzymes normalize", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Portal hypertension",
+	      "text": "A 6-year-old presents with splenomegaly, abdominal distension, and hematemesis. You suspect portal hypertension. What is the most appropriate action at a primary or secondary care facility?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary or secondary level, the priority is stabilization (manage airway, breathing, circulation) and urgent referral to tertiary care for further diagnostic workup and definitive management of portal hypertension.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start beta-blocker therapy", "value": "A" },
+	          { "text": "Administer diuretics and discharge home", "value": "B" },
+	          { "text": "Stabilize the patient and refer to tertiary care", "value": "C" },
+	          { "text": "Order a liver biopsy before referring", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "Ascites",
+	      "text": "A 5-year-old presents to a primary care clinic with visible abdominal distension and difficulty breathing. Ascites is suspected. What is the most appropriate next step?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the correct approach to suspected ascites is to stabilize the child and refer to secondary/tertiary care for definitive diagnosis and management. Invasive procedures like paracentesis are not performed at this level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start high-dose diuretics", "value": "A" },
+	          { "text": "Prescribe oral antibiotics and review in one week", "value": "B" },
+	          { "text": "Stabilize the patient and refer to higher-level care", "value": "C" },
+	          { "text": "Perform abdominal paracentesis in the clinic", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

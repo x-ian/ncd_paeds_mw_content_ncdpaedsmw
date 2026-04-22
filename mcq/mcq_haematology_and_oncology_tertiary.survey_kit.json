@@ -1,0 +1,1002 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": { "id": "1" },
+	      "type": "intro",
+	      "title": "Haematology and oncology",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": { "id": "2" },
+	      "type": "question",
+	      "title": "Non-Trauma Bleeding",
+	      "text": "A 6-year-old boy is diagnosed with a factor VIII deficiency (Haemophilia A) after presenting with spontaneous joint bleeding. What is the next most appropriate step in management at tertiary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Once a specific clotting factor deficiency is identified, appropriate factor replacement is the cornerstone of treatment. Counselling the family, including education and discussing genetic implications, is essential at this level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start oral iron supplements and observe", "value": "A" },
+	          { "text": "Refer for bone marrow transplant", "value": "B" },
+	          { "text": "Administer factor VIII concentrate and counsel the family", "value": "C" },
+	          { "text": "Transfuse platelets and discharge", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "3" },
+	      "type": "question",
+	      "title": "Non-Trauma Bleeding",
+	      "text": "In a child diagnosed with a bleeding disorder, what additional evaluation is recommended at the tertiary level to support long-term management?",
+	      "correctAnswer": "C",
+	      "rationale": "Genetic bleeding disorders often warrant family screening. Multidisciplinary management involving haematology, social work, and potentially genetics ensures comprehensive care and support.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Monitor bleeding only during hospital stays", "value": "A" },
+	          { "text": "Discontinue all vaccinations", "value": "B" },
+	          { "text": "Test siblings for similar deficiencies and plan multidisciplinary care", "value": "C" },
+	          { "text": "Repeat blood transfusions monthly regardless of symptoms", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "4" },
+	      "type": "question",
+	      "title": "Haemophilia",
+	      "text": "Which of the following best explains the occurrence of severe haemophilia in females?",
+	      "correctAnswer": "D",
+	      "rationale": "Severe haemophilia in females is rare and typically caused by genetic factors such as X chromosome abnormalities or inheritance from both carrier parents.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increased estrogen levels", "value": "A" },
+	          { "text": "Mild autosomal mutations", "value": "B" },
+	          { "text": "Autoimmune inhibition of factor VIII", "value": "C" },
+	          { "text": "Inheritance of pathogenic variants from both parents or X-chromosome abnormalities", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "5" },
+	      "type": "question",
+	      "title": "Haemophilia",
+	      "text": "Which of the following is the preferred treatment for haemophilia A in a tertiary care setting?",
+	      "correctAnswer": "A",
+	      "rationale": "Factor VIII concentrate is the standard and most effective treatment for haemophilia A in advanced healthcare settings.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Factor VIII concentrate", "value": "A" },
+	          { "text": "Cryoprecipitate", "value": "B" },
+	          { "text": "Fresh frozen plasma", "value": "C" },
+	          { "text": "Desmopressin", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "6" },
+	      "type": "question",
+	      "title": "Haemophilia",
+	      "text": "Which of the following statements is TRUE regarding desmopressin (DDAVP)?",
+	      "correctAnswer": "A",
+	      "rationale": "DDAVP raises FVIII and vWF levels but has no effect on FIX; thus, it is ineffective in haemophilia B.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It is ineffective in haemophilia B because it does not increase Factor IX", "value": "A" },
+	          { "text": "It is used primarily in haemophilia B", "value": "B" },
+	          { "text": "It causes severe immunosuppression", "value": "C" },
+	          { "text": "It is contraindicated in haemophilia A", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "7" },
+	      "type": "question",
+	      "title": "Haemophilia",
+	      "text": "What is the recommended dosing frequency of tranexamic acid in managing bleeding in haemophilia?",
+	      "correctAnswer": "D",
+	      "rationale": "Tranexamic acid is an antifibrinolytic used frequently in mucosal bleeding. Multiple daily doses ensure sustained therapeutic levels.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "10 mg/kg once daily", "value": "A" },
+	          { "text": "25–30 mg/kg once daily", "value": "B" },
+	          { "text": "30–40 mg/kg every 8 hours", "value": "C" },
+	          { "text": "15–25 mg/kg given 3 to 4 times daily", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "8" },
+	      "type": "question",
+	      "title": "Haemophilia",
+	      "text": "Which of the following is TRUE about Emicizumab?",
+	      "correctAnswer": "C",
+	      "rationale": "Emicizumab mimics the function of FVIII and is used for prophylaxis in haemophilia A patients, including those with inhibitors.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It must be administered intravenously", "value": "A" },
+	          { "text": "It is only used in haemophilia B", "value": "B" },
+	          { "text": "It is effective in haemophilia A including patients with FVIII inhibitors", "value": "C" },
+	          { "text": "It directly replaces Factor VIII in the blood", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "9" },
+	      "type": "question",
+	      "title": "Oncological Emergencies",
+	      "text": "What is the recommended timing for initiating IV antibiotics in a child presenting with oncological emergency and suspected infection?",
+	      "correctAnswer": "C",
+	      "rationale": "In oncological emergencies, early broad-spectrum IV antibiotic treatment (ideally within 30 minutes of presentation) is crucial. Delays increase the risk of morbidity and mortality in neutropenic or immunocompromised children.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Within 1 hour of admission", "value": "A" },
+	          { "text": "Only after blood culture results are available", "value": "B" },
+	          { "text": "As early as possible", "value": "C" },
+	          { "text": "After ruling out fungal or viral causes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "10" },
+	      "type": "question",
+	      "title": "Oncological Emergencies",
+	      "text": "Which of the following is the correct initial antibiotic regimen for a pediatric oncology patient with suspected sepsis, according to guidelines?",
+	      "correctAnswer": "B",
+	      "rationale": "The recommended empirical treatment includes IV Benzylpenicillin and IV Gentamicin, with antifungal (Fluconazole) and antiviral (Acyclovir) coverage depending on the case. Modifications are made based on culture results.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral Amoxicillin and Metronidazole", "value": "A" },
+	          { "text": "IV Benzylpenicillin and Gentamicin, with Fluconazole ± Acyclovir", "value": "B" },
+	          { "text": "IV Ceftriaxone only", "value": "C" },
+	          { "text": "IV Vancomycin + Meropenem", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "11" },
+	      "type": "question",
+	      "title": "Oncological Emergencies",
+	      "text": "What is the primary purpose of doing a Full Blood Count in a child with oncological emergency?",
+	      "correctAnswer": "C",
+	      "rationale": "FBC is essential in oncological emergencies to assess neutropenia, which guides urgency and intensity of treatment, especially antibiotic administration.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To evaluate for viral infections", "value": "A" },
+	          { "text": "To determine blood group before transfusion", "value": "B" },
+	          { "text": "To assess the degree of neutropenia", "value": "C" },
+	          { "text": "To calculate hydration status", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "12" },
+	      "type": "question",
+	      "title": "Tumour Lysis Syndrome",
+	      "text": "Which of the following medications acts by converting uric acid into a more soluble compound and is preferred for rapid reduction in severe tumour lysis syndrome?",
+	      "correctAnswer": "B",
+	      "rationale": "Rasburicase directly degrades uric acid into allantoin and is more effective for acute TLS than allopurinol, which only blocks new uric acid formation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Allopurinol", "value": "A" },
+	          { "text": "Rasburicase", "value": "B" },
+	          { "text": "Sodium bicarbonate", "value": "C" },
+	          { "text": "Calcium gluconate", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "13" },
+	      "type": "question",
+	      "title": "Tumour Lysis Syndrome",
+	      "text": "What is the target urine output in TLS management using hyperhydration protocols?",
+	      "correctAnswer": "C",
+	      "rationale": "High urine output is critical to flush metabolites; hence, fluid therapy targets 100 mL/m²/hour urine output.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "30 mL/kg/hour", "value": "A" },
+	          { "text": "50 mL/hour", "value": "B" },
+	          { "text": "100 mL/m²/hour", "value": "C" },
+	          { "text": "1 mL/kg/hour", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "14" },
+	      "type": "question",
+	      "title": "Tumour Lysis Syndrome",
+	      "text": "Which of the following is NOT appropriate in the initial management of hyperkalaemia in TLS?",
+	      "correctAnswer": "B",
+	      "rationale": "Administering potassium is contraindicated in TLS where hyperkalaemia is a core issue.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Nebulised salbutamol", "value": "A" },
+	          { "text": "IV potassium chloride", "value": "B" },
+	          { "text": "IV insulin and dextrose", "value": "C" },
+	          { "text": "Calcium gluconate", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "15" },
+	      "type": "question",
+	      "title": "Tumour Lysis Syndrome",
+	      "text": "In TLS, when should calcium be given for hypocalcaemia?",
+	      "correctAnswer": "B",
+	      "rationale": "Treating hypocalcaemia while phosphate is still high risks calcium-phosphate precipitation and organ damage.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Always give regardless of symptoms", "value": "A" },
+	          { "text": "Only if symptomatic and hyperphosphatemia is corrected", "value": "B" },
+	          { "text": "Only if phosphorus levels are low", "value": "C" },
+	          { "text": "Only in combination with insulin and glucose", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "16" },
+	      "type": "question",
+	      "title": "Tumour Lysis Syndrome",
+	      "text": "Which of the following is NOT an indication for dialysis in TLS?",
+	      "correctAnswer": "C",
+	      "rationale": "Asymptomatic hypocalcaemia does not require dialysis. Symptomatic and complex biochemical derangements do.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Severe oliguria", "value": "A" },
+	          { "text": "Persistent hyperkalaemia", "value": "B" },
+	          { "text": "Asymptomatic hypocalcaemia", "value": "C" },
+	          { "text": "Intractable fluid overload", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "17" },
+	      "type": "question",
+	      "title": "Spinal Cord Compression",
+	      "text": "Which of the following is the appropriate initial dose of dexamethasone for a child with spinal cord compression at the tertiary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "High-dose dexamethasone is initiated immediately to reduce inflammation and spinal cord edema. Continued dosing every hour helps maintain the anti-inflammatory effect.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "0.5 mg/kg once daily", "value": "A" },
+	          { "text": "1–2 mg/kg stat", "value": "B" },
+	          { "text": "2 mg/kg every 12 hours", "value": "C" },
+	          { "text": "1 mg/kg/day divided into 3 doses", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "18" },
+	      "type": "question",
+	      "title": "Spinal Cord Compression",
+	      "text": "What complication should be closely monitored in a child with spinal cord compression secondary to malignancy such as Burkitt’s lymphoma?",
+	      "correctAnswer": "C",
+	      "rationale": "Rapid cell lysis in hematological malignancies like Burkitt’s lymphoma can lead to TLS, a life-threatening metabolic complication.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Diabetic ketoacidosis", "value": "A" },
+	          { "text": "Sepsis", "value": "B" },
+	          { "text": "Tumour lysis syndrome", "value": "C" },
+	          { "text": "Hepatic encephalopathy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "19" },
+	      "type": "question",
+	      "title": "Spinal Cord Compression",
+	      "text": "Which of the following is an appropriate next step in managing spinal cord compression with confirmed epidural mass at the tertiary level?",
+	      "correctAnswer": "A",
+	      "rationale": "Epidural masses causing compression require urgent decompression—either surgically or via radiotherapy—to prevent permanent neurological deficits.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Surgical decompression or radiotherapy", "value": "A" },
+	          { "text": "Oral steroids and discharge", "value": "B" },
+	          { "text": "Lumbar puncture to reduce pressure", "value": "C" },
+	          { "text": "Anticoagulation to prevent venous thrombosis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "20" },
+	      "type": "question",
+	      "title": "Superior Vena Cava Compressions Syndrome",
+	      "text": "Which of the following medications should be started empirically in a child with suspected SVC compression while awaiting oncologic diagnosis?",
+	      "correctAnswer": "B",
+	      "rationale": "Empirical steroids (prednisolone 2 mg/kg/day in two doses) help reduce tumour mass compressing the SVC, and allopurinol (10 mg/kg/day in 3 doses) prevents tumour lysis complications before chemotherapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Furosemide and rasburicase", "value": "A" },
+	          { "text": "Prednisolone and allopurinol", "value": "B" },
+	          { "text": "Morphine and dexamethasone", "value": "C" },
+	          { "text": "Vancomycin and hydrocortisone", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "21" },
+	      "type": "question",
+	      "title": "Superior Vena Cava Compressions Syndrome",
+	      "text": "In managing a child with Superior Vena Cava Syndrome due to a mediastinal mass, why is early consultation with an oncologist essential, even if empirical treatment has already started?",
+	      "correctAnswer": "C",
+	      "rationale": "While empirical steroids and supportive care are initiated early, targeted chemotherapy requires oncologic input based on tumour type (e.g. lymphoma, leukemia). Early consultation ensures appropriate and timely treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Because steroids alone are usually curative in SVC syndrome", "value": "A" },
+	          { "text": "To ensure timely administration of radiotherapy before chemotherapy", "value": "B" },
+	          { "text": "To guide specific chemotherapy based on underlying tumour type", "value": "C" },
+	          { "text": "Because surgical decompression is the only effective treatment", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "22" },
+	      "type": "question",
+	      "title": "Hyperleukocytosis",
+	      "text": "Which of the following interventions should be AVOIDED in the initial management of hyperleukocytosis due to risk of increased blood viscosity?",
+	      "correctAnswer": "B",
+	      "rationale": "Packed RBC transfusions increase blood viscosity, worsening leukostasis and organ perfusion risks. Avoid unless absolutely necessary.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administering platelet transfusions when count is <20,000/µL", "value": "A" },
+	          { "text": "Transfusion of packed red blood cells", "value": "B" },
+	          { "text": "Hyperhydration with IV fluids", "value": "C" },
+	          { "text": "Use of allopurinol or rasburicase", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "23" },
+	      "type": "question",
+	      "title": "Hyperleukocytosis",
+	      "text": "What is the most appropriate fluid management strategy for a child with hyperleukocytosis?",
+	      "correctAnswer": "C",
+	      "rationale": "Hyperhydration helps prevent tumor lysis-related renal failure. Potassium-containing fluids must be avoided due to TLS risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Maintenance IV fluids with added potassium", "value": "A" },
+	          { "text": "Oral rehydration therapy with glucose solution", "value": "B" },
+	          { "text": "IV normal saline with 5% dextrose at twice the maintenance rate", "value": "C" },
+	          { "text": "IV fluids restricted to avoid fluid overload", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "24" },
+	      "type": "question",
+	      "title": "Hyperleukocytosis",
+	      "text": "A child with hyperleukocytosis has a urine output of 0.4 mL/kg/hour. What is the best next step?",
+	      "correctAnswer": "C",
+	      "rationale": "Adequate urine output is critical to manage TLS and prevent renal complications. Maintaining 1–2 mL/kg/hour is the target.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Reduce fluid rate to prevent overload", "value": "A" },
+	          { "text": "Start packed red cell transfusion", "value": "B" },
+	          { "text": "Adjust fluids to achieve 1–2 mL/kg/hour urine output", "value": "C" },
+	          { "text": "Administer corticosteroids immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "25" },
+	      "type": "question",
+	      "title": "Wilms Tumour / Nephroblastoma",
+	      "text": "Which of the following best represents the definitive treatment approach for Wilms Tumour at the tertiary level?",
+	      "correctAnswer": "C",
+	      "rationale": "The definitive treatment for Wilms Tumour at the tertiary level includes chemotherapy and surgical resection of the tumor. Radiotherapy may be added depending on the stage and histological subtype.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Intravenous antibiotics and nutritional therapy", "value": "A" },
+	          { "text": "Observation and supportive care only", "value": "B" },
+	          { "text": "Chemotherapy, surgery, with or without radiotherapy", "value": "C" },
+	          { "text": "High-dose corticosteroids and pain management", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "26" },
+	      "type": "question",
+	      "title": "Retinoblastoma",
+	      "text": "What is the primary goal of treatment in children diagnosed with retinoblastoma?",
+	      "correctAnswer": "C",
+	      "rationale": "The foremost aim in retinoblastoma treatment is to save the child’s life, especially in advanced or extraocular disease. Vision preservation is a secondary goal where feasible.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Preservation of vision in both eyes", "value": "A" },
+	          { "text": "Minimization of chemotherapy side effects", "value": "B" },
+	          { "text": "Preservation of life", "value": "C" },
+	          { "text": "Avoidance of radiotherapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "27" },
+	      "type": "question",
+	      "title": "Retinoblastoma",
+	      "text": "Which of the following chemotherapy regimens is typically used for extraocular retinoblastoma?",
+	      "correctAnswer": "C",
+	      "rationale": "For extraocular retinoblastoma, six cycles of chemotherapy (pre- and post-enucleation) are typically used, involving drugs such as vincristine, etoposide, and carboplatin.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Two cycles of vincristine and etoposide", "value": "A" },
+	          { "text": "Four cycles of carboplatin alone", "value": "B" },
+	          { "text": "Six cycles—three preoperative and three postoperative", "value": "C" },
+	          { "text": "Weekly cisplatin and methotrexate", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "28" },
+	      "type": "question",
+	      "title": "Retinoblastoma",
+	      "text": "Which surgical procedure is typically performed when there is no chance of preserving vision in the affected eye?",
+	      "correctAnswer": "A",
+	      "rationale": "Enucleation involves removing the affected eye and is the mainstay surgery for advanced intraocular retinoblastoma when vision cannot be saved.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Enucleation", "value": "A" },
+	          { "text": "Exenteration", "value": "B" },
+	          { "text": "Cryotherapy", "value": "C" },
+	          { "text": "Photocoagulation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "29" },
+	      "type": "question",
+	      "title": "Retinoblastoma",
+	      "text": "In which of the following cases is external beam radiation therapy (EBRT) most appropriate for retinoblastoma?",
+	      "correctAnswer": "B",
+	      "rationale": "EBRT is reserved for complex cases such as vitreous seeding, progression despite chemo-reduction, or tumour extension beyond the optic nerve margin.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Localized small anterior tumour", "value": "A" },
+	          { "text": "Tumour progression during chemo-reduction", "value": "B" },
+	          { "text": "Tumours fully responsive to cryotherapy", "value": "C" },
+	          { "text": "All intraocular tumours at diagnosis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "30" },
+	      "type": "question",
+	      "title": "Retinoblastoma",
+	      "text": "Which treatment is best suited for a small anteriorly located tumour in retinoblastoma?",
+	      "correctAnswer": "B",
+	      "rationale": "Cryotherapy is effective for treating small tumours located anteriorly by inducing tumour necrosis via freezing.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Radioactive plaques", "value": "A" },
+	          { "text": "Cryotherapy", "value": "B" },
+	          { "text": "External beam radiation", "value": "C" },
+	          { "text": "Enucleation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "31" },
+	      "type": "question",
+	      "title": "Lymphoma",
+	      "text": "Which of the following is the most appropriate initial approach for performing procedures in a child with a mediastinal mass?",
+	      "correctAnswer": "C",
+	      "rationale": "Children with mediastinal masses are at high risk of airway or cardiovascular collapse in the supine position. Procedures like imaging or biopsies should be performed in side-lying or prone positions to mitigate this risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Perform all procedures under general anesthesia", "value": "A" },
+	          { "text": "Proceed with CT scans and BMAT in supine position", "value": "B" },
+	          { "text": "Perform procedures in lateral or prone position to reduce risk of airway collapse", "value": "C" },
+	          { "text": "Delay all procedures until complete chemotherapy is initiated", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "32" },
+	      "type": "question",
+	      "title": "Lymphoma",
+	      "text": "A child with lymphoma is at risk of tumour lysis syndrome. Which of the following is an appropriate component of prevention and management?",
+	      "correctAnswer": "C",
+	      "rationale": "Preventing tumour lysis syndrome involves aggressive IV hydration with potassium-free fluids, as potassium release from lysed cells can cause dangerous hyperkalemia.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer potassium-rich IV fluids", "value": "A" },
+	          { "text": "Delay hydration until diagnosis is confirmed", "value": "B" },
+	          { "text": "Provide vigorous IV hydration with potassium-free fluids", "value": "C" },
+	          { "text": "Withhold allopurinol until uric acid levels are elevated", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "33" },
+	      "type": "question",
+	      "title": "Lymphoma",
+	      "text": "Which of the following is a key early management step in a child with suspected spinal cord compression due to lymphoma?",
+	      "correctAnswer": "B",
+	      "rationale": "Early steroid administration (e.g., dexamethasone) helps reduce inflammation and spinal cord compression. Neurological status must be closely monitored.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Immediate surgical decompression", "value": "A" },
+	          { "text": "Dexamethasone administration followed by close neurological monitoring", "value": "B" },
+	          { "text": "Delay treatment until MRI confirms the diagnosis", "value": "C" },
+	          { "text": "Lumbar puncture to relieve spinal pressure", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "34" },
+	      "type": "question",
+	      "title": "Lymphoma",
+	      "text": "Which of the following is TRUE regarding initiation of chemotherapy in children with lymphoma at the tertiary level?",
+	      "correctAnswer": "C",
+	      "rationale": "A low-dose pre-phase helps reduce tumour burden safely before initiating aggressive multi-agent chemotherapy. CNS-directed therapy is part of standard protocols, not limited to relapse.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "High-dose chemotherapy should be given immediately without pre-phase", "value": "A" },
+	          { "text": "Chemotherapy should be delayed until biopsy results return", "value": "B" },
+	          { "text": "Treatment begins with a low-dose pre-phase followed by multi-agent high-dose therapy", "value": "C" },
+	          { "text": "CNS-directed therapy is only indicated in relapsed disease", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "35" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "Which of the following is an indication for escalating the dose of hydroxyurea in a child with SCD already on treatment?",
+	      "correctAnswer": "B",
+	      "rationale": "Stroke is a clear indication for hydroxyurea dose escalation up to the tolerated maximum, per guidelines.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "One mild pain crisis in past year", "value": "A" },
+	          { "text": "Cerebral vascular accident (stroke)", "value": "B" },
+	          { "text": "Stable transcranial Doppler <170 cm/sec", "value": "C" },
+	          { "text": "MCV below 100", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "36" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "When escalating hydroxyurea, what is the maximum allowed increase in dose at each step?",
+	      "correctAnswer": "C",
+	      "rationale": "Escalation must be slow and safe—no more than 5 mg/kg/day every 8 weeks.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "2.5 mg/kg/day every 4 weeks", "value": "A" },
+	          { "text": "10 mg/kg/day every 6 weeks", "value": "B" },
+	          { "text": "5 mg/kg/day every 8 weeks", "value": "C" },
+	          { "text": "1 mg/kg/day weekly", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "37" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "Before escalating hydroxyurea, what lab value confirms sufficient marrow response?",
+	      "correctAnswer": "C",
+	      "rationale": "MCV ≥100 reflects effective marrow response and is used as a surrogate for adherence.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hb >10 g/dL", "value": "A" },
+	          { "text": "Platelets >500,000", "value": "B" },
+	          { "text": "MCV ≥100", "value": "C" },
+	          { "text": "Creatinine above baseline", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "38" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A child with SCD presents with seizures and right-sided weakness. What is the preferred transfusion approach if Hb is 9 g/dL?",
+	      "correctAnswer": "D",
+	      "rationale": "If Hb >8 g/dL and stroke present, exchange transfusion reduces HbS without causing hyperviscosity.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Simple transfusion", "value": "A" },
+	          { "text": "No transfusion needed", "value": "B" },
+	          { "text": "Iron therapy", "value": "C" },
+	          { "text": "Manual red cell exchange", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "39" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "When managing stroke in a child with Hb = 6.5 g/dL, the best immediate transfusion approach is:",
+	      "correctAnswer": "B",
+	      "rationale": "For Hb ≤8 g/dL and stroke, a simple transfusion is indicated—goal Hb = 10 g/dL.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "IV fluids and paracetamol", "value": "A" },
+	          { "text": "Simple transfusion to reach 10 g/dL", "value": "B" },
+	          { "text": "Defer transfusion until CT is done", "value": "C" },
+	          { "text": "Iron tablets", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "40" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A painful crisis without fever in SCD should be managed with:",
+	      "correctAnswer": "C",
+	      "rationale": "Uncomplicated pain crisis doesn’t require antibiotics or transfusion unless other symptoms arise.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Broad-spectrum antibiotics", "value": "A" },
+	          { "text": "Simple transfusion", "value": "B" },
+	          { "text": "Analgesia and hydration only", "value": "C" },
+	          { "text": "Corticosteroids", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "41" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "In a patient with suspected osteomyelitis, x-ray imaging is best done:",
+	      "correctAnswer": "C",
+	      "rationale": "X-ray changes of osteomyelitis may not appear for 10–14 days. Delay imaging until after analgesia trial fails.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Immediately at onset of pain", "value": "A" },
+	          { "text": "After 3–5 hours of fever", "value": "B" },
+	          { "text": "After 48–72 hours if symptoms persist", "value": "C" },
+	          { "text": "After 1 week of antibiotics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "42" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A 3-year-old with SCD presents with pallor, splenomegaly, and Hb drop from 9 → 5 g/dL. What is the immediate action?",
+	      "correctAnswer": "B",
+	      "rationale": "This is splenic sequestration, a life-threatening emergency requiring urgent transfusion and monitoring.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral iron and paracetamol", "value": "A" },
+	          { "text": "Admit, blood transfusion, close monitoring", "value": "B" },
+	          { "text": "Send home with antibiotics", "value": "C" },
+	          { "text": "Observe for 24 hours at OPD", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "43" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "During transfusion for splenic sequestration, why must volume be carefully controlled?",
+	      "correctAnswer": "C",
+	      "rationale": "Sudden release of pooled blood after transfusion may raise Hb rapidly and increase viscosity risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To avoid dehydration", "value": "A" },
+	          { "text": "To promote splenic contraction", "value": "B" },
+	          { "text": "To prevent hyperviscosity from pooled blood release", "value": "C" },
+	          { "text": "To avoid fever", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "44" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "How frequently should vitals be monitored during acute splenic sequestration?",
+	      "correctAnswer": "C",
+	      "rationale": "Frequent monitoring is essential due to risk of rapid decompensation and shock.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Every 1 hour", "value": "A" },
+	          { "text": "Every 6 hours", "value": "B" },
+	          { "text": "Every 30 minutes", "value": "C" },
+	          { "text": "Twice a day", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "45" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A 13-year-old with SCD presents with 2-hour priapism. First-line management includes:",
+	      "correctAnswer": "C",
+	      "rationale": "Early management focuses on hydration, warm compresses, pain relief—before escalation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Emergency surgery", "value": "A" },
+	          { "text": "Blood transfusion immediately", "value": "B" },
+	          { "text": "IV fluids + oral hydration + warm compress", "value": "C" },
+	          { "text": "Steroids", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "46" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "What is the preferred pharmacologic intervention if priapism does not resolve after 2 hours?",
+	      "correctAnswer": "C",
+	      "rationale": "If early measures fail, oral alpha-agonist like pseudoephedrine can relieve stuttering priapism.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral paracetamol", "value": "A" },
+	          { "text": "Antibiotics", "value": "B" },
+	          { "text": "Pseudoephedrine 0.5mg/kg for 3 days", "value": "C" },
+	          { "text": "Penile injection of adrenaline", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "47" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A child with persistent priapism >4–6 hours and turbid glans penis may require:",
+	      "correctAnswer": "B",
+	      "rationale": "In this case, corpus spongiosum is affected and a dorsal vein–corpora cavernosa shunt is needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "IV iron", "value": "A" },
+	          { "text": "Surgical shunt procedure", "value": "B" },
+	          { "text": "Oral folic acid", "value": "C" },
+	          { "text": "Oral penicillin", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "48" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "In a boy with priapism, which clinical sign suggests no shunt is needed?",
+	      "correctAnswer": "B",
+	      "rationale": "If glans is soft and no retention, spongiosum is unaffected; a shunt isn’t needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Fever and fatigue", "value": "A" },
+	          { "text": "Soft glans and no urinary retention", "value": "B" },
+	          { "text": "Pain on urination", "value": "C" },
+	          { "text": "Cyanosis of lips", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "49" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "In children with severe acute malnutrition requiring transfusion, how should blood be administered?",
+	      "correctAnswer": "B",
+	      "rationale": "In SAM, fluid overload is dangerous. Limit to 10 mL/kg and avoid transfusing more than 20 mL/kg in 4 days.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "20 mL/kg over 1 hour", "value": "A" },
+	          { "text": "10 mL/kg of packed cells slowly, avoid >20 mL/kg in 4 days", "value": "B" },
+	          { "text": "Oral iron first, then transfusion", "value": "C" },
+	          { "text": "Rapid transfusion over 30 minutes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "50" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "What clinical feature would prompt transfusion in a child with Hb = 5.2 g/dL and Hct = 15%?",
+	      "correctAnswer": "C",
+	      "rationale": "Children with moderate anaemia (Hb 4–6 g/dL) require transfusion if clinical signs of severity are present.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "No symptoms", "value": "A" },
+	          { "text": "Fever only", "value": "B" },
+	          { "text": "Shock or deep laboured breathing", "value": "C" },
+	          { "text": "Itching and vomiting", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "51" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A 9-year-old girl presents with anaemia and heavy menstruation. What is the next best step?",
+	      "correctAnswer": "B",
+	      "rationale": "Menorrhagia is a common cause of iron-deficiency anaemia and needs further evaluation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start IV fluids", "value": "A" },
+	          { "text": "Refer for gynaecological evaluation", "value": "B" },
+	          { "text": "Start erythropoietin", "value": "C" },
+	          { "text": "Begin antibiotics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "52" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A child was started on ferrous sulphate but shows poor tolerance. What’s the next best step?",
+	      "correctAnswer": "C",
+	      "rationale": "If one oral iron form is not tolerated, switch to another (e.g., ferrous gluconate).",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stop iron entirely", "value": "A" },
+	          { "text": "Switch to injectable iron", "value": "B" },
+	          { "text": "Try a different oral iron preparation", "value": "C" },
+	          { "text": "Repeat FBC immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "53" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A neonate presents with pallor, hypotension, and Hb = 2.8 g/dL. What is the immediate management?",
+	      "correctAnswer": "B",
+	      "rationale": "Severely affected neonates with haemorrhage and very low Hb require transfusion urgently.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral iron", "value": "A" },
+	          { "text": "Blood transfusion", "value": "B" },
+	          { "text": "Iron-rich diet", "value": "C" },
+	          { "text": "Fluid resuscitation only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "54" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "What lab finding suggests intrauterine haemorrhage in neonatal anaemia?",
+	      "correctAnswer": "B",
+	      "rationale": "Nucleated RBCs reflect fetal response to blood loss and are commonly raised in neonatal haemorrhage.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "High MCV", "value": "A" },
+	          { "text": "Nucleated red blood cells", "value": "B" },
+	          { "text": "Normal bilirubin", "value": "C" },
+	          { "text": "Low platelet count", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "55" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "Which test is appropriate when congenital syphilis is suspected as a cause of neonatal anaemia?",
+	      "correctAnswer": "C",
+	      "rationale": "Congenital infection should be ruled out by testing both mother and neonate for syphilis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Maternal Hb electrophoresis", "value": "A" },
+	          { "text": "Blood culture only", "value": "B" },
+	          { "text": "Syphilis test for both mother and child", "value": "C" },
+	          { "text": "G6PD screen", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "56" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "Which finding supports a diagnosis of severe aplastic anaemia?",
+	      "correctAnswer": "A",
+	      "rationale": "Severe aplastic anaemia is defined by marrow cellularity <25% plus ≥2 cytopenias (including platelets <20k and neutrophils <500).",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Platelet count = 15,000/μL and granulocyte count = 300/μL", "value": "A" },
+	          { "text": "Reticulocyte count = 45,000/μL", "value": "B" },
+	          { "text": "Hb = 10 g/dL and WBC = normal", "value": "C" },
+	          { "text": "Bone marrow cellularity = 40%", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "57" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A child with pancytopenia and no hepatosplenomegaly or lymphadenopathy most likely has:",
+	      "correctAnswer": "B",
+	      "rationale": "Aplastic anaemia often lacks lymphadenopathy or organomegaly—differentiating it from leukaemia.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Leukaemia", "value": "A" },
+	          { "text": "Aplastic anaemia", "value": "B" },
+	          { "text": "Malaria", "value": "C" },
+	          { "text": "Iron-deficiency anaemia", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "58" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A child has a family history of early bone marrow failure and congenital anomalies. Which condition is likely?",
+	      "correctAnswer": "C",
+	      "rationale": "IBMFS are associated with family history, physical anomalies, and progressive marrow failure.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Sickle cell disease", "value": "A" },
+	          { "text": "Acute leukaemia", "value": "B" },
+	          { "text": "Inherited bone marrow failure syndrome", "value": "C" },
+	          { "text": "Iron-deficiency anaemia", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "59" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "Which of the following is an indication to refer anaemia to a haematologist at tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Neonatal anaemias, especially with uncertain or pathological causes, require specialist review.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Anaemia responding to oral iron after 2 weeks", "value": "A" },
+	          { "text": "Neonatal anaemia due to twin-to-twin transfusion", "value": "B" },
+	          { "text": "Hb = 9.2 with normal MCV", "value": "C" },
+	          { "text": "Mild anaemia in malaria-endemic region", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

@@ -1,0 +1,187 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": { "id": "1" },
+	      "type": "intro",
+	      "title": "Haematology and oncology",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": { "id": "2" },
+	      "type": "question",
+	      "title": "Spinal Cord Compression",
+	      "text": "What is the most appropriate first step in managing a child with suspected spinal cord compression at the primary level?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, stabilizing vital functions (ABCs) is the immediate priority before further interventions or referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer intramuscular corticosteroids immediately", "value": "A" },
+	          { "text": "Observe for 24 hours before referral", "value": "B" },
+	          { "text": "Secure airway, breathing, and circulation", "value": "C" },
+	          { "text": "Start physiotherapy to prevent paralysis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "3" },
+	      "type": "question",
+	      "title": "Spinal Cord Compression",
+	      "text": "Which intravenous fluid is appropriate to initiate in a child with suspected spinal cord compression at the primary care level?",
+	      "correctAnswer": "D",
+	      "rationale": "This combination helps support perfusion and glucose needs while awaiting definitive care at a higher-level facility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Ringer's lactate", "value": "A" },
+	          { "text": "5% Dextrose only", "value": "B" },
+	          { "text": "Half-strength Darrow’s", "value": "C" },
+	          { "text": "Normal saline plus 5% dextrose", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "4" },
+	      "type": "question",
+	      "title": "Superior Vena Cava Compressions Syndrome",
+	      "text": "What is the most appropriate patient position for a child suspected of having Superior Vena Cava (SVC) Compression Syndrome?",
+	      "correctAnswer": "B",
+	      "rationale": "Lying flat can worsen respiratory distress in SVC syndrome. Elevating the upper body improves venous drainage and reduces upper body congestion.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Prone position", "value": "A" },
+	          { "text": "Sitting at a 45° angle", "value": "B" },
+	          { "text": "Supine position with legs elevated", "value": "C" },
+	          { "text": "Trendelenburg position", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "5" },
+	      "type": "question",
+	      "title": "Superior Vena Cava Compressions Syndrome",
+	      "text": "A child presents with facial swelling, distended neck veins, and difficulty breathing. What is the most appropriate next step after securing the airway, breathing, and circulation?",
+	      "correctAnswer": "B",
+	      "rationale": "Tertiary care is needed for imaging, diagnosis, and definitive treatment (e.g., chemotherapy, surgery, or radiotherapy). Early referral prevents delays in life-saving interventions.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start IV furosemide", "value": "A" },
+	          { "text": "Refer urgently to a tertiary centre", "value": "B" },
+	          { "text": "Administer high-dose steroids immediately", "value": "C" },
+	          { "text": "Place the child in a supine position", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "6" },
+	      "type": "question",
+	      "title": "Hyperleukocytosis",
+	      "text": "What is the most appropriate initial fluid management for a child with suspected hyperleukocytosis at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "In the primary care setting, it is critical to initiate supportive care promptly. Starting IV Normal Saline ensures hydration while avoiding potassium-containing fluids, which could worsen metabolic complications in hyperleukocytosis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start IV 5% Dextrose with potassium", "value": "A" },
+	          { "text": "Start IV Normal Saline and add potassium chloride", "value": "B" },
+	          { "text": "Start IV Normal Saline and avoid potassium-containing fluids", "value": "C" },
+	          { "text": "Delay fluids until lab confirmation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "7" },
+	      "type": "question",
+	      "title": "Wilms Tumour / Nephroblastoma",
+	      "text": "Which of the following is the most appropriate primary care approach for a child with suspected Wilms tumour (nephroblastoma)?",
+	      "correctAnswer": "C",
+	      "rationale": "In primary care, the role is limited to suspecting the diagnosis, providing initial counselling to the family, and ensuring prompt referral to higher-level facilities for confirmation and further management. Delay in referral may worsen outcomes.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start chemotherapy immediately at the primary care level", "value": "A" },
+	          { "text": "Perform abdominal ultrasound to confirm the diagnosis", "value": "B" },
+	          { "text": "Provide appropriate counselling and refer the patient early", "value": "C" },
+	          { "text": "Observe the patient for 2 weeks before making a referral", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "8" },
+	      "type": "question",
+	      "title": "Retinoblastoma",
+	      "text": "What is the most appropriate next step at the primary level when a child presents with leukocoria (white pupillary reflex)?",
+	      "correctAnswer": "B",
+	      "rationale": "At the primary level, a child with suspected retinoblastoma (e.g., leukocoria) must be urgently referred after counselling and discussion with an ophthalmologist at a secondary facility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start topical antibiotics and monitor for improvement", "value": "A" },
+	          { "text": "Counsel the caregiver, discuss with ophthalmology", "value": "B" },
+	          { "text": "Prescribe vitamin A and review in two weeks", "value": "C" },
+	          { "text": "Reassure the family and advise regular eye checks", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "9" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "Which of the following is the most appropriate first-line action in a child presenting with a sickle cell pain crisis at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the immediate goal in managing a sickle cell crisis is to relieve pain and address any infections, which are common triggers. More advanced interventions are managed at higher levels of care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin chemotherapy immediately", "value": "A" },
+	          { "text": "Refer directly to tertiary care without treatment", "value": "B" },
+	          { "text": "Manage pain and treat underlying infections", "value": "C" },
+	          { "text": "Perform a bone marrow transplant", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "10" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "Which of the following is an appropriate step in managing anaemia at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, management is supportive and focuses on treating common reversible causes like infections and parasitic infestations. Blood transfusion and advanced diagnostics require referral to a higher level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start blood transfusion immediately", "value": "A" },
+	          { "text": "Prescribe long-term iron without investigation", "value": "B" },
+	          { "text": "Treat underlying infections or parasites", "value": "C" },
+	          { "text": "Perform bone marrow biopsy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "11" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "Which haemoglobin (Hb) level defines anaemia in children under 6 years old according to the guideline?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline defines anaemia in young children as Hb <9.3 g/dL (roughly Hct <27%).",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "<10.5 g/dL", "value": "A" },
+	          { "text": "<9.3 g/dL", "value": "B" },
+	          { "text": "<11.0 g/dL", "value": "C" },
+	          { "text": "<8.0 g/dL", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

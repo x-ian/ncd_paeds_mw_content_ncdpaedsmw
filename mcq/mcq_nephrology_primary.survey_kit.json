@@ -1,0 +1,304 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Nephrology",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "ACUTE KIDNEY INJURY (AKI)",
+	      "text": "Which of the following clinical features in a child should prompt immediate referral to secondary care for possible acute kidney injury?",
+	      "correctAnswer": "B",
+	      "rationale": "At the primary level, the presence of any of these signs—swelling, high BP, abnormal urine findings, or reduced urine output (oedema and hypertension, hematuria, proteinuria, or oliguria/anuria) —suggests potential AKI. Early referral is essential to prevent complications.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Polyuria and low blood pressure", "value": "A" },
+	          { "text": "Oedema and hypertension", "value": "B" },
+	          { "text": "Mild abdominal pain and low-grade fever", "value": "C" },
+	          { "text": "Constipation and perioral rash", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Chronic Kidney Disease (CKD)",
+	      "text": "Which of the following clinical features in a child should raise suspicion of chronic kidney disease and prompt referral to secondary care?",
+	      "correctAnswer": "C",
+	      "rationale": "Features like chronic anaemia, polyuria, and poor growth (failure to thrive) are red flags for chronic kidney disease (CKD). Early recognition and referral from primary level are crucial to prevent complications.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mild cough and runny nose", "value": "A" },
+	          { "text": "Acute onset of itchy rash without systemic signs", "value": "B" },
+	          { "text": "Chronic anaemia, polyuria, and failure to thrive", "value": "C" },
+	          { "text": "Isolated abdominal colic with normal growth", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "A 6-year-old presents with facial puffiness and reduced urine output. Urinalysis shows proteinuria. Which of the following findings most clearly indicates the need for referral to secondary care?",
+	      "correctAnswer": "C",
+	      "rationale": "Nephrotic-range proteinuria (≥3+ on dipstick) is a hallmark of nephrotic syndrome and warrants referral to secondary care for confirmation and treatment. Lesser degrees of proteinuria may be transient or physiologic and don’t necessarily require urgent referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Trace proteinuria with normal blood pressure and no edema", "value": "A" },
+	          { "text": "2+ proteinuria with mild lower limb swelling after exercise", "value": "B" },
+	          { "text": "≥3+ proteinuria on dipstick, with or without edema", "value": "C" },
+	          { "text": "1+ proteinuria with history of recent fever and upper respiratory infection", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "A 9-year-old presents with facial puffiness, elevated blood pressure, and decreased urine output. You suspect nephritic syndrome. What is the most appropriate initial step at the primary level?",
+	      "correctAnswer": "D",
+	      "rationale": "In a child with suspected nephritic syndrome and fluid overload, administer frusemide (1–2 mg/kg) stat while beginning ABCDE stabilization.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start corticosteroids and observe for 48 hours", "value": "A" },
+	          { "text": "Begin dialysis immediately", "value": "B" },
+	          { "text": "Refer after 72 hours of monitoring", "value": "C" },
+	          { "text": "Administer frusemide and initiate ABCDE management", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "Which of the following symptoms should prompt referral to secondary care in a child with suspected glomerulonephritis?",
+	      "correctAnswer": "B",
+	      "rationale": "The triad of edema, hypertension, and hematuria is characteristic of nephritic syndrome, requiring urgent referral to secondary care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mild fever and cough", "value": "A" },
+	          { "text": "Edema, hypertension, and hematuria", "value": "B" },
+	          { "text": "Polyuria and polydipsia only", "value": "C" },
+	          { "text": "Sore throat and fatigue", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "HAEMOLYTIC URAEMIC SYNDROME (HUS)",
+	      "text": "What is the most appropriate action at the primary care level for a child suspected to have Haemolytic Uraemic Syndrome (HUS)?",
+	      "correctAnswer": "B",
+	      "rationale": "At the primary care level, the priority in suspected HUS is to stabilize the child using ABCDE and refer promptly to a higher level of care. Other interventions, including dialysis or disease-specific therapy, are not appropriate at this stage.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start corticosteroids immediately", "value": "A" },
+	          { "text": "Stabilize the patient using the ABCDE approach and refer", "value": "B" },
+	          { "text": "Initiate peritoneal dialysis", "value": "C" },
+	          { "text": "Begin iron supplementation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "HYPERNATRAEMIA",
+	      "text": "Which of the following is the most appropriate initial fluid for intravenous maintenance in a child with suspected hypernatraemia at primary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Ringer’s lactate or 0.9% normal saline is recommended as initial maintenance fluid before referral. Hypotonic or hypertonic fluids are contraindicated at this stage.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "0.45% Saline", "value": "A" },
+	          { "text": "5% Dextrose", "value": "B" },
+	          { "text": "Ringer’s lactate", "value": "C" },
+	          { "text": "3% Hypertonic Saline", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "HYPERNATRAEMIA",
+	      "text": "A child presents with vomiting, diarrhoea, and signs of severe dehydration. What is the most appropriate action at primary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Severe dehydration and vomiting require IV fluid initiation (Ringer’s lactate or 0.9% saline) and urgent referral to a higher-level facility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start Plan A oral rehydration therapy", "value": "A" },
+	          { "text": "Insert IV line and refer after initiating maintenance fluid", "value": "B" },
+	          { "text": "Give home fluids and reassess in 24 hours", "value": "C" },
+	          { "text": "Administer antibiotics and observe", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "HYPERNATRAEMIA",
+	      "text": "When should a child with suspected hypernatraemia be referred from primary care?",
+	      "correctAnswer": "C",
+	      "rationale": "Referral should be based on clinical signs and history, even without confirmed lab sodium levels, especially if signs suggest hypernatraemia or dehydration.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "If tolerating oral fluids", "value": "A" },
+	          { "text": "Only if seizures develop", "value": "B" },
+	          { "text": "If signs of dehydration with history of high fluid losses are present", "value": "C" },
+	          { "text": "If serum sodium is confirmed above 145 mmol/L", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "Which of the following is the most appropriate initial step in a child with suspected hyponatraemia at primary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Assessment of hydration and prompt referral are key at the primary level; initiating inappropriate therapy without labs may worsen the condition.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer furosemide", "value": "A" },
+	          { "text": "Assess hydration status and refer", "value": "B" },
+	          { "text": "Start oral antibiotics", "value": "C" },
+	          { "text": "Begin IV dextrose 5%", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "A child presents with vomiting, diarrhoea, and cannot tolerate oral fluids. What is the correct action at primary level?",
+	      "correctAnswer": "B",
+	      "rationale": "If oral intake is not tolerated, ORS should be given via NGT using Plan B, and the child should be referred promptly.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start IV hypotonic fluids and monitor", "value": "A" },
+	          { "text": "Insert a nasogastric tube and administer ORS", "value": "B" },
+	          { "text": "Give antibiotics and observe", "value": "C" },
+	          { "text": "Wait for labs before starting fluids", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "Which IV fluid is appropriate to start before referring a child with clinical signs of hyponatraemia?",
+	      "correctAnswer": "C",
+	      "rationale": "Normal saline is the fluid of choice before referral. Hypotonic or dextrose-containing fluids may worsen hyponatraemia.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Half-strength Darrow’s solution", "value": "A" },
+	          { "text": "5% Dextrose", "value": "B" },
+	          { "text": "Normal saline 0.9%", "value": "C" },
+	          { "text": "Ringer’s lactate with dextrose", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "HYPERCALCAEMIA",
+	      "text": "Which of the following is the most appropriate action at the primary care level when a child presents with suspected hypercalcaemia?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the focus is on identifying signs of severity, treating any emergencies, and referring complicated cases. Advanced diagnostics and treatment are not typically performed at this level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin high-dose corticosteroid therapy", "value": "A" },
+	          { "text": "Perform abdominal ultrasound and ECG", "value": "B" },
+	          { "text": "Conduct thorough clinical assessment and refer if complicated", "value": "C" },
+	          { "text": "Start IV bisphosphonates immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "HYPOCALCAEMIA",
+	      "text": "Which of the following is the most appropriate step at the primary care level when a child presents with signs suggestive of hypocalcaemia (e.g. seizures, muscle twitching)?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, management focuses on stabilizing the child if there are emergency symptoms and promptly referring the case. Definitive investigations and treatment should occur at a higher level of care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start oral calcium supplementation and monitor for 24 hours", "value": "A" },
+	          { "text": "Refer the patient after giving high-dose vitamin D", "value": "B" },
+	          { "text": "Treat presenting emergency symptoms and refer to higher-level care", "value": "C" },
+	          { "text": "Prescribe calcium-rich diet and follow up in a week", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "HYPERTENSION IN CHILDREN",
+	      "text": "What is the correct course of action at the primary care level for a child suspected of having hypertension?",
+	      "correctAnswer": "D",
+	      "rationale": "At the primary level, any suspected hypertension in children requires prompt referral to secondary care for comprehensive evaluation and appropriate management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start the child on antihypertensive medication immediately", "value": "A" },
+	          { "text": "Observe the child for a few months before taking action", "value": "B" },
+	          { "text": "Monitor the blood pressure weekly in the clinic", "value": "C" },
+	          { "text": "Refer all suspected cases of hypertension", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

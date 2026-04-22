@@ -1,0 +1,760 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Neurology",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "What is the priority in managing a child with suspected GBS or polio who shows signs of respiratory compromise?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline advises airway assessment and respiratory support, including possible intubation, for suspected GBS or polio with airway compromise. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Assess airway and prepare for possible intubation and respiratory support", "value": "A" },
+	          { "text": "Start corticosteroids immediately and monitor breathing every 6 hours", "value": "B" },
+	          { "text": "Administer bronchodilators and re-evaluate after 12 hours", "value": "C" },
+	          { "text": "Provide supportive care and arrange outpatient follow-up", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "What is the appropriate tertiary-level management approach for a spinal tumor causing neurological symptoms?",
+	      "correctAnswer": "D",
+	      "rationale": "Treatment may include surgery and/or chemotherapy, and palliative care should be considered if curative treatment is not feasible. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start empiric TB treatment and observe", "value": "A" },
+	          { "text": "Delay intervention until biopsy confirms diagnosis", "value": "B" },
+	          { "text": "Begin steroids and discharge for outpatient oncology review", "value": "C" },
+	          { "text": "Consider surgery or chemotherapy, and offer palliative care if needed", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "How should tertiary facilities manage a child presenting with acute weakness due to organophosphate poisoning?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline directs providers to follow the standard protocol for organophosphate poisoning, which typically includes atropine and supportive care. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer to secondary care for decontamination", "value": "A" },
+	          { "text": "Manage according to the poisoning protocol", "value": "B" },
+	          { "text": "Begin high-dose antibiotics", "value": "C" },
+	          { "text": "Observe closely without intervention unless symptoms worsen", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "What is the recommended intervention for thrombotic disease presenting with acute neurological signs?",
+	      "correctAnswer": "C",
+	      "rationale": "For thrombotic disease, the guideline recommends prophylactic aspirin as the primary treatment at the tertiary level. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin full anticoagulation immediately", "value": "A" },
+	          { "text": "Refer for surgical thrombectomy", "value": "B" },
+	          { "text": "Start prophylactic aspirin", "value": "C" },
+	          { "text": "Perform lumbar puncture to confirm diagnosis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "Which of the following is essential in the acute management of a stroke patient?",
+	      "correctAnswer": "D",
+	      "rationale": "Monitoring fluid balance is vital to avoid both dehydration and fluid overload, especially in neurocritical care. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Maintain hyperglycaemia to preserve brain function", "value": "A" },
+	          { "text": "Limit monitoring to twice daily assessments", "value": "B" },
+	          { "text": "Avoid fluid administration entirely", "value": "C" },
+	          { "text": "Monitor fluid input and output carefully", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "In haemorrhagic stroke, what is the appropriate approach to managing elevated blood pressure?",
+	      "correctAnswer": "D",
+	      "rationale": "Antihypertensives must be used carefully to avoid hypoperfusion and maintain cerebral blood flow. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Aggressively lower BP with high-dose diuretics", "value": "A" },
+	          { "text": "Ignore BP unless it exceeds 200 mmHg", "value": "B" },
+	          { "text": "Stop all medications that affect BP", "value": "C" },
+	          { "text": "Use antihypertensives cautiously with frequent BP monitoring", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "What is one of the earliest signs of raised intracranial pressure in a conscious child?",
+	      "correctAnswer": "B",
+	      "rationale": "Vomiting and headache, particularly if worsening or occurring with position changes, can indicate rising ICP. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Frequent urination", "value": "A" },
+	          { "text": "Vomiting and worsening headache", "value": "B" },
+	          { "text": "Dry skin", "value": "C" },
+	          { "text": "Decreased appetite", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "Which of the following interventions helps reduce raised intracranial pressure (ICP)?",
+	      "correctAnswer": "D",
+	      "rationale": "Elevating the head improves venous return and lowers ICP—an essential neuroprotective step. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Encouraging supine positioning", "value": "A" },
+	          { "text": "Starting antibiotics", "value": "B" },
+	          { "text": "Increasing oral fluid intake", "value": "C" },
+	          { "text": "Elevating the head of the bed to at least 30 degrees", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "In ischaemic stroke in children, what determines the decision to start aspirin?",
+	      "correctAnswer": "B",
+	      "rationale": "Aspirin may be used in ischaemic stroke only after senior consultation and assessment for bleeding risk. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "MRI scan results", "value": "A" },
+	          { "text": "Discussion with consultant and absence of haemorrhagic risk", "value": "B" },
+	          { "text": "Age of the child", "value": "C" },
+	          { "text": "Presence of fever", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "What is an appropriate component of supportive stroke care in a high-dependency setting?",
+	      "correctAnswer": "D",
+	      "rationale": "Hourly turning reduces risk of pressure injuries, an important part of stroke nursing care. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Encourage complete bed rest for days", "value": "A" },
+	          { "text": "Avoid turning to prevent dislodging IV lines", "value": "B" },
+	          { "text": "Limit nutrition until full recovery", "value": "C" },
+	          { "text": "Turn hourly to prevent pressure sores", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "What is recommended as part of long-term stroke management in children?",
+	      "correctAnswer": "B",
+	      "rationale": "Early and continued rehabilitation, including physiotherapy, is critical for maximizing recovery. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Discontinue therapy once the child is stable", "value": "A" },
+	          { "text": "Continue physiotherapy tailored to neurological severity", "value": "B" },
+	          { "text": "Avoid involving caregivers to reduce burden", "value": "C" },
+	          { "text": "Restrict activity to prevent further strokes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "What is an important consideration when treating hydrocephalus with ventriculitis at secondary or tertiary level?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline notes that ventriculitis may require prolonged parenteral therapy, which can extend beyond typical meningitis treatment durations. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It may require longer parenteral treatment than typical meningitis", "value": "A" },
+	          { "text": "Oral antibiotics are sufficient in most cases", "value": "B" },
+	          { "text": "Treat only after surgical intervention", "value": "C" },
+	          { "text": "Avoid antibiotics until CSF is drained", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "What is the recommended emergency intervention for a child with acute raised intracranial pressure (ICP) due to hydrocephalus?",
+	      "correctAnswer": "C",
+	      "rationale": "A therapeutic ventricular tap is advised to relieve acute raised ICP while awaiting definitive treatment. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer high-dose steroids and observe", "value": "A" },
+	          { "text": "Order urgent CT and delay intervention", "value": "B" },
+	          { "text": "Perform a therapeutic ventricular tap", "value": "C" },
+	          { "text": "Refer only if symptoms persist after 48 hours", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "While awaiting surgery in a child with communicating hydrocephalus, what medical treatment can help reduce CSF production?",
+	      "correctAnswer": "D",
+	      "rationale": "Acetazolamide or Furosemide can be used to temporarily reduce CSF production in communicating hydrocephalus. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Paracetamol and bed rest", "value": "A" },
+	          { "text": "Mannitol infusion", "value": "B" },
+	          { "text": "Broad-spectrum antibiotics", "value": "C" },
+	          { "text": "Acetazolamide or Furosemide", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "What is the definitive treatment option for hydrocephalus at tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends ventriculo-peritoneal (VP) shunt or endoscopic third ventriculostomy (ETV) as the definitive surgical treatments for hydrocephalus. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Repeat doses of diuretics", "value": "A" },
+	          { "text": "Neurosurgical referral for VP shunt or ETV", "value": "B" },
+	          { "text": "Monitoring with supportive care only", "value": "C" },
+	          { "text": "Intermittent ventricular taps", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Blocked Shunts",
+	      "text": "What is the first step in managing a child with a blocked VP shunt and suspected complications at the tertiary level?",
+	      "correctAnswer": "A",
+	      "rationale": "Tertiary-level care should include ABCCCD management and IV Ceftriaxone, mirroring meningitis protocol, as initial steps. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Initiate ABCCCD and start IV antibiotics as for meningitis", "value": "A" },
+	          { "text": "Wait for neurosurgical consult before initiating treatment", "value": "B" },
+	          { "text": "Begin anticonvulsants immediately regardless of symptoms", "value": "C" },
+	          { "text": "Refer the child to outpatient rehabilitation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Blocked Shunts",
+	      "text": "When is referral to neurosurgery indicated in a child with a blocked or infected VP shunt?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline advises neurosurgical referral for possible shunt removal and later revision/replacement if the shunt is blocked or infected. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only if antibiotics fail after 72 hours", "value": "A" },
+	          { "text": "If imaging shows no CSF flow", "value": "B" },
+	          { "text": "When the shunt is blocked or infected", "value": "C" },
+	          { "text": "Only if neurological signs are worsening", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Blocked Shunts",
+	      "text": "Why is it important to start IV Ceftriaxone 100 mg/kg daily in children with suspected blocked shunt infections?",
+	      "correctAnswer": "B",
+	      "rationale": "Blocked shunts are treated similarly to meningitis; IV Ceftriaxone is started empirically before surgical intervention. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It helps reduce intracranial pressure", "value": "A" },
+	          { "text": "It is part of the empiric treatment protocol for suspected meningitis-related infections", "value": "B" },
+	          { "text": "It prevents seizures associated with hydrocephalus", "value": "C" },
+	          { "text": "It replaces the need for neurosurgical intervention", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Blocked Shunts",
+	      "text": "Which of the following best describes the comprehensive tertiary-level approach to managing a child with a blocked VP shunt and hydrocephalus?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline emphasizes a multidisciplinary approach involving medical and surgical management, along with physiotherapy, occupational therapy, nutritional support, sensory assessments, and family support systems. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer to a neurosurgeon and initiate home-based care immediately", "value": "A" },
+	          { "text": "Focus on surgical correction and nutritional recovery", "value": "B" },
+	          { "text": "Prioritize medication, then refer to support groups if needed", "value": "C" },
+	          { "text": "Combine medical, surgical, rehabilitative, and psychosocial care", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What is the role of Baclofen in managing children with cerebral palsy at the tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Baclofen is prescribed to manage spasticity and dystonia, but must be used carefully due to side effects like sedation, hypotonia, and risk of seizures if abruptly stopped. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It is used to control seizures resistant to standard therapy", "value": "A" },
+	          { "text": "It reduces spasticity and dystonia but has significant side effects", "value": "B" },
+	          { "text": "It promotes growth and muscle development", "value": "C" },
+	          { "text": "It is used to treat feeding difficulties", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "Which of the following is a potential consequence of suddenly stopping Baclofen?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline highlights that abrupt discontinuation of Baclofen may lead to seizures, making proper tapering essential. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hypertonia and tremors", "value": "A" },
+	          { "text": "Cardiac arrhythmia", "value": "B" },
+	          { "text": "Seizures", "value": "C" },
+	          { "text": "Elevated blood pressure", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What is the correct use of Diazepam in tertiary care for a child with cerebral palsy?",
+	      "correctAnswer": "A",
+	      "rationale": "Diazepam is used at tertiary level to reduce spasticity, with initial doses between 1–2.5 mg orally every 4–6 hours, adjusted per response. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Antispasmodic treatment at 1–2.5 mg orally every 4–6 hours, adjusted as needed", "value": "A" },
+	          { "text": "Used only as a rescue drug during epileptic seizures", "value": "B" },
+	          { "text": "Sedative for children with anxiety and behavioral challenges", "value": "C" },
+	          { "text": "Given intravenously during physiotherapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "24"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "In addition to spasticity treatment, what other medical intervention is emphasized for tertiary care in children with CP?",
+	      "correctAnswer": "C",
+	      "rationale": "Antiepileptic treatment is a key part of tertiary care, with medication choices guided by standardized seizure protocols. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Growth hormone therapy", "value": "A" },
+	          { "text": "Inhaled corticosteroids", "value": "B" },
+	          { "text": "Antiepileptic drugs following seizure protocols", "value": "C" },
+	          { "text": "Routine antibiotics for contracture pain", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "25"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What is the orthopedic focus in tertiary management of cerebral palsy?",
+	      "correctAnswer": "A",
+	      "rationale": "Orthopedic care in tertiary settings includes managing contractures, fractures, and acute hip problems, often requiring surgical input. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Addressing contractures, fractures, and acute hip disorders", "value": "A" },
+	          { "text": "Providing custom footwear and splints only", "value": "B" },
+	          { "text": "Manual muscle strengthening without surgical input", "value": "C" },
+	          { "text": "Avoiding surgery unless the child can walk", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "26"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What is the role of education planning in tertiary-level CP care?",
+	      "correctAnswer": "B",
+	      "rationale": "Tertiary care involves assessing each child’s level of function and coordinating appropriate educational placement or support. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer all children to special schools", "value": "A" },
+	          { "text": "Explore education options based on the child’s functional level", "value": "B" },
+	          { "text": "Wait for school-age before initiating plans", "value": "C" },
+	          { "text": "Focus only on vocational training", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "27"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What combination of services represents the comprehensive rehabilitation approach in tertiary care for CP?",
+	      "correctAnswer": "A",
+	      "rationale": "A multidisciplinary rehabilitation approach includes PT, ST, audiology, and vision services to improve quality of life and function. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Physiotherapy, speech therapy, audiology, and visual assessment", "value": "A" },
+	          { "text": "Antispasmodics and home-based care only", "value": "B" },
+	          { "text": "Special education referral and routine follow-up", "value": "C" },
+	          { "text": "Antibiotics and general pediatric monitoring", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "28"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What is a correct statement about Baclofen use for spasticity and dystonia in children with cerebral palsy?",
+	      "correctAnswer": "B",
+	      "rationale": "Baclofen is used for spasticity and dystonia in CP, at a dose of 1–2 mg/kg every 8 hours. It may cause sedation, hypotonia, and other CNS-related side effects, and must be used with careful monitoring. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It is primarily used for seizure prevention in patients with concurrent epilepsy", "value": "A" },
+	          { "text": "It is dosed at 1–2 mg/kg every 8 hours and may cause sedation or hypotonia", "value": "B" },
+	          { "text": "It is a short-acting muscle relaxant typically reserved for emergency use", "value": "C" },
+	          { "text": "It is preferred over physical therapy in mild cases due to fewer side effects", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "29"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "What is the recommended approach when seizure control is not achieved on a single antiepileptic drug at therapeutic dose?",
+	      "correctAnswer": "C",
+	      "rationale": "If monotherapy fails, the next step is to add another drug and titrate both carefully while monitoring for efficacy and side effects. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase the dose beyond the therapeutic range", "value": "A" },
+	          { "text": "Stop the current drug immediately and start a new one", "value": "B" },
+	          { "text": "Add a second drug and optimize both gradually", "value": "C" },
+	          { "text": "Use only non-pharmacological treatments", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "30"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "Which of the following is a key principle of rational combination therapy in epilepsy management?",
+	      "correctAnswer": "B",
+	      "rationale": "Rational combination therapy aims to improve efficacy and minimize interactions by combining medications with different mechanisms of action. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Use drugs from the same class to enhance potency", "value": "A" },
+	          { "text": "Combine drugs with different mechanisms of action", "value": "B" },
+	          { "text": "Always use three drugs simultaneously", "value": "C" },
+	          { "text": "Avoid second-line medications", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "31"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "Why is sodium valproate generally avoided in females of childbearing potential?",
+	      "correctAnswer": "C",
+	      "rationale": "Sodium valproate is associated with teratogenic risks and adverse neurodevelopmental outcomes in the unborn child. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It is ineffective in generalised epilepsy", "value": "A" },
+	          { "text": "It causes significant weight loss", "value": "B" },
+	          { "text": "It carries a risk of teratogenicity and neurodevelopmental impairment", "value": "C" },
+	          { "text": "It requires intravenous administration", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "32"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "Withdrawal of antiepileptic medication should be considered only after:",
+	      "correctAnswer": "C",
+	      "rationale": "Medication withdrawal is only advised after a minimum of 2 years without seizures and should be gradual and well-supervised. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "6 months of seizure freedom", "value": "A" },
+	          { "text": "Switching to another class of drug", "value": "B" },
+	          { "text": "At least 2 years of being seizure-free", "value": "C" },
+	          { "text": "The patient starts school", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "33"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "Which of the following must be ruled out when managing a patient with “Intractable Epilepsy”?",
+	      "correctAnswer": "B",
+	      "rationale": "One key reason for poor seizure control is misclassification of the epilepsy type, which can lead to inappropriate treatment. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Poor socioeconomic background", "value": "A" },
+	          { "text": "Incorrect classification of epilepsy syndrome", "value": "B" },
+	          { "text": "Simple febrile seizures", "value": "C" },
+	          { "text": "Migraine", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "34"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "What is a possible indication for epilepsy surgery in a patient with refractory seizures?",
+	      "correctAnswer": "B",
+	      "rationale": "Patients with focal seizures due to identifiable brain lesions may benefit from surgical evaluation. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Polytherapy is effective", "value": "A" },
+	          { "text": "Lesional epilepsy identified on imaging", "value": "B" },
+	          { "text": "Seizures are improving over time", "value": "C" },
+	          { "text": "Patient has no structural brain abnormalities", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "35"
+	      },
+	      "type": "question",
+	      "title": "Neural Tube Defects",
+	      "text": "What is a key feature of tertiary-level care in managing neural tube defects?",
+	      "correctAnswer": "C",
+	      "rationale": "Tertiary-level care involves coordinated input from multiple specialties, often led by surgery, to address the complex needs of the child. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Independent management by a single specialist", "value": "A" },
+	          { "text": "Exclusive reliance on outpatient follow-up", "value": "B" },
+	          { "text": "A multidisciplinary team approach led by the surgical team", "value": "C" },
+	          { "text": "Discharge to home care after surgical closure", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "36"
+	      },
+	      "type": "question",
+	      "title": "Neural Tube Defects",
+	      "text": "When is it appropriate to step down care from tertiary to district hospital for a child with a neural tube defect?",
+	      "correctAnswer": "C",
+	      "rationale": "Care can be transferred to a district hospital once treatment has been properly initiated and complications are under control. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Once the baby is stabilized and gains weight", "value": "A" },
+	          { "text": "After the initial surgical consult is completed", "value": "B" },
+	          { "text": "Once treatment is established and complications are managed", "value": "C" },
+	          { "text": "Only after completion of physiotherapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "37"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "Which of the following is a recommended strategy when managing recurrent headaches in children?",
+	      "correctAnswer": "B",
+	      "rationale": "Keeping a detailed diary helps identify headache patterns and triggers, which is a foundational step in headache management. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start medication immediately without diary tracking", "value": "A" },
+	          { "text": "Keep a diary recording quality, severity, timing, and triggers", "value": "B" },
+	          { "text": "Advise complete school absence until headache-free", "value": "C" },
+	          { "text": "Avoid all physical activity for at least one week", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "38"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "What advice should be given regarding school attendance for children with recurrent headaches?",
+	      "correctAnswer": "B",
+	      "rationale": "Children should return to school, and short breaks (e.g., 15 minutes in the nurse’s office during peak headache) are acceptable to help them cope. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Keep them home until headaches fully resolve", "value": "A" },
+	          { "text": "Encourage return to school with planned breaks if needed", "value": "B" },
+	          { "text": "Restrict school participation to half-days permanently", "value": "C" },
+	          { "text": "Recommend homeschooling due to stress factors", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "39"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "Which of the following is not a recommended lifestyle modification for children with recurrent headaches?",
+	      "correctAnswer": "C",
+	      "rationale": "Overuse of analgesics can worsen headaches; medication overuse is a known risk factor for chronic headaches. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Avoiding headache triggers like caffeine and poor sleep", "value": "A" },
+	          { "text": "Daily physical exercise", "value": "B" },
+	          { "text": "Using painkillers daily to prevent headache onset", "value": "C" },
+	          { "text": "Managing comorbid sleep problems", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "40"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "What is an important goal of patient education in headache management?",
+	      "correctAnswer": "C",
+	      "rationale": "Empowering patients enhances self-control and can significantly reduce distress and improve outcomes in chronic headache management. [cite: 2]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Minimize the use of diaries and self-monitoring", "value": "A" },
+	          { "text": "Focus solely on pharmacological solutions", "value": "B" },
+	          { "text": "Enable patients to manage their disease and reduce psychological distress", "value": "C" },
+	          { "text": "Encourage complete avoidance of social interaction", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

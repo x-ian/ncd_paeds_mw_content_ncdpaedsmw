@@ -1,0 +1,82 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+		"id": "1",
+		"type": "navigable",
+		"rules": [
+
+		],
+
+		  "steps": [
+		    {
+		      "stepIdentifier": {
+		        "id": "1"
+		      },
+		      "type": "intro",
+		      "title": "Pulmonology",
+		      "text": "Multiple Choice for Primary Care",
+		      "buttonText": "Start!"
+		    },
+		    {
+		      "stepIdentifier": {
+		        "id": "2"
+		      },
+		      "type": "question",
+		      "title": "Asthma",
+		      "text": "What is the recommended target oxygen saturation level for children with mild asthma at the primary care level?",
+		      "correctAnswer": "C",
+		      "rationale": "The guideline clearly states that the target oxygen saturation for managing mild asthma at the primary level is between 94-98%. Lower targets are used for other conditions like chronic lung disease; higher targets (>99%) may lead to unnecessary oxygen use.",
+		      "answerFormat": {
+		        "type": "single",
+		        "textChoices": [
+		          { "text": "88-92%", "value": "A" },
+		          { "text": "90-93%", "value": "B" },
+		          { "text": "94-98%", "value": "C" },
+		          { "text": ">99%", "value": "D" }
+		        ]
+		      }
+		    },
+		    {
+		      "stepIdentifier": {
+		        "id": "3"
+		      },
+		      "type": "question",
+		      "title": "Asthma",
+		      "text": "When treating mild asthma at the primary level, which of the following is a correct initial management option?",
+		      "correctAnswer": "B",
+		      "rationale": "The guideline recommends Salbutamol inhaler via spacer (100-200 mcg, 1-2 puffs) every 20 minutes for 1 hour as the first-line treatment. Nebulisation is also an option but at more frequent intervals (every 15 mins for 3 doses). Antibiotics and antihistamines are not primary treatments for asthma exacerbations.",
+		      "answerFormat": {
+		        "type": "single",
+		        "textChoices": [
+		          { "text": "Oral corticosteroids only", "value": "A" },
+		          { "text": "Salbutamol inhaler via spacer every 20 minutes for 1 hour", "value": "B" },
+		          { "text": "Salbutamol nebulisation every 6 hours", "value": "C" },
+		          { "text": "Antibiotics and antihistamines", "value": "D" }
+		        ]
+		      }
+		    },
+		    {
+		      "stepIdentifier": {
+		        "id": "4"
+		      },
+		      "type": "question",
+		      "title": "Asthma",
+		      "text": "According to the guidelines, which of the following advice should be provided on discharge after managing mild asthma?",
+		      "correctAnswer": "B",
+		      "rationale": "The discharge advice in the guideline includes: checking inhaler and spacer technique, avoiding allergens, returning if symptoms worsen, and possibly adding a daily inhaled steroid if frequent episodes occur. Mild cases do not need referral to tertiary care unless they worsen.",
+		      "answerFormat": {
+		        "type": "single",
+		        "textChoices": [
+		          { "text": "Stop all medications immediately if no symptoms", "value": "A" },
+		          { "text": "Avoid allergens and check inhaler technique", "value": "B" },
+		          { "text": "Refer all mild cases to tertiary hospital", "value": "C" },
+		          { "text": "Only use oral medications at home", "value": "D" }
+		        ]
+		      }
+		    }
+		  ]
+		}

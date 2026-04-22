@@ -1,0 +1,476 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": { "id": "1" },
+	      "type": "intro",
+	      "title": "MCQ_Endocrinology_Final.docx",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": { "id": "2" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "Which of the following should be included when assessing a child suspected to have diabetes at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, urine dipstick testing for ketones is a key tool to assess for diabetic ketoacidosis, a serious complication of diabetes. CT scan, ECG, and blood cultures are not part of the initial evaluation at this level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "CT scan of the brain", "value": "A" },
+	          { "text": "Blood culture", "value": "B" },
+	          { "text": "Urine dipstick for ketones", "value": "C" },
+	          { "text": "ECG", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "3" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "A 10-year-old child presents with symptoms suggestive of diabetes. Which investigation is appropriate at the primary level to support the diagnosis?",
+	      "correctAnswer": "B",
+	      "rationale": "At the primary level, a random blood sugar test is a quick and accessible way to assess blood glucose levels. HbA1c and other tests are typically performed at higher levels of care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "HbA1c only", "value": "A" },
+	          { "text": "Random blood sugar", "value": "B" },
+	          { "text": "C-peptide level", "value": "C" },
+	          { "text": "Oral glucose tolerance test", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "4" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "A child with suspected diabetes presents with vomiting, abdominal pain, and deep breathing. What is the first priority at the primary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Children with diabetic ketoacidosis (DKA) may present with signs of dehydration and metabolic acidosis. At the primary level, it's crucial to assess hydration status and stabilize the child before or during referral. Immediate insulin or specialized tests are not the first priority.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start insulin immediately", "value": "A" },
+	          { "text": "Refer to tertiary hospital without any intervention", "value": "B" },
+	          { "text": "Assess hydration and begin stabilization", "value": "C" },
+	          { "text": "Request thyroid function tests", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "5" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "What is the recommended initial approach when managing a child with suspected Diabetic Ketoacidosis (DKA)?",
+	      "correctAnswer": "C",
+	      "rationale": "DKA is an emergency. The correct response is to prioritize Airway, Breathing, and Circulation (ABC) to stabilize the patient before specific metabolic treatments.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Give insulin immediately", "value": "A" },
+	          { "text": "Start oral rehydration only", "value": "B" },
+	          { "text": "Follow the ABC approach: Airway, Breathing, Circulation", "value": "C" },
+	          { "text": "Test HbA1c and wait for results", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "6" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "Which two basic investigations are essential at the primary level when managing a child with suspected DKA?",
+	      "correctAnswer": "A",
+	      "rationale": "At the primary level, simple and rapid tests like random blood sugar and urine dipstick for ketones are both available and sufficient to support a diagnosis of DKA.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Random blood sugar and urine dipstick", "value": "A" },
+	          { "text": "HbA1c and full blood count", "value": "B" },
+	          { "text": "Fasting blood sugar and serum ketones", "value": "C" },
+	          { "text": "C-peptide and blood gas", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "7" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "When should insulin therapy be initiated in a child with DKA at the primary level?",
+	      "correctAnswer": "D",
+	      "rationale": "Insulin should not be started before correcting volume depletion. Starting insulin before fluids increases the risk of cerebral edema. Always begin fluid resuscitation first.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Immediately on arrival", "value": "A" },
+	          { "text": "Only after confirming ketones", "value": "B" },
+	          { "text": "After 24 hours of observation", "value": "C" },
+	          { "text": "After fluid replacement has begun", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "8" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "What is the recommended initial fluid bolus for a child with DKA (not in shock) at the primary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "Per the guideline, all DKA patients are dehydrated. The initial fluid resuscitation is 10 mL/kg of isotonic fluid over one hour, even if not in shock.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "5 mL/kg of oral rehydration", "value": "A" },
+	          { "text": "10 mL/kg of 0.9% saline or Ringer’s Lactate over 1 hour", "value": "B" },
+	          { "text": "20 mL/kg of glucose water over 2 hours", "value": "C" },
+	          { "text": "No fluids until insulin is started", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "9" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "If a child with DKA is in shock, what is the correct immediate fluid management?",
+	      "correctAnswer": "B",
+	      "rationale": "Shock in DKA requires urgent IV fluid resuscitation: 20 mL/kg of isotonic fluid over 20–30 minutes to restore perfusion and prevent further deterioration.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start insulin and refer", "value": "A" },
+	          { "text": "Give 20 mL/kg of 0.9% saline or RL IV over 20–30 minutes", "value": "B" },
+	          { "text": "Wait for blood pressure to drop before giving fluids", "value": "C" },
+	          { "text": "Only give ORS via NGT", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "10" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "Which of the following is a key action after administering fluids to a child with Diabetic Ketoacidosis at the primary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline explicitly states to “clearly document amount of fluids given.” This ensures safe handover and avoids fluid overload or repeated dosing at the next care level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Rely on memory to report fluid volumes during referral", "value": "A" },
+	          { "text": "Clearly document the amount of fluids given", "value": "B" },
+	          { "text": "Document only the type of fluid used", "value": "C" },
+	          { "text": "Discard fluid charts once the child is referred", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "11" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "Which of the following is the most appropriate next step at the primary care level for a child presenting with poor growth, fatigue, and constipation?",
+	      "correctAnswer": "B",
+	      "rationale": "These symptoms suggest a possible thyroid disorder. At the primary care level, the appropriate role is to recognize these red flags and refer the child to a higher-level facility for full evaluation and treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start thyroid hormone therapy immediately", "value": "A" },
+	          { "text": "Recognize these as possible signs of thyroid dysfunction and refer to tertiary care", "value": "B" },
+	          { "text": "Order antibody tests and thyroid ultrasound", "value": "C" },
+	          { "text": "Give high-calorie diet and schedule review in one month", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "12" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "A child with suspected thyroid disorder becomes lethargic and has low blood sugar during assessment. What is the appropriate action at the primary level?",
+	      "correctAnswer": "D",
+	      "rationale": "Hypoglycemia is an emergency that requires immediate treatment. The ETAT protocol should be followed before referral, even if the thyroid condition is still being evaluated.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start antithyroid medication", "value": "A" },
+	          { "text": "Refer without stabilizing", "value": "B" },
+	          { "text": "Wait to confirm thyroid diagnosis before intervention", "value": "C" },
+	          { "text": "Manage hypoglycemia using the ETAT protocol", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "13" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "Which of the following is a key responsibility of a primary-level healthcare worker when managing a child with suspected acquired hypothyroidism?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the key role is to recognize signs and symptoms (such as fatigue, weight gain, cold intolerance, poor growth) and refer the patient to the next level for full evaluation and management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start levothyroxine immediately", "value": "A" },
+	          { "text": "Order thyroid antibody tests", "value": "B" },
+	          { "text": "Identify signs and symptoms and refer the child", "value": "C" },
+	          { "text": "Request a thyroid ultrasound", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "14" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "A child with suspected acquired hypothyroidism presents with vomiting and lethargy. What should be your first action?",
+	      "correctAnswer": "B",
+	      "rationale": "Primary-level care requires managing acute illnesses, such as hypoglycemia or dehydration, before referral. Stabilization ensures safer transport and reduces complications.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Request a TSH test before proceeding", "value": "A" },
+	          { "text": "Manage acute illness according to protocol before referral", "value": "B" },
+	          { "text": "Refer immediately without any intervention", "value": "C" },
+	          { "text": "Start antithyroid medication", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "15" },
+	      "type": "question",
+	      "title": "Hyperthyroidism",
+	      "text": "Which of the following is an appropriate responsibility of a primary-level healthcare provider when managing a child with suspected hyperthyroidism?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, providers are expected to identify key diagnostic indicators (based on signs and symptoms) and refer the patient to higher care — not to diagnose or treat definitively.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Initiate antithyroid medication", "value": "A" },
+	          { "text": "Request thyroid antibodies and ultrasound", "value": "B" },
+	          { "text": "Identify key diagnostic indicators and refer to the next level", "value": "C" },
+	          { "text": "Confirm diagnosis using TSH and free T4 levels", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "16" },
+	      "type": "question",
+	      "title": "Hyperthyroidism",
+	      "text": "A child with suspected hyperthyroidism presents with agitation and a high heart rate. What is the most appropriate action at the primary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Primary-level providers should stabilize the patient by managing acute illness (e.g., fever, tachycardia) according to protocol, then refer for further care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer immediately without any intervention", "value": "A" },
+	          { "text": "Manage the acute illness as per protocol and then refer", "value": "B" },
+	          { "text": "Start long-term beta blocker therapy", "value": "C" },
+	          { "text": "Order thyroid function tests", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "17" },
+	      "type": "question",
+	      "title": "Approach to disorders of sex development (Ambiguous Genitalia)",
+	      "text": "Which of the following is a key component of the history a primary-level provider should take when assessing a newborn with ambiguous genitalia?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline specifies that pregnancy history and family history of consanguinity are essential elements when evaluating ambiguous genitalia at the primary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Travel history and vaccination record", "value": "A" },
+	          { "text": "Pregnancy details and family history of consanguinity", "value": "B" },
+	          { "text": "Menstrual history of the mother", "value": "C" },
+	          { "text": "Exposure to infectious diseases", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "18" },
+	      "type": "question",
+	      "title": "Approach to disorders of sex development (Ambiguous Genitalia)",
+	      "text": "What is the correct management step at the primary level for a newborn presenting with ambiguous genitalia and signs of dehydration?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline instructs primary-level providers to offer supportive care, including correcting dehydration and hypoglycemia, before referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Perform genetic testing before any treatment", "value": "A" },
+	          { "text": "Start hormone therapy", "value": "B" },
+	          { "text": "Delay intervention until referral is accepted", "value": "C" },
+	          { "text": "Provide supportive care and correct dehydration and hypoglycemia", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "19" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "Which of the following is a key responsibility of a primary-level provider when assessing a child with suspected Congenital Adrenal Hyperplasia (CAH)?",
+	      "correctAnswer": "C",
+	      "rationale": "The primary-level role includes recognizing key signs and symptoms of CAH (such as vomiting, dehydration, or ambiguous genitalia) as a signal for urgent management and referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Confirm diagnosis with hormone assays", "value": "A" },
+	          { "text": "Initiate long-term steroid therapy", "value": "B" },
+	          { "text": "Identify key diagnostic indicators such as signs and symptoms", "value": "C" },
+	          { "text": "Refer directly to a geneticist without any assessment", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "20" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "A child with suspected CAH presents with vomiting, lethargy, and signs of dehydration. What is the most appropriate immediate action at the primary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Primary-level providers should immediately manage acute illnesses like dehydration and hypoglycemia following standard emergency protocols before referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay treatment until referral is confirmed", "value": "A" },
+	          { "text": "Manage dehydration and hypoglycemia as per protocol", "value": "B" },
+	          { "text": "Start hormone therapy immediately", "value": "C" },
+	          { "text": "Request genetic testing before doing anything", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "21" },
+	      "type": "question",
+	      "title": "Overweight and Obesity in Children and Adolescents",
+	      "text": "What is a key investigation that should be done at the primary level when assessing an overweight child?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline states that random blood sugar (RBS) should be performed to help screen for diabetes, a common comorbidity in overweight children.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "HbA1c and thyroid profile", "value": "A" },
+	          { "text": "Random blood sugar (RBS)", "value": "B" },
+	          { "text": "Abdominal ultrasound", "value": "C" },
+	          { "text": "Growth hormone stimulation test", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "22" },
+	      "type": "question",
+	      "title": "Overweight and Obesity in Children and Adolescents",
+	      "text": "What is one of the recommended lifestyle modifications for overweight children at the primary level?",
+	      "correctAnswer": "D",
+	      "rationale": "Primary-level management includes lifestyle changes, particularly reducing foods with a high glycemic index, to support healthy weight.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "High-protein diet and weight loss supplements", "value": "A" },
+	          { "text": "Avoid fruits and focus on dairy", "value": "B" },
+	          { "text": "Initiate pharmacologic weight-loss therapy", "value": "C" },
+	          { "text": "Reduce intake of high glycemic index foods", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "23" },
+	      "type": "question",
+	      "title": "Overweight and Obesity in Children and Adolescents",
+	      "text": "Why is it important for primary-level providers to screen overweight children for diabetes and hypertension?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline highlights that overweight children are at increased risk for both diabetes and hypertension, and early detection at the primary level allows for timely management to prevent long-term complications.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "These conditions are rare and need to be ruled out", "value": "A" },
+	          { "text": "Overweight children are at higher risk for both conditions and early management prevents complications", "value": "B" },
+	          { "text": "It helps determine the child’s final adult height", "value": "C" },
+	          { "text": "Screening replaces the need for lifestyle modification", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "24" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "What is a key investigation to perform at the primary level when assessing a child with suspected growth disorder?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline advises doing random blood glucose and urine dipstick tests at the primary level to screen for possible underlying causes of poor growth such as chronic illness or diabetes.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Bone age X-ray", "value": "A" },
+	          { "text": "Thyroid function tests", "value": "B" },
+	          { "text": "Random blood glucose and urine dipstick", "value": "C" },
+	          { "text": "Serum growth hormone", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "25" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "What is an essential tool for identifying growth disorders at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline emphasizes plotting height and weight on a growth chart, which helps identify abnormal growth patterns early.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Body mass index calculator", "value": "A" },
+	          { "text": "Mid-parental height formula", "value": "B" },
+	          { "text": "Growth chart for plotting height and weight", "value": "C" },
+	          { "text": "Genetic testing", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "26" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "Why is history and physical examination important in the assessment of growth disorders at the primary level?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline highlights the role of history and physical exam at the primary level to help recognize early signs of growth issues and potential underlying conditions that need referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To rule out infectious diseases only", "value": "A" },
+	          { "text": "To determine the exact endocrine diagnosis", "value": "B" },
+	          { "text": "To identify early signs of abnormal growth and possible underlying causes", "value": "C" },
+	          { "text": "To decide if hormone therapy should be started", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "27" },
+	      "type": "question",
+	      "title": "Tall Stature",
+	      "text": "What is a key tool used at the primary or secondary level to assess tall stature in children?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline states that height and weight should be plotted on a growth chart, which helps determine whether a child’s stature is significantly above average for age and sex.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "BMI calculator", "value": "A" },
+	          { "text": "Growth chart for height and weight plotting", "value": "B" },
+	          { "text": "Hormone assay panel", "value": "C" },
+	          { "text": "Genetic sequencing report", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "28" },
+	      "type": "question",
+	      "title": "Tall Stature",
+	      "text": "Which of the following is an essential component when evaluating a child with tall stature at the primary or secondary level?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline specifies history and physical examination as fundamental steps in the assessment of tall stature at the primary and secondary levels before referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "History and physical examination", "value": "A" },
+	          { "text": "Bone age X-ray", "value": "B" },
+	          { "text": "Genetic testing", "value": "C" },
+	          { "text": "Hormone suppression therapy", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

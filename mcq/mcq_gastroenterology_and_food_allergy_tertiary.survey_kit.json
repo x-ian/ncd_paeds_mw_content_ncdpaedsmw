@@ -1,0 +1,1064 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Gastroenterology and food allergy",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Chronic Abdominal Pain",
+	      "text": "Which combination of investigations is most appropriate at the tertiary level for a child presenting with chronic abdominal pain and multiple red flags?",
+	      "correctAnswer": "C",
+	      "rationale": "At tertiary level, children with red flags require a comprehensive workup including CBC, inflammatory markers, LFTs, urine and stool tests to explore differential diagnoses like IBD, infection, or malabsorption.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Abdominal X-ray and serum bilirubin only", "value": "A" },
+	          { "text": "Blood glucose and food diary", "value": "B" },
+	          { "text": "Full blood count, CRP/ESR, liver function tests, urinalysis, and stool testing", "value": "C" },
+	          { "text": "Only abdominal ultrasound unless symptoms worsen", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Chronic Abdominal Pain",
+	      "text": "At the tertiary level, what is the primary reason for selecting specific investigations in a child with chronic abdominal pain?",
+	      "correctAnswer": "A",
+	      "rationale": "Investigations are selected based on clinical presentation and red flags, aiming to identify the underlying cause, such as IBD, infection, or organ pathology.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To guide diagnosis based on the red flags and suspected underlying pathology", "value": "A" },
+	          { "text": "To fulfill protocol for insurance documentation", "value": "B" },
+	          { "text": "To reassure caregivers that nothing serious is wrong", "value": "C" },
+	          { "text": "To determine if dietary counseling is sufficient", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "Which of the following is a surgical indication for GERD in a child?",
+	      "correctAnswer": "C",
+	      "rationale": "Surgery is considered for life-threatening events like apnea or ALTE when medical therapy fails.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mild regurgitation once daily", "value": "A" },
+	          { "text": "Symptom relief after 2 weeks of therapy", "value": "B" },
+	          { "text": "GERD with apnea after failed medical therapy", "value": "C" },
+	          { "text": "Occasional nighttime cough", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "Which child is at higher risk for GERD-related complications and may require surgical consideration?",
+	      "correctAnswer": "A",
+	      "rationale": "Children with neurologic impairment (e.g., CP) are at higher risk for complications and may need surgical intervention.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "A child with cerebral palsy and recurrent aspiration", "value": "A" },
+	          { "text": "A healthy infant with mild reflux", "value": "B" },
+	          { "text": "A child with occasional post-meal nausea", "value": "C" },
+	          { "text": "An adolescent with irregular reflux symptoms", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "What may justify surgical referral for GERD in a 3-year-old?",
+	      "correctAnswer": "B",
+	      "rationale": "Prolonged need for medication beyond 2–3 years can indicate refractory GERD and justify surgical referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mild reflux at age 2", "value": "A" },
+	          { "text": "Need for long-term pharmacotherapy beyond age 3", "value": "B" },
+	          { "text": "Recent switch to formula", "value": "C" },
+	          { "text": "Improvement after dietary changes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "Who should manage a child with complex, treatment-resistant GERD at the tertiary level?",
+	      "correctAnswer": "D",
+	      "rationale": "Complex or refractory GERD should be managed by a pediatric gastroenterologist for advanced evaluation and treatment planning.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Dietitian", "value": "A" },
+	          { "text": "Pulmonologist", "value": "B" },
+	          { "text": "ENT specialist", "value": "C" },
+	          { "text": "Gastroenterologist", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "Which scenario best supports a surgical referral for GERD in a child?",
+	      "correctAnswer": "B",
+	      "rationale": "Surgical referral is appropriate in cases of poor compliance with chronic GERD medication when symptoms persist despite attempts at optimal medical management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Recurrent hiccups responding to antacids", "value": "A" },
+	          { "text": "Poor compliance with long-term GERD medications and persistent symptoms", "value": "B" },
+	          { "text": "Mild reflux controlled with upright feeding", "value": "C" },
+	          { "text": "Occasional postprandial bloating in a healthy child", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Peptic Ulcer Disease (PUD)",
+	      "text": "Which investigation is most appropriate for confirming H. pylori infection in a bleeding child requiring endoscopy?",
+	      "correctAnswer": "B",
+	      "rationale": "In children undergoing endoscopy, the most accurate and recommended method for detecting H. pylori is biopsy with rapid urease testing.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Urea breath test", "value": "A" },
+	          { "text": "Endoscopic biopsy with rapid urease testing", "value": "B" },
+	          { "text": "Serum IgG H. pylori antibodies", "value": "C" },
+	          { "text": "Barium meal study", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Peptic Ulcer Disease (PUD)",
+	      "text": "When should endoscopy be considered in a child with suspected PUD?",
+	      "correctAnswer": "D",
+	      "rationale": "Endoscopy is indicated for any child with GI bleeding or refractory symptoms, both for diagnosis and therapeutic purposes.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "After one episode of abdominal pain", "value": "A" },
+	          { "text": "When stool test is negative for H. pylori", "value": "B" },
+	          { "text": "To monitor progress after PPI therapy", "value": "C" },
+	          { "text": "In all bleeding cases or severe/refractory symptoms", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Peptic Ulcer Disease (PUD)",
+	      "text": "Which of the following justifies referral to a gastroenterologist in tertiary care?",
+	      "correctAnswer": "A",
+	      "rationale": "Gastroenterologist review is essential in complex, bleeding, or diagnostically unclear cases to guide definitive investigation and treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Bleeding ulcers or diagnostic uncertainty requiring endoscopy", "value": "A" },
+	          { "text": "Mild dyspepsia responding to antacids", "value": "B" },
+	          { "text": "Negative stool occult blood with normal appetite", "value": "C" },
+	          { "text": "Short-term use of NSAIDs", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Chronic Diarrhea",
+	      "text": "A child presents with chronic watery diarrhea. Which investigation helps differentiate between secretory and osmotic diarrhea?",
+	      "correctAnswer": "B",
+	      "rationale": "A stool osmotic gap <50 suggests secretory diarrhea, while a high gap indicates osmotic diarrhea — critical in classifying chronic cases.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stool pH", "value": "A" },
+	          { "text": "Stool osmotic gap", "value": "B" },
+	          { "text": "Fecal occult blood test", "value": "C" },
+	          { "text": "Stool elastase", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Chronic Diarrhea",
+	      "text": "Which of the following findings supports a diagnosis of protein-losing enteropathy in a child with chronic diarrhea?",
+	      "correctAnswer": "C",
+	      "rationale": "Elevated stool alpha-1 antitrypsin indicates protein loss through the gut, useful in diagnosing enteropathies.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Low serum albumin", "value": "A" },
+	          { "text": "Positive fecal occult blood test", "value": "B" },
+	          { "text": "Stool alpha-1 antitrypsin >0.5 mg/g", "value": "C" },
+	          { "text": "Stool pH <6", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Chronic Diarrhea",
+	      "text": "When is referral to a pediatric gastroenterologist most appropriate for chronic diarrhea?",
+	      "correctAnswer": "B",
+	      "rationale": "Referral is warranted when diarrhea is persistent, unexplained, or linked to suspected complex conditions like IBD or immune disorders.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "For mild diarrhea after viral illness", "value": "A" },
+	          { "text": "If cause remains unclear or complex disease is suspected", "value": "B" },
+	          { "text": "If symptoms improve with oral rehydration", "value": "C" },
+	          { "text": "For single episode of abdominal pain", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "What is the recommended first step in the treatment of functional constipation in children at the secondary/tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Disimpaction is the initial step in constipation management. PEG 3350 is preferred due to safety and effectiveness.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start maintenance therapy immediately", "value": "A" },
+	          { "text": "Perform disimpaction using PEG 3350", "value": "B" },
+	          { "text": "Prescribe bisacodyl suppository", "value": "C" },
+	          { "text": "Give mineral oil for lubrication", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "What is the recommended dose of polyethylene glycol (PEG 3350) for disimpaction in children?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends 1 to 1.5 g/kg of PEG 3350 for disimpaction, taken with fluids over 3 hours.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "0.5–1 g/kg/day", "value": "A" },
+	          { "text": "1–1.5 g/kg mixed with 200 mL water or juice", "value": "B" },
+	          { "text": "5 mL/kg every 4 hours", "value": "C" },
+	          { "text": "3.3 g/kg/day of lactulose solution", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "Which of the following is true about the use of stimulant laxatives for constipation in children?",
+	      "correctAnswer": "B",
+	      "rationale": "Stimulants like bisacodyl and senna are used as rescue therapy, not long-term maintenance.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "They are always first-line maintenance therapy.", "value": "A" },
+	          { "text": "They are recommended for rescue therapy for less than 30 days.", "value": "B" },
+	          { "text": "Stimulants are safer than osmotic laxatives for long-term use.", "value": "C" },
+	          { "text": "They are contraindicated in all age groups.", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "What is the correct dose of saline enema for disimpaction therapy?",
+	      "correctAnswer": "A",
+	      "rationale": "Saline enemas are dosed at 5–10 mL/kg for disimpaction therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "5–10 mL per kg", "value": "A" },
+	          { "text": "15–30 mL per kg", "value": "B" },
+	          { "text": "3 mL/kg/hour", "value": "C" },
+	          { "text": "1–2 suppositories daily", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "What is the goal of maintenance therapy in functional constipation after disimpaction?",
+	      "correctAnswer": "D",
+	      "rationale": "Maintenance therapy ensures soft stools and prevents recurrence of hard stools.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Avoid use of oral medications", "value": "A" },
+	          { "text": "Continue enemas twice a week", "value": "B" },
+	          { "text": "Allow spontaneous resolution of bowel movement", "value": "C" },
+	          { "text": "Keep stool soft to prevent re-accumulation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "Which of the following is NOT a recommended component of osmotic laxative maintenance therapy?",
+	      "correctAnswer": "B",
+	      "rationale": "Bisacodyl is a stimulant laxative, not an osmotic. PEG, lactulose, and magnesium hydroxide are used for maintenance.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Polyethylene glycol 3350", "value": "A" },
+	          { "text": "Bisacodyl", "value": "B" },
+	          { "text": "Lactulose", "value": "C" },
+	          { "text": "Magnesium hydroxide", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Constipation",
+	      "text": "Which of the following statements is TRUE regarding non-pharmacological support in constipation?",
+	      "correctAnswer": "B",
+	      "rationale": "Non-pharmacological measures (diet, fluid, activity) are essential to prevent recurrence and are part of ongoing care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only use after all drugs have failed", "value": "A" },
+	          { "text": "It should be continued as a preventative approach throughout", "value": "B" },
+	          { "text": "It replaces the need for any laxative in children", "value": "C" },
+	          { "text": "It is optional and based solely on parent preference", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Food allergy",
+	      "text": "A child in tertiary care develops hypotension and wheezing after a known allergen exposure. What is the immediate first step?",
+	      "correctAnswer": "A",
+	      "rationale": "Anaphylaxis requires immediate stabilization with the ABCDE approach and epinephrine as first-line treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Initiate ABCDE and give intramuscular epinephrine", "value": "A" },
+	          { "text": "Administer IV fluids and wait", "value": "B" },
+	          { "text": "Perform allergy testing first", "value": "C" },
+	          { "text": "Give antihistamines and observe", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "Food allergy",
+	      "text": "Which of the following is the correct EpiPen dose for a child weighing 20 kg?",
+	      "correctAnswer": "C",
+	      "rationale": "For children weighing 8–25 kg, the appropriate dose is 0.15 mg of epinephrine.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "0.3 mg", "value": "A" },
+	          { "text": "0.05 mg", "value": "B" },
+	          { "text": "0.15 mg", "value": "C" },
+	          { "text": "0.45 mg", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "24"
+	      },
+	      "type": "question",
+	      "title": "Food allergy",
+	      "text": "In long-term management of confirmed food allergy, which referral is most appropriate?",
+	      "correctAnswer": "B",
+	      "rationale": "Children with food allergy should be referred to a dietician for nutritional planning and an allergologist/gastroenterologist for tailored care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Cardiologist", "value": "A" },
+	          { "text": "Dietician and allergologist", "value": "B" },
+	          { "text": "Endocrinologist", "value": "C" },
+	          { "text": "Speech therapist", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "25"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "A child with severe Crohn’s disease presents with vomiting, weight loss, and abdominal pain. What is an appropriate initial step?",
+	      "correctAnswer": "B",
+	      "rationale": "Severely ill patients should be kept nil per oral, provided IV hydration, and parenteral nutrition as needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start oral corticosteroids and high-fiber diet", "value": "A" },
+	          { "text": "Keep NPO, start IV fluids, and consider parenteral nutrition", "value": "B" },
+	          { "text": "Begin full feeds and probiotics immediately", "value": "C" },
+	          { "text": "Refer for surgical resection without medical trial", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "26"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "Which medication can be used to induce and maintain remission in mild to moderate colonic Crohn’s disease?",
+	      "correctAnswer": "A",
+	      "rationale": "5-ASA compounds (e.g., mesalazine) are effective for mild to moderate colonic Crohn’s disease.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mesalazine or sulfasalazine", "value": "A" },
+	          { "text": "Azathioprine", "value": "B" },
+	          { "text": "Metronidazole only", "value": "C" },
+	          { "text": "Infliximab", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "27"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "Which statement is correct regarding corticosteroids in IBD management?",
+	      "correctAnswer": "C",
+	      "rationale": "Corticosteroid enemas are appropriate for rectal disease, while systemic steroids are used for induction, not maintenance.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "They are preferred for long-term maintenance therapy", "value": "A" },
+	          { "text": "Budesonide is avoided in ileocecal disease", "value": "B" },
+	          { "text": "Corticosteroid enemas are used for rectal disease", "value": "C" },
+	          { "text": "Glucocorticoids are first-line agents for maintenance", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "28"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "Which of the following is NOT an indication for anti-TNF therapy in Crohn’s disease?",
+	      "correctAnswer": "C",
+	      "rationale": "Anti-TNF agents are reserved for moderate-to-severe or refractory/fistulizing disease, not stable mild disease.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Moderate-to-severe luminal disease", "value": "A" },
+	          { "text": "Fistulizing perianal disease", "value": "B" },
+	          { "text": "Mild disease with stable remission", "value": "C" },
+	          { "text": "Steroid-refractory disease", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "29"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "Which dietary strategy is commonly used to help induce remission and address nutritional deficiencies in pediatric Crohn’s disease?",
+	      "correctAnswer": "A",
+	      "rationale": "Elemental/modular diets are effective in inducing remission in Crohn’s disease, and are paired with supplementation (e.g., iron, B12, vitamin D) to manage growth failure and deficiencies.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Elemental or modular diets", "value": "A" },
+	          { "text": "High-fat, low-fiber diets", "value": "B" },
+	          { "text": "Gluten-free diet for all patients", "value": "C" },
+	          { "text": "Intermittent fasting", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "30"
+	      },
+	      "type": "question",
+	      "title": "Coeliac disease",
+	      "text": "A child with undiagnosed coeliac disease presents with severe diarrhea, hypotension, and signs of shock. What is the immediate priority?",
+	      "correctAnswer": "A",
+	      "rationale": "In cases of coeliac crisis, immediate treatment of life-threatening dehydration or anemia is essential before initiating other interventions.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stabilize with fluids and treat life-threatening dehydration", "value": "A" },
+	          { "text": "Begin iron supplements and refer", "value": "B" },
+	          { "text": "Prescribe gluten-free diet and reassess next day", "value": "C" },
+	          { "text": "Order HLA typing before any treatment", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "31"
+	      },
+	      "type": "question",
+	      "title": "Coeliac disease",
+	      "text": "Which of the following grains is safe for children with coeliac disease to consume?",
+	      "correctAnswer": "C",
+	      "rationale": "Rice is gluten-free and safe. Others like wheat, rye, barley, and spelt contain gluten and must be avoided permanently.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Barley", "value": "A" },
+	          { "text": "Rye", "value": "B" },
+	          { "text": "Rice", "value": "C" },
+	          { "text": "Spelt", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "32"
+	      },
+	      "type": "question",
+	      "title": "Coeliac disease",
+	      "text": "What is an essential component of long-term management for a child with coeliac disease?",
+	      "correctAnswer": "B",
+	      "rationale": "Children with coeliac disease require a lifelong gluten-free diet, even if symptoms resolve, to prevent complications and support growth.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Gradual reintroduction of gluten after 6 months", "value": "A" },
+	          { "text": "Lifelong gluten-free diet", "value": "B" },
+	          { "text": "Avoid all carbohydrates", "value": "C" },
+	          { "text": "Discontinue treatment once symptoms improve", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "33"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "In a child with acute liver failure and signs of shock, what is the recommended initial fluid resuscitation strategy?",
+	      "correctAnswer": "B",
+	      "rationale": "Volume repletion with normal saline (20 mL/kg bolus, repeat if necessary) is the first-line fluid in hemodynamic compromise due to liver failure.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Dextrose 5% at maintenance rate", "value": "A" },
+	          { "text": "Normal saline 20 mL/kg bolus", "value": "B" },
+	          { "text": "Colloid infusion 10 mL/kg", "value": "C" },
+	          { "text": "Ringer’s lactate 50 mL/kg over 1 hour", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "34"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "What is the goal when using lactulose to control hyperammonemia in children with acute liver failure?",
+	      "correctAnswer": "C",
+	      "rationale": "Lactulose helps lower ammonia levels by targeting the gut; the goal is 2–4 loose stools/day to ensure effective clearance.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Produce no bowel movements", "value": "A" },
+	          { "text": "Produce 1 hard stool daily", "value": "B" },
+	          { "text": "Produce 2–4 loose stools daily", "value": "C" },
+	          { "text": "Eradicate all gut bacteria", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "35"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "What should be done after stabilizing a child with acute liver failure at a secondary facility?",
+	      "correctAnswer": "A",
+	      "rationale": "All children with acute liver failure must be referred to tertiary care after stabilization, as definitive care requires specialist input.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer to a tertiary facility for further management", "value": "A" },
+	          { "text": "Discharge with follow-up in 3 days", "value": "B" },
+	          { "text": "Start long-term steroids", "value": "C" },
+	          { "text": "Monitor only liver enzyme trends", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "36"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which of the following supports neuroprotection in a child with hepatic encephalopathy?",
+	      "correctAnswer": "D",
+	      "rationale": "Head elevation helps reduce the risk of increased intracranial pressure, a serious complication of hepatic encephalopathy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Head-down position and hyperventilation", "value": "A" },
+	          { "text": "Deep sedation without airway support", "value": "B" },
+	          { "text": "Rapid fluid boluses", "value": "C" },
+	          { "text": "Elevating head of bed to 30°", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "37"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which of the following is a clear indication for early intubation in a child with acute liver failure?",
+	      "correctAnswer": "B",
+	      "rationale": "Rapidly worsening encephalopathy requires early intubation to protect the airway and prevent further neurological compromise.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mild hyperbilirubinemia", "value": "A" },
+	          { "text": "Rapidly progressing encephalopathy", "value": "B" },
+	          { "text": "Normal ammonia level with mild confusion", "value": "C" },
+	          { "text": "Coagulopathy without bleeding", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "38"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "A child with ALF is hypotensive and poorly responsive to two normal saline boluses. What is the next step?",
+	      "correctAnswer": "A",
+	      "rationale": "If a child with ALF remains hypotensive despite fluid resuscitation, vasopressors should be initiated to support perfusion.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start vasopressors", "value": "A" },
+	          { "text": "Give another fluid bolus", "value": "B" },
+	          { "text": "Begin oral rehydration", "value": "C" },
+	          { "text": "Delay treatment until renal function tests return", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "39"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which of the following can be used to treat raised ICP in acute liver failure?",
+	      "correctAnswer": "C",
+	      "rationale": "Mannitol (0.5–1 g/kg) and 3% hypertonic saline are both effective options for reducing intracranial pressure in ALF.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Acetazolamide", "value": "A" },
+	          { "text": "Dexamethasone", "value": "B" },
+	          { "text": "Mannitol or hypertonic saline", "value": "C" },
+	          { "text": "Diuretics and head-down positioning", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "40"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "What is the recommended treatment for active bleeding due to coagulopathy in acute liver failure?",
+	      "correctAnswer": "D",
+	      "rationale": "Management includes IV vitamin K and FFP (15 mL/kg) for patients with active bleeding.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral vitamin K and observation", "value": "A" },
+	          { "text": "Steroids and transfusion", "value": "B" },
+	          { "text": "Albumin and vitamin D", "value": "C" },
+	          { "text": "IV Vitamin K and FFP transfusion", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "41"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which medication is indicated in a child with acute liver failure due to acetaminophen overdose?",
+	      "correctAnswer": "A",
+	      "rationale": "N-acetylcysteine is the antidote of choice for paracetamol (acetaminophen) toxicity, and is a cornerstone in ALF related to overdose.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "N-acetylcysteine", "value": "A" },
+	          { "text": "Lactulose", "value": "B" },
+	          { "text": "Metronidazole", "value": "C" },
+	          { "text": "Prednisolone", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "42"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which antibiotic is recommended for prophylaxis against infection in a child with acute liver failure?",
+	      "correctAnswer": "C",
+	      "rationale": "Ceftriaxone (50 mg/kg/day) is the recommended prophylactic antibiotic in acute liver failure due to the high risk of infection and sepsis in these patients.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Amoxicillin", "value": "A" },
+	          { "text": "Azithromycin", "value": "B" },
+	          { "text": "Ceftriaxone", "value": "C" },
+	          { "text": "Metronidazole", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "43"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "A 2-year-old with liver cirrhosis is underweight and not meeting caloric needs through oral feeds. What is the next appropriate step?",
+	      "correctAnswer": "B",
+	      "rationale": "High-caloric-density feeding, including via nasogastric tube, is essential for growth in children with liver cirrhosis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stop feeds to rest the liver", "value": "A" },
+	          { "text": "Initiate nasogastric tube feeding with high-caloric-density formula", "value": "B" },
+	          { "text": "Begin high-protein diet immediately", "value": "C" },
+	          { "text": "Limit fluids to 20% of maintenance", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "44"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "Which of the following is a correct daily dose of fat-soluble vitamin supplementation in pediatric liver cirrhosis?",
+	      "correctAnswer": "D",
+	      "rationale": "Children with cholestasis require high-dose fat-soluble vitamins, including Vitamin E: 10–20 mg/kg/day.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Vitamin E: 2 mg/kg/day", "value": "A" },
+	          { "text": "Vitamin A: 100 IU/day", "value": "B" },
+	          { "text": "Vitamin D: 300 IU/day", "value": "C" },
+	          { "text": "Vitamin E: 10–20 mg/kg/day", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "45"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "A child with cholestatic liver disease has severe pruritus. What is an appropriate first-line medication?",
+	      "correctAnswer": "A",
+	      "rationale": "Cholestyramine is often first-line for pruritus in children with cholestatic disease.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Cholestyramine", "value": "A" },
+	          { "text": "Vitamin C", "value": "B" },
+	          { "text": "Prednisolone", "value": "C" },
+	          { "text": "Loperamide", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "46"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "Which of the following is the best initial management for ascites in a child with liver cirrhosis?",
+	      "correctAnswer": "C",
+	      "rationale": "Spironolactone with furosemide and salt/fluid restriction is standard; aggressive diuresis or paracentesis is avoided due to renal risks.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Aggressive IV fluids", "value": "A" },
+	          { "text": "Rapid paracentesis", "value": "B" },
+	          { "text": "Spironolactone and furosemide", "value": "C" },
+	          { "text": "Albumin bolus followed by diuresis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "47"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "Which of the following would be used to manage active bleeding in pediatric liver cirrhosis with coagulopathy?",
+	      "correctAnswer": "D",
+	      "rationale": "IV vitamin K, FFP, and platelets are used for bleeding; oral vitamin K alone is insufficient during active bleeding.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral iron only", "value": "A" },
+	          { "text": "Albumin", "value": "B" },
+	          { "text": "Oral vitamin K only", "value": "C" },
+	          { "text": "IV vitamin K, FFP, and platelets as needed", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "48"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "What non-medical support should be included in the management of pediatric liver cirrhosis?",
+	      "correctAnswer": "A",
+	      "rationale": "Children and families need ongoing education, psychological support, and often palliative care consultation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Family education and palliative care consultation", "value": "A" },
+	          { "text": "Isolation from school and social activities", "value": "B" },
+	          { "text": "No physiotherapy during decompensation", "value": "C" },
+	          { "text": "Delay psychosocial support until transplant listed", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "49"
+	      },
+	      "type": "question",
+	      "title": "Portal hypertension",
+	      "text": "A child with portal hypertension presents with hematemesis. Which of the following is an essential step in the acute management?",
+	      "correctAnswer": "C",
+	      "rationale": "Octreotide is a first-line agent in acute variceal bleeding due to its ability to reduce splanchnic blood flow and portal pressure.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral iron and observe", "value": "A" },
+	          { "text": "High-volume IV fluids to restore blood pressure", "value": "B" },
+	          { "text": "Octreotide bolus and continuous IV infusion", "value": "C" },
+	          { "text": "Oral beta-blockers", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "50"
+	      },
+	      "type": "question",
+	      "title": "Portal hypertension",
+	      "text": "What is the target hemoglobin level when giving packed red blood cells to a child with acute variceal bleeding?",
+	      "correctAnswer": "A",
+	      "rationale": "Over-transfusion increases portal pressure and bleeding risk. The goal Hb is 7–9 g/dL to balance perfusion and bleeding risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "7–9 g/dL", "value": "A" },
+	          { "text": "10–12 g/dL", "value": "B" },
+	          { "text": "12–14 g/dL", "value": "C" },
+	          { "text": ">14 g/dL", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "51"
+	      },
+	      "type": "question",
+	      "title": "Portal hypertension",
+	      "text": "Why is lactulose used in children with portal hypertension and GI bleeding?",
+	      "correctAnswer": "D",
+	      "rationale": "Lactulose reduces ammonia absorption in the gut, thereby helping to prevent or manage hepatic encephalopathy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To promote weight gain", "value": "A" },
+	          { "text": "To treat anemia", "value": "B" },
+	          { "text": "To stop further bleeding", "value": "C" },
+	          { "text": "To reduce ammonia levels and prevent encephalopathy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "52"
+	      },
+	      "type": "question",
+	      "title": "Portal hypertension",
+	      "text": "Which of the following medications should be administered to all children with GI bleeding and suspected portal hypertension?",
+	      "correctAnswer": "B",
+	      "rationale": "IV ceftriaxone is given to reduce the risk of bacterial infection, which is common in variceal bleeding and worsens prognosis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Ranitidine", "value": "A" },
+	          { "text": "Intravenous ceftriaxone", "value": "B" },
+	          { "text": "Metronidazole", "value": "C" },
+	          { "text": "Furosemide", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "53"
+	      },
+	      "type": "question",
+	      "title": "Ascites",
+	      "text": "In a child with severe ascites and hyponatremia (Na⁺ <125 mEq/L), which of the following fluid strategies is contraindicated and should be strictly avoided?",
+	      "correctAnswer": "C",
+	      "rationale": "DO NOT give hypertonic intravenous fluids in children with ascites, as they can increase total body sodium and lead to worsening ascites and fluid overload. Enteral fluids are preferred if resuscitation is needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Use of enteral fluids when resuscitation is needed", "value": "A" },
+	          { "text": "Salt and water restriction to 70–80% of maintenance", "value": "B" },
+	          { "text": "Administration of hypertonic intravenous fluids", "value": "C" },
+	          { "text": "Monitoring serum sodium and fluid balance closely", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "54"
+	      },
+	      "type": "question",
+	      "title": "Ascites",
+	      "text": "Which of the following is the first-line diuretic for managing ascites in a pediatric patient?",
+	      "correctAnswer": "B",
+	      "rationale": "Spironolactone is the preferred first-line diuretic due to its action on aldosterone-driven sodium retention in ascites.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Furosemide", "value": "A" },
+	          { "text": "Spironolactone", "value": "B" },
+	          { "text": "Hydrochlorothiazide", "value": "C" },
+	          { "text": "Mannitol", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "55"
+	      },
+	      "type": "question",
+	      "title": "Ascites",
+	      "text": "When is therapeutic paracentesis indicated in the management of pediatric ascites?",
+	      "correctAnswer": "A",
+	      "rationale": "Paracentesis is used for symptomatic relief in cases of refractory ascites or respiratory distress.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "When there is respiratory distress or failure to respond to medical therapy", "value": "A" },
+	          { "text": "Immediately after ascites diagnosis", "value": "B" },
+	          { "text": "For all patients with serum albumin <3", "value": "C" },
+	          { "text": "Only in cases of confirmed infection", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "56"
+	      },
+	      "type": "question",
+	      "title": "Ascites",
+	      "text": "How should clinicians assess response to diuretic therapy in a child being treated for ascites?",
+	      "correctAnswer": "C",
+	      "rationale": "The most practical and effective way to assess diuretic response is by monitoring daily weight, which reflects fluid loss.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Monitor serum albumin", "value": "A" },
+	          { "text": "Repeat abdominal ultrasound daily", "value": "B" },
+	          { "text": "Monitor daily weight trends", "value": "C" },
+	          { "text": "Check stool frequency", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

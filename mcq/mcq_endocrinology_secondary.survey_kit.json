@@ -1,0 +1,476 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": { "id": "1" },
+	      "type": "intro",
+	      "title": "MCQ_Endocrinology_Final.docx",
+	      "text": "Multiple Choice for Secondary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": { "id": "2" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "Which of the following is a correct glycaemic target range for fasting finger capillary glucose in children with diabetes?",
+	      "correctAnswer": "D",
+	      "rationale": "The recommended fasting glucose range is 4–8 mmol/L (70–144 mg/dL) as per the guideline, to minimize hypoglycemia and hyperglycemia risks.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "4.5–6.5 mmol/L", "value": "A" },
+	          { "text": "5–15 mmol/L", "value": "B" },
+	          { "text": "3.5–7.5 mmol/L", "value": "C" },
+	          { "text": "4–8 mmol/L", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "3" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "A 10-year-old child is newly diagnosed with type 1 diabetes. Which initial investigation is most appropriate?",
+	      "correctAnswer": "B",
+	      "rationale": "Secondary care investigation includes random and fasting blood sugar plus urine dipstick to assess glucose and ketones.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "HbA1c only", "value": "A" },
+	          { "text": "Random blood sugar, fasting blood sugar, and urine dipstick", "value": "B" },
+	          { "text": "Only urine ketones", "value": "C" },
+	          { "text": "Glucose tolerance test", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "4" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "Prepubertal and pubertal children with diabetes typically require insulin at what total daily dosage?",
+	      "correctAnswer": "A",
+	      "rationale": "The total insulin requirement is usually 0.5–1.0 IU/kg/day, depending on age and stage of development.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "0.5 to 1.0 IU/kg/day", "value": "A" },
+	          { "text": "0.1 to 0.3 IU/kg/day", "value": "B" },
+	          { "text": "1.5 IU/kg every 8 hours", "value": "C" },
+	          { "text": "2 IU/kg/day", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "5" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "How is soluble insulin typically distributed across the day according to the guideline?",
+	      "correctAnswer": "C",
+	      "rationale": "Soluble insulin is given as 1/3 of the total dose before each main meal (AM, noon, PM).",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Entire dose in the morning only", "value": "A" },
+	          { "text": "Half in the morning, half in the evening", "value": "B" },
+	          { "text": "One-third of the total daily dose given before each main meal", "value": "C" },
+	          { "text": "All with dinner to cover overnight hyperglycemia", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "6" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "What proportion of the total daily NPH insulin dose is administered in the morning?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline specifies that two-thirds of the NPH dose should be given in the morning, and one-third in the evening.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "One-third", "value": "A" },
+	          { "text": "One-half", "value": "B" },
+	          { "text": "Two-thirds", "value": "C" },
+	          { "text": "All of it", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "7" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "How frequently should finger capillary glucose be checked in children with diabetes on insulin?",
+	      "correctAnswer": "C",
+	      "rationale": "Monitoring at least 3 times daily is essential for safe insulin adjustment and avoiding hypo-/hyperglycemia.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Once daily", "value": "A" },
+	          { "text": "Twice daily", "value": "B" },
+	          { "text": "At least 3 times daily", "value": "C" },
+	          { "text": "Only when symptoms occur", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "8" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "A child presents with DKA and is in shock. What is the correct initial fluid management step?",
+	      "correctAnswer": "C",
+	      "rationale": "Fluid resuscitation is the first step; 20 ml/kg bolus of 0.9% saline/RL over 20–30 minutes is recommended to restore circulation in shock/dehydration.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start insulin immediately", "value": "A" },
+	          { "text": "Give 10 ml/kg of 0.45% saline over 1 hour", "value": "B" },
+	          { "text": "Give 20 ml/kg bolus of 0.9% saline or RL", "value": "C" },
+	          { "text": "Withhold fluids until blood sugar is corrected", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "9" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "When should insulin therapy be started in DKA management?",
+	      "correctAnswer": "C",
+	      "rationale": "Insulin must be started at least 1 hour after fluids to avoid sudden shifts in osmolarity and reduce cerebral edema risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "At the same time as fluid resuscitation", "value": "A" },
+	          { "text": "Only after blood glucose exceeds 300 mg/dL", "value": "B" },
+	          { "text": "At least 1 hour after starting fluid therapy", "value": "C" },
+	          { "text": "Immediately after ketone check", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "10" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "What is the recommended starting dose of insulin infusion in DKA management?",
+	      "correctAnswer": "A",
+	      "rationale": "Insulin infusion begins at 0.05 IU/kg/hour after fluid resuscitation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "0.05 IU/kg/hour", "value": "A" },
+	          { "text": "1.0 IU/kg/hour", "value": "B" },
+	          { "text": "0.01 IU/kg/hour", "value": "C" },
+	          { "text": "0.5 IU/kg/hour", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "11" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "Which of the following is a key sign of possible cerebral edema in a child with DKA?",
+	      "correctAnswer": "C",
+	      "rationale": "Cerebral edema often presents with headache, vomiting, decreased consciousness, and neurological signs.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hyperreflexia", "value": "A" },
+	          { "text": "Increased urination", "value": "B" },
+	          { "text": "Headache, vomiting, and altered mental status", "value": "C" },
+	          { "text": "Hypotension only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "12" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "Which factor increases the risk of developing cerebral edema in children with DKA?",
+	      "correctAnswer": "D",
+	      "rationale": "Severe acidosis and elevated BUN are significant risk factors for cerebral edema in DKA.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Age >12 years", "value": "A" },
+	          { "text": "Slow rehydration", "value": "B" },
+	          { "text": "Blood glucose <300 mg/dL", "value": "C" },
+	          { "text": "pH < 7.1 and BUN > 20 mg/dL", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "13" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "When should hourly blood glucose checks begin during insulin therapy?",
+	      "correctAnswer": "B",
+	      "rationale": "Hourly blood glucose monitoring is critical after starting insulin to monitor drops and adjust dosing.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "After 12 hours of treatment", "value": "A" },
+	          { "text": "After initiating insulin infusion", "value": "B" },
+	          { "text": "After urine output is normal", "value": "C" },
+	          { "text": "Only when ketones normalize", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "14" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "Once DKA resolves and subcutaneous insulin is administered, what should be done with the IV insulin?",
+	      "correctAnswer": "A",
+	      "rationale": "IV insulin is continued for 30 minutes after subcutaneous insulin to ensure overlap and prevent rebound hyperglycemia.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Continue IV insulin for 30 minutes, then stop", "value": "A" },
+	          { "text": "Stop IV insulin immediately", "value": "B" },
+	          { "text": "Double the insulin dose", "value": "C" },
+	          { "text": "Start oral glucose concurrently", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "15" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "Which of the following is the most appropriate next step at the primary care level for a child presenting with poor growth, fatigue, and constipation?",
+	      "correctAnswer": "B",
+	      "rationale": "These symptoms suggest a possible thyroid disorder. At the primary care level, the appropriate role is to recognize these red flags and refer the child to a higher-level facility for full evaluation and treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start thyroid hormone therapy immediately", "value": "A" },
+	          { "text": "Recognize these as possible signs of thyroid dysfunction and refer to tertiary care", "value": "B" },
+	          { "text": "Order antibody tests and thyroid ultrasound", "value": "C" },
+	          { "text": "Give high-calorie diet and schedule review in one month", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "16" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "A child with suspected thyroid disorder becomes lethargic and has low blood sugar during assessment. What is the appropriate action at the primary level?",
+	      "correctAnswer": "D",
+	      "rationale": "Hypoglycemia is an emergency that requires immediate treatment. The ETAT protocol should be followed before referral, even if the thyroid condition is still being evaluated.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start antithyroid medication", "value": "A" },
+	          { "text": "Refer without stabilizing", "value": "B" },
+	          { "text": "Wait to confirm thyroid diagnosis before intervention", "value": "C" },
+	          { "text": "Manage hypoglycemia using the ETAT protocol", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "17" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "Which of the following investigations is appropriate at the secondary level when evaluating a child with suspected acquired hypothyroidism?",
+	      "correctAnswer": "B",
+	      "rationale": "At the secondary level, clinicians should perform baseline investigations, including serum electrolytes and liver function tests, as part of the initial assessment of suspected acquired hypothyroidism.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "HbA1c and urine ketones", "value": "A" },
+	          { "text": "Serum electrolytes and liver function tests", "value": "B" },
+	          { "text": "Thyroid ultrasound only", "value": "C" },
+	          { "text": "Growth hormone stimulation test", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "18" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "A child with acquired hypothyroidism presents with bradycardia and fatigue. After confirming low serum sodium, what should the secondary-level clinician do next?",
+	      "correctAnswer": "A",
+	      "rationale": "Secondary-level providers are responsible for stabilizing the patient and managing any acute issues (e.g., hyponatremia) before referral to a higher-level facility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Manage the acute illness per protocol and prepare for referral", "value": "A" },
+	          { "text": "Start thyroid hormone therapy immediately", "value": "B" },
+	          { "text": "Refer without intervention", "value": "C" },
+	          { "text": "Begin fluid restriction and discharge", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "19" },
+	      "type": "question",
+	      "title": "Hyperthyroidism",
+	      "text": "Which of the following investigations is appropriate at the secondary level for a child with suspected hyperthyroidism?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline specifies that secondary-level providers should perform serum electrolytes and liver function tests as part of the baseline tests for suspected hyperthyroidism.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Full blood count and chest X-ray", "value": "A" },
+	          { "text": "Serum electrolytes and liver function tests", "value": "B" },
+	          { "text": "Thyroid antibody testing", "value": "C" },
+	          { "text": "TSH and free T4 only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "20" },
+	      "type": "question",
+	      "title": "Hyperthyroidism",
+	      "text": "What should a secondary-level provider do if a child with hyperthyroidism presents with elevated blood pressure?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline clearly instructs that hypertension should be managed at the secondary level according to the section on hypertension.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer the patient without any further management", "value": "A" },
+	          { "text": "Manage hypertension as per the hypertension section", "value": "B" },
+	          { "text": "Prescribe thyroid medication to lower the blood pressure", "value": "C" },
+	          { "text": "Wait for tertiary review to address blood pressure", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "21" },
+	      "type": "question",
+	      "title": "Approach to disorders of sex development (Ambiguous Genitalia)",
+	      "text": "Which investigation is appropriate at the secondary level for a child with ambiguous genitalia, if resources are available?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline states that pelvic and abdominal ultrasound (USS) should be performed if available to assess internal reproductive structures.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Pelvic and abdominal ultrasound", "value": "A" },
+	          { "text": "Genetic sequencing", "value": "B" },
+	          { "text": "X-ray of the pelvis", "value": "C" },
+	          { "text": "Brain MRI", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "22" },
+	      "type": "question",
+	      "title": "Approach to disorders of sex development (Ambiguous Genitalia)",
+	      "text": "What is a key management step at the secondary level for a newborn with ambiguous genitalia and signs of hypoglycemia?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline instructs secondary-level providers to give supportive care, including correction of dehydration and hypoglycemia, before referring to a higher level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start hormone therapy immediately", "value": "A" },
+	          { "text": "Provide supportive care and correct dehydration and hypoglycemia", "value": "B" },
+	          { "text": "Delay treatment until endocrine review", "value": "C" },
+	          { "text": "Perform surgical correction", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "23" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "Which of the following investigations is part of the baseline tests for suspected Congenital Adrenal Hyperplasia at the secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline for secondary care includes serum electrolytes and abdominal/pelvic ultrasound as part of the baseline workup for CAH.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Liver function tests and chest X-ray", "value": "A" },
+	          { "text": "Serum electrolytes and abdominal/pelvic ultrasound", "value": "B" },
+	          { "text": "Genetic sequencing and antibody testing", "value": "C" },
+	          { "text": "MRI of the adrenal glands", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "24" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "A child with suspected CAH presents with lethargy, vomiting, and low blood glucose. What is the correct immediate action at the secondary level?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline states that secondary-level providers must stabilize the patient, especially by managing dehydration and hypoglycemia, before referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer immediately without intervention", "value": "A" },
+	          { "text": "Schedule hormone testing before treatment", "value": "B" },
+	          { "text": "Start long-term steroid therapy", "value": "C" },
+	          { "text": "Stabilize the patient by correcting dehydration and hypoglycemia", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "25" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "Which of the following is a correct responsibility of a secondary-level provider in the approach to CAH?",
+	      "correctAnswer": "C",
+	      "rationale": "At the secondary level, the provider should recognize signs, perform specified baseline tests, stabilize the child, and then refer to tertiary care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Confirm diagnosis and initiate definitive treatment", "value": "A" },
+	          { "text": "Conduct genetic analysis and start hormone replacement", "value": "B" },
+	          { "text": "Identify diagnostic indicators, perform baseline tests, and refer", "value": "C" },
+	          { "text": "Discharge the patient after emergency treatment", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "26" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "Which set of investigations is appropriate at the secondary level when evaluating a child with a suspected growth disorder?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline specifies that RBS, FBC, and ESR should be done at the secondary level to help screen for chronic illness, infection, or systemic disease affecting growth.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Thyroid profile and MRI", "value": "A" },
+	          { "text": "Random blood sugar, full blood count, and erythrocyte sedimentation rate (ESR)", "value": "B" },
+	          { "text": "Genetic testing and bone biopsy", "value": "C" },
+	          { "text": "Liver function test and ECG", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "27" },
+	      "type": "question",
+	      "title": "Tall Stature",
+	      "text": "What is a key tool used at the primary or secondary level to assess tall stature in children?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline states that height and weight should be plotted on a growth chart, which helps determine whether a child’s stature is significantly above average for age and sex.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "BMI calculator", "value": "A" },
+	          { "text": "Growth chart for height and weight plotting", "value": "B" },
+	          { "text": "Hormone assay panel", "value": "C" },
+	          { "text": "Genetic sequencing report", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "28" },
+	      "type": "question",
+	      "title": "Tall Stature",
+	      "text": "Which of the following is an essential component when evaluating a child with tall stature at the primary or secondary level?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline specifies history and physical examination as fundamental steps in the assessment of tall stature at the primary and secondary levels before referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "History and physical examination", "value": "A" },
+	          { "text": "Bone age X-ray", "value": "B" },
+	          { "text": "Genetic testing", "value": "C" },
+	          { "text": "Hormone suppression therapy", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

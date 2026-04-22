@@ -1,0 +1,867 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": { "id": "1" },
+	      "type": "intro",
+	      "title": "Neonatology",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": { "id": "2" },
+	      "type": "question",
+	      "title": "Neonatal resuscitation",
+	      "text": "What must be managed in neonates at the tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Management includes hypoxia, acidosis, and both electrolyte and metabolic derangements.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only glucose levels", "value": "A" },
+	          { "text": "Hypoxia and metabolic issues", "value": "B" },
+	          { "text": "Jaundice and feeding", "value": "C" },
+	          { "text": "Birth trauma", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "3" },
+	      "type": "question",
+	      "title": "Neonatal resuscitation",
+	      "text": "How should a neonate with a poor gag reflex be fed?",
+	      "correctAnswer": "C",
+	      "rationale": "NG feeding reduces the aspiration risk in neonates with weak gag reflex or poor suck.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Cup", "value": "A" },
+	          { "text": "Breast", "value": "B" },
+	          { "text": "Nasogastric (NG)", "value": "C" },
+	          { "text": "Intravenous fluids only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "4" },
+	      "type": "question",
+	      "title": "Neonatal resuscitation",
+	      "text": "How should convulsions or apnoea be managed in a neonate?",
+	      "correctAnswer": "A",
+	      "rationale": "Immediate treatment per neonatal protocol is critical when convulsions or apnoea occur.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Wait and observe", "value": "A" },
+	          { "text": "Refer to outpatient", "value": "B" },
+	          { "text": "Follow treatment protocol", "value": "C" },
+	          { "text": "Use antibiotics only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "5" },
+	      "type": "question",
+	      "title": "Neonatal resuscitation",
+	      "text": "When should a full septic screen be performed?",
+	      "correctAnswer": "D",
+	      "rationale": "Persistent fever >38°C warrants infection evaluation with a full septic screen.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "If hypothermia is present", "value": "A" },
+	          { "text": "After feeding", "value": "B" },
+	          { "text": "At discharge", "value": "C" },
+	          { "text": "If temperature >38°C persists", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "6" },
+	      "type": "question",
+	      "title": "Neonatal resuscitation",
+	      "text": "Why is therapeutic hypothermia rarely used in low-resource settings?",
+	      "correctAnswer": "C",
+	      "rationale": "Therapeutic hypothermia has not shown reliable benefit in low-resource settings and is not routinely used there.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It is costly", "value": "A" },
+	          { "text": "It delays feeding", "value": "B" },
+	          { "text": "It lacks proven effectiveness", "value": "C" },
+	          { "text": "It requires sedation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "7" },
+	      "type": "question",
+	      "title": "CARE OF PREMATURE, SMALL FOR GESTATIONAL AGE AND LOW BIRTH WEIGHT",
+	      "text": "What is the correct management for an unstable preterm baby at a secondary or tertiary care facility?",
+	      "correctAnswer": "A",
+	      "rationale": "All unstable preterm babies must be stabilized and referred appropriately. Delaying referral or initiating KMC before stabilization is not safe.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stabilize the baby and refer to a higher-level facility if needed", "value": "A" },
+	          { "text": "Start oral feeds and discharge if vitals normalize", "value": "B" },
+	          { "text": "Observe for 24 hours and reassess later", "value": "C" },
+	          { "text": "Begin KMC immediately without further action", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "8" },
+	      "type": "question",
+	      "title": "CARE OF PREMATURE, SMALL FOR GESTATIONAL AGE AND LOW BIRTH WEIGHT",
+	      "text": "Which of the following stable preterm babies should be referred to tertiary care for specialized KMC?",
+	      "correctAnswer": "B",
+	      "rationale": "According to the guideline, stable babies with birth weight <1500g (like 1400g) must be referred to tertiary care. Babies between 1500g–2000g can be managed at the secondary level in a KMC ward.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "1800g", "value": "A" },
+	          { "text": "1400g", "value": "B" },
+	          { "text": "1600g", "value": "C" },
+	          { "text": "1900g", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "9" },
+	      "type": "question",
+	      "title": "SMALL FOR GESTATIONAL AGE",
+	      "text": "What is the recommended feeding approach for an SGA baby at secondary or tertiary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "Early feeding using NG, cup, or breast is essential for metabolic stability in SGA babies.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay feeding for 12 hours to avoid aspiration", "value": "A" },
+	          { "text": "Start IV fluids before any oral feeding attempt", "value": "B" },
+	          { "text": "Initiate feeding as early as possible using NG tube, cup, or breast", "value": "C" },
+	          { "text": "Withhold feeds until weight reaches 2.5 kg", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "10" },
+	      "type": "question",
+	      "title": "SMALL FOR GESTATIONAL AGE",
+	      "text": "What should be done if an SGA baby is too sick to tolerate oral feeds?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline allows IV fluids when the baby is too sick to tolerate oral feeds.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Continue trying cup feeds every 2 hours", "value": "A" },
+	          { "text": "Consider starting IV fluids for stabilization", "value": "B" },
+	          { "text": "Wait until the baby cries before feeding", "value": "C" },
+	          { "text": "Refer immediately without intervention", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "11" },
+	      "type": "question",
+	      "title": "SMALL FOR GESTATIONAL AGE",
+	      "text": "Which of the following interventions is appropriate for an SGA baby who is symptomatic or has sepsis risk factors?",
+	      "correctAnswer": "D",
+	      "rationale": "Babies with symptoms or risk factors for infection should be managed per the sepsis protocol and provided thermal protection, such as drying, hat, IKMC, or heater.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay antibiotics until blood cultures are positive", "value": "A" },
+	          { "text": "Refer directly to tertiary without any care", "value": "B" },
+	          { "text": "Warm the baby only if temperature falls below 35°C", "value": "C" },
+	          { "text": "Consider antibiotics and provide warmth using IKMC, heater, hat, or drying", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "12" },
+	      "type": "question",
+	      "title": "SMALL FOR GESTATIONAL AGE",
+	      "text": "When should antibiotics be considered for a Small for Gestational Age (SGA) baby at the secondary or tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "According to the guideline, antibiotics should be considered if the baby is symptomatic or has sepsis risk factors, following the sepsis protocol. Early intervention can be life-saving even before test results are available.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only after fever is confirmed", "value": "A" },
+	          { "text": "If the baby shows symptoms or has risk factors for sepsis", "value": "B" },
+	          { "text": "For all SGA babies regardless of symptoms", "value": "C" },
+	          { "text": "Only when CRP and blood culture results are positive", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "13" },
+	      "type": "question",
+	      "title": "KANGAROO MOTHER CARE (KMC/ (IKMC))",
+	      "text": "What should be considered for a premature baby who is too sick to tolerate oral feeds at the tertiary care level?",
+	      "correctAnswer": "A",
+	      "rationale": "If a baby is too sick for oral feeds, IV fluids should be initiated to prevent dehydration and support energy needs.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start intravenous (IV) fluids to maintain hydration and nutrition", "value": "A" },
+	          { "text": "Wait until the baby cries before feeding", "value": "B" },
+	          { "text": "Switch to exclusive formula feeding", "value": "C" },
+	          { "text": "Delay any feeding until the baby stabilizes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "14" },
+	      "type": "question",
+	      "title": "KANGAROO MOTHER CARE (KMC/ (IKMC))",
+	      "text": "Which of the following is an appropriate thermal care intervention for a preterm baby at tertiary care?",
+	      "correctAnswer": "B",
+	      "rationale": "Tertiary care should ensure warmth through drying, a hat, proximity to a heater, and intermittent or continuous KMC to prevent hypothermia.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Fan cooling followed by warm wraps", "value": "A" },
+	          { "text": "Drying, use of a hat, keeping near heater, and implementing KMC (IKMC)", "value": "B" },
+	          { "text": "Removing clothes to assess color hourly", "value": "C" },
+	          { "text": "Placing baby near a window for natural warmth", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "15" },
+	      "type": "question",
+	      "title": "KANGAROO MOTHER CARE (KMC/ (IKMC))",
+	      "text": "When should antibiotics be considered for a preterm baby receiving KMC at a tertiary facility?",
+	      "correctAnswer": "D",
+	      "rationale": "Antibiotics should be considered if the baby has symptoms or risk factors for infection, in line with the sepsis protocol.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only after culture results are confirmed", "value": "A" },
+	          { "text": "For all babies on KMC", "value": "B" },
+	          { "text": "When weight gain is slower than expected", "value": "C" },
+	          { "text": "If the baby is symptomatic or has sepsis risk factors", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "16" },
+	      "type": "question",
+	      "title": "NEONATAL HYPOGLYCAEMIA",
+	      "text": "What should be done when a baby requires more than 130 ml/kg/day of fluid for glucose delivery?",
+	      "correctAnswer": "B",
+	      "rationale": "Once the fluid volume reaches 130 ml/kg/day, the guideline advises increasing dextrose to 12.5% to deliver more glucose.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase feed frequency instead of adjusting IV fluid", "value": "A" },
+	          { "text": "Increase dextrose concentration to 12.5%", "value": "B" },
+	          { "text": "Add insulin to lower glucose needs", "value": "C" },
+	          { "text": "Shift to oral glucose supplements", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "17" },
+	      "type": "question",
+	      "title": "NEONATAL HYPOGLYCAEMIA",
+	      "text": "When is a central line indicated in the management of neonatal hypoglycemia?",
+	      "correctAnswer": "C",
+	      "rationale": "A central line is required if dextrose >12.5% is needed, as peripheral administration may cause vein damage.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "At 90 ml/kg/day of 10% dextrose", "value": "A" },
+	          { "text": "When blood sugar is <25 mg/dL", "value": "B" },
+	          { "text": "If dextrose concentration exceeds 12.5%", "value": "C" },
+	          { "text": "Only if baby requires IV antibiotics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "18" },
+	      "type": "question",
+	      "title": "NEONATAL HYPOGLYCAEMIA",
+	      "text": "Once the baby’s RBS normalizes, how should the glucose infusion be adjusted?",
+	      "correctAnswer": "A",
+	      "rationale": "The correct approach is to wean the glucose infusion gradually—by 2 mg/kg/min every 6 hours—once blood sugar is stable.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Reduce glucose infusion by 2 mg/kg/min every 6 hours", "value": "A" },
+	          { "text": "Discontinue glucose infusion immediately", "value": "B" },
+	          { "text": "Shift to 5% dextrose over 24 hours", "value": "C" },
+	          { "text": "Wean every 2 hours until RBS drops again", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "19" },
+	      "type": "question",
+	      "title": "NEONATAL HYPOGLYCAEMIA",
+	      "text": "What should be considered if hypoglycemia persists despite a glucose infusion rate of 12 mg/kg/min?",
+	      "correctAnswer": "D",
+	      "rationale": "Persistent hypoglycemia at maximum GIR suggests a possible underlying endocrine or metabolic issue, and consultation and further investigation are required.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase GIR to 16 mg/kg/min", "value": "A" },
+	          { "text": "Stop all dextrose and restart from 5%", "value": "B" },
+	          { "text": "Add multivitamins and observe", "value": "C" },
+	          { "text": "Consider endocrine or metabolic disorders and consult specialist", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "20" },
+	      "type": "question",
+	      "title": "NEONATAL HYPERGLYCAEMIA",
+	      "text": "Which of the following is an essential component of managing neonatal hyperglycaemia at the tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "In tertiary care, addressing dehydration, acidosis, and electrolyte imbalances is critical before considering insulin or further interventions.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start insulin immediately after referral", "value": "A" },
+	          { "text": "Correct dehydration, acidosis, and electrolyte disturbances", "value": "B" },
+	          { "text": "Begin oral feeds regardless of stability", "value": "C" },
+	          { "text": "Switch to 5% dextrose for maintenance", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "21" },
+	      "type": "question",
+	      "title": "NEONATAL HYPERGLYCAEMIA",
+	      "text": "When should insulin be considered in a neonate with hyperglycaemia?",
+	      "correctAnswer": "C",
+	      "rationale": "Insulin is not routinely indicated, but may be considered if glucose > 200 mg/dL with glycosuria and osmotic diuresis, indicating significant hyperglycaemic stress.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "RBS > 150 mg/dL for 1 hour", "value": "A" },
+	          { "text": "Any single reading > 200 mg/dL", "value": "B" },
+	          { "text": "RBS > 200 mg/dL with glycosuria and osmotic diuresis", "value": "C" },
+	          { "text": "At the first sign of weight loss", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "22" },
+	      "type": "question",
+	      "title": "NEONATAL HYPERGLYCAEMIA",
+	      "text": "If a neonate has persistent blood glucose > 190 mg/dL for more than 3 days without another cause, what should be considered?",
+	      "correctAnswer": "A",
+	      "rationale": "Persistent hyperglycaemia > 190 mg/dL for >3 days without an identifiable cause raises concern for neonatal diabetes mellitus, which may require endocrine evaluation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Neonatal diabetes mellitus", "value": "A" },
+	          { "text": "Intraventricular hemorrhage", "value": "B" },
+	          { "text": "Galactosemia", "value": "C" },
+	          { "text": "Transient hypoglycaemia of infancy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "23" },
+	      "type": "question",
+	      "title": "NEONATAL HYPERGLYCAEMIA",
+	      "text": "When should the care team discuss a neonate with hyperglycaemia with a consultant at the tertiary level?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline advises that consultants should be involved in ongoing management, especially if hyperglycaemia is persistent, complications are suspected, or insulin use is being considered.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only if blood glucose exceeds 300 mg/dL", "value": "A" },
+	          { "text": "After 24 hours of IV fluids regardless of glucose level", "value": "B" },
+	          { "text": "For guidance on further management or if the baby has complications", "value": "C" },
+	          { "text": "Only if insulin therapy is already started", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "24" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "A stable newborn with one risk factor for sepsis should be managed in which of the following ways?",
+	      "correctAnswer": "A",
+	      "rationale": "For stable newborns with one risk factor, antibiotics should be started and cultures reviewed at 72 hours to determine whether to continue or stop.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start antibiotics and review cultures at 72 hours", "value": "A" },
+	          { "text": "Observe only and start antibiotics if fever develops", "value": "B" },
+	          { "text": "Refer immediately to tertiary care without treatment", "value": "C" },
+	          { "text": "Wait for 48 hours before initiating treatment", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "25" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "When can antibiotics be safely stopped in a stable newborn at tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "If blood cultures are negative at 72 hours and the baby is clinically stable, antibiotics can be stopped.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "If baby appears well at 24 hours", "value": "A" },
+	          { "text": "After 72 hours if cultures are negative and the baby is well", "value": "B" },
+	          { "text": "Automatically after 5 days of antibiotics", "value": "C" },
+	          { "text": "When CRP is normal", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "26" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "What is the recommended first-line antibiotic regimen for early-onset sepsis?",
+	      "correctAnswer": "B",
+	      "rationale": "X-pen and Gentamicin are the first-line antibiotics for early-onset neonatal sepsis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Ceftriaxone and Vancomycin", "value": "A" },
+	          { "text": "X-pen (Penicillin) and Gentamicin", "value": "B" },
+	          { "text": "Meropenem and Vancomycin", "value": "C" },
+	          { "text": "Cefotaxime only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "27" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "Who should initiate second-line antibiotics according to the guidelines?",
+	      "correctAnswer": "B",
+	      "rationale": "Second-line antibiotics must be started by a registrar or junior doctor in consultation with a senior.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Nurses and clinicians at any level", "value": "A" },
+	          { "text": "A registrar or junior doctor in consultation with a senior", "value": "B" },
+	          { "text": "Any doctor with access to antibiotics", "value": "C" },
+	          { "text": "Pharmacists at the facility", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "28" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "Which of the following is a common causative organism in late-onset neonatal sepsis?",
+	      "correctAnswer": "B",
+	      "rationale": "Klebsiella spp. are common nosocomial pathogens implicated in late-onset neonatal sepsis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Group B Streptococcus", "value": "A" },
+	          { "text": "Klebsiella spp.", "value": "B" },
+	          { "text": "Listeria monocytogenes", "value": "C" },
+	          { "text": "Candida albicans", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "29" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "When should third-line antibiotics such as meropenem be used?",
+	      "correctAnswer": "B",
+	      "rationale": "Third-line antibiotics are reserved for cases where second-line treatments have failed and are initiated only under senior supervision.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "As part of routine treatment in preterm neonates", "value": "A" },
+	          { "text": "When second-line antibiotics fail and a consultant decides escalation is needed", "value": "B" },
+	          { "text": "In all cases of early-onset sepsis", "value": "C" },
+	          { "text": "When blood culture results are pending", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "30" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "If both the blood culture and CSF are negative, but the baby is still unwell, what is the appropriate next step?",
+	      "correctAnswer": "B",
+	      "rationale": "If cultures are negative but the baby remains unwell, ongoing infection must be suspected and antibiotics continued while investigating other sources.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stop antibiotics immediately", "value": "A" },
+	          { "text": "Continue antibiotics and seek further localization of infection", "value": "B" },
+	          { "text": "Repeat cultures and discharge", "value": "C" },
+	          { "text": "Change antibiotics based on local policy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "31" },
+	      "type": "question",
+	      "title": "NEONATAL SEPSIS",
+	      "text": "If a lumbar puncture (LP) is positive, how long should high-dose antibiotics be administered?",
+	      "correctAnswer": "D",
+	      "rationale": "For positive CSF results, high-dose IV antibiotics are required for 10 to 14 days, depending on the organism and clinical scenario.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "3 to 5 days", "value": "A" },
+	          { "text": "5 to 7 days", "value": "B" },
+	          { "text": "7 to 10 days", "value": "C" },
+	          { "text": "10 to 14 days", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "32" },
+	      "type": "question",
+	      "title": "APNOEA OF PREMATURITY",
+	      "text": "What is the next step in managing a neonate with recurrent apnoea at the tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "In cases of recurrent apnoea, a repeat loading dose may be given, followed by continuation of scheduled dosing. Consultant input is recommended.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Observe without making changes", "value": "A" },
+	          { "text": "Repeat loading dose and continue treatment schedule", "value": "B" },
+	          { "text": "Double the maintenance dose independently", "value": "C" },
+	          { "text": "Transfer back to secondary level", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "33" },
+	      "type": "question",
+	      "title": "APNOEA OF PREMATURITY",
+	      "text": "In a neonate with persistent apnoea episodes at tertiary care, which of the following is most appropriate?",
+	      "correctAnswer": "C",
+	      "rationale": "Persistent or recurrent apnoea should prompt evaluation for underlying conditions (e.g. sepsis, IVH, metabolic disorders), and discussion with a consultant is essential for guided management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Assume it is normal for prematurity", "value": "A" },
+	          { "text": "Discharge after 48 hours if weight gain is adequate", "value": "B" },
+	          { "text": "Investigate underlying causes and discuss with a paediatric consultant", "value": "C" },
+	          { "text": "Continue same treatment indefinitely without change", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "34" },
+	      "type": "question",
+	      "title": "NEONATAL JAUNDICE",
+	      "text": "According to clinical grading of jaundice, involvement of the lower abdomen (yellow) corresponds to what serum bilirubin level?",
+	      "correctAnswer": "C",
+	      "rationale": "The chart defines lower abdomen involvement as grade 3 jaundice, which corresponds to serum bilirubin levels of 12–14 mg/dL.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "4–6 mg/dL", "value": "A" },
+	          { "text": "8–10 mg/dL", "value": "B" },
+	          { "text": "12–14 mg/dL", "value": "C" },
+	          { "text": "15–20 mg/dL", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "35" },
+	      "type": "question",
+	      "title": "NEONATAL JAUNDICE",
+	      "text": "When should phototherapy be initiated for a healthy term baby on Day 3 of life?",
+	      "correctAnswer": "A",
+	      "rationale": "According to the threshold chart, phototherapy is started at 18 mg/dL for healthy term babies on Day 3.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "If bilirubin is ≥18 mg/dL", "value": "A" },
+	          { "text": "If bilirubin is ≥14 mg/dL", "value": "B" },
+	          { "text": "If bilirubin is ≥16 mg/dL", "value": "C" },
+	          { "text": "If bilirubin is ≥20 mg/dL", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "36" },
+	      "type": "question",
+	      "title": "NEONATAL JAUNDICE",
+	      "text": "During phototherapy, how often should the baby ideally be repositioned to ensure full body exposure?",
+	      "correctAnswer": "D",
+	      "rationale": "The baby should ideally be repositioned every 2–3 hours to ensure the whole body receives exposure to the therapeutic blue light.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Every 12 hours", "value": "A" },
+	          { "text": "Every 6 hours", "value": "B" },
+	          { "text": "Every 1 hour", "value": "C" },
+	          { "text": "Every 2–3 hours", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "37" },
+	      "type": "question",
+	      "title": "NEONATAL JAUNDICE",
+	      "text": "A preterm baby (Day 2 of life, <2000g) presents with a serum bilirubin level of 16 mg/dL. What is the correct management?",
+	      "correctAnswer": "C",
+	      "rationale": "Initiate phototherapy",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start exchange transfusion immediately", "value": "A" },
+	          { "text": "Observe; repeat bilirubin after 12 hours", "value": "B" },
+	          { "text": "Initiate phototherapy", "value": "C" },
+	          { "text": "No treatment needed unless baby is visibly jaundiced", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "38" },
+	      "type": "question",
+	      "title": "NEONATAL JAUNDICE",
+	      "text": "What is a key indicator that phototherapy is effective in reducing bilirubin levels?",
+	      "correctAnswer": "C",
+	      "rationale": "A successful phototherapy session should reduce bilirubin levels by at least 1 mg/dL every 6 hours.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Bilirubin dropping by 0.5 mg/dL every 6 hours", "value": "A" },
+	          { "text": "No further spread of jaundice to the limbs", "value": "B" },
+	          { "text": "Bilirubin decreasing by ≥1 mg/dL every 6 hours", "value": "C" },
+	          { "text": "The baby appears less yellow", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "39" },
+	      "type": "question",
+	      "title": "NEONATAL JAUNDICE",
+	      "text": "Which of the following is a known complication of phototherapy?",
+	      "correctAnswer": "A",
+	      "rationale": "Retinal damage is a documented complication of phototherapy, which is why babies’ eyes must be shielded during treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Retinal damage", "value": "A" },
+	          { "text": "Hypoglycaemia", "value": "B" },
+	          { "text": "Vomiting", "value": "C" },
+	          { "text": "Seizures", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "40" },
+	      "type": "question",
+	      "title": "NEONATAL JAUNDICE",
+	      "text": "According to guidelines, when should phototherapy be stopped?",
+	      "correctAnswer": "C",
+	      "rationale": "Phototherapy is discontinued when bilirubin falls more than 3 mg/dL below the treatment threshold value.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "When bilirubin has dropped below the starting threshold", "value": "A" },
+	          { "text": "After 5 days of continuous phototherapy", "value": "B" },
+	          { "text": "When bilirubin is more than 3 mg/dL below treatment threshold", "value": "C" },
+	          { "text": "After jaundice fades visibly from the face", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "41" },
+	      "type": "question",
+	      "title": "NEONATAL JAUNDICE",
+	      "text": "A 36-hour-old baby on phototherapy is not improving, and total serum bilirubin has reached 22 mg/dL. What should be the immediate step?",
+	      "correctAnswer": "B",
+	      "rationale": "Prepare for exchange transfusion and refer to tertiary care",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Add antibiotics and continue phototherapy", "value": "A" },
+	          { "text": "Prepare for exchange transfusion and refer to tertiary care", "value": "B" },
+	          { "text": "Increase phototherapy duration", "value": "C" },
+	          { "text": "Discontinue feeds to reduce bilirubin production", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "42" },
+	      "type": "question",
+	      "title": "PROLONGED JAUNDICE",
+	      "text": "What is the appropriate management of a neonate with prolonged jaundice at the primary or secondary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "Prolonged jaundice (lasting beyond 14 days in term or 21 days in preterm infants) requires evaluation at the tertiary level to investigate causes such as biliary atresia, hypothyroidism, or infections. Early referral is essential to avoid delays in diagnosis and management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start phototherapy immediately", "value": "A" },
+	          { "text": "Prescribe multivitamins and observe at home", "value": "B" },
+	          { "text": "Refer the baby to tertiary level for further evaluation", "value": "C" },
+	          { "text": "Initiate paracetamol and monitor for 48 hours", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "43" },
+	      "type": "question",
+	      "title": "PROLONGED JAUNDICE",
+	      "text": "A neonate with prolonged jaundice and signs of haemolysis is found to be anaemic. What is the appropriate next step?",
+	      "correctAnswer": "B",
+	      "rationale": "If anaemia is present in a jaundiced neonate with haemolysis, blood transfusion may be necessary, along with treatment of the underlying cause.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Observe and recheck CBC in 48 hours", "value": "A" },
+	          { "text": "Give a blood transfusion and manage per anaemia guideline", "value": "B" },
+	          { "text": "Start phototherapy and discharge home", "value": "C" },
+	          { "text": "Increase feeding intervals", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "44" },
+	      "type": "question",
+	      "title": "PROLONGED JAUNDICE",
+	      "text": "Which supportive intervention is appropriate in a neonate with haemolysis and suspected sepsis?",
+	      "correctAnswer": "A",
+	      "rationale": "In haemolysis, use oxygen and IV fluids to improve perfusion, and screen/treat for sepsis presumptively if infection is suspected.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oxygen, IV fluids for hyperhydration, and antibiotics", "value": "A" },
+	          { "text": "Paracetamol and oral rehydration", "value": "B" },
+	          { "text": "Exchange transfusion immediately", "value": "C" },
+	          { "text": "Iron supplements and formula feeds", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "45" },
+	      "type": "question",
+	      "title": "PROLONGED JAUNDICE",
+	      "text": "In a neonate with hepatic dysfunction and decreased consciousness, how often should blood sugar be monitored?",
+	      "correctAnswer": "D",
+	      "rationale": "Liver disease can impair glucose regulation. Monitor daily, and more frequently if encephalopathy or altered sensorium is suspected.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Once daily only", "value": "A" },
+	          { "text": "Only before feeds", "value": "B" },
+	          { "text": "Every 12 hours", "value": "C" },
+	          { "text": "Daily and more frequently", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "46" },
+	      "type": "question",
+	      "title": "PROLONGED JAUNDICE",
+	      "text": "Which of the following should be avoided in a neonate with hepatic jaundice?",
+	      "correctAnswer": "C",
+	      "rationale": "Paracetamol should be avoided in liver dysfunction due to risk of hepatotoxicity. Vitamin A and K are used when chronic liver disease or bleeding is suspected.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Vitamin A", "value": "A" },
+	          { "text": "Vitamin K", "value": "B" },
+	          { "text": "Paracetamol", "value": "C" },
+	          { "text": "Antibiotics if febrile and MPS negative", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "47" },
+	      "type": "question",
+	      "title": "PROLONGED JAUNDICE",
+	      "text": "Which finding strongly suggests a post-hepatic (obstructive) cause of prolonged jaundice in a neonate?",
+	      "correctAnswer": "A",
+	      "rationale": "Pale or acholic stools indicate bile flow obstruction, a hallmark of post-hepatic jaundice, such as in biliary atresia.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Pale or clay-colored stools", "value": "A" },
+	          { "text": "Excessive crying during feeds", "value": "B" },
+	          { "text": "Weight gain with normal bilirubin", "value": "C" },
+	          { "text": "Hyperpigmentation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "48" },
+	      "type": "question",
+	      "title": "PROLONGED JAUNDICE",
+	      "text": "After initial stabilization of a neonate with suspected biliary obstruction, what is the next appropriate step?",
+	      "correctAnswer": "B",
+	      "rationale": "Suspected post-hepatic jaundice requires abdominal ultrasound to assess bile ducts and prompt surgical consultation for structural causes.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Discharge with dietary advice", "value": "A" },
+	          { "text": "Perform an abdominal ultrasound and consult surgery", "value": "B" },
+	          { "text": "Begin corticosteroids", "value": "C" },
+	          { "text": "Start ursodeoxycholic acid immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "49" },
+	      "type": "question",
+	      "title": "NEONATAL SEIZURES",
+	      "text": "A neonate continues to have seizures despite appropriate dosing of phenobarbitone. What is the next appropriate pharmacologic step at the tertiary level?",
+	      "correctAnswer": "C",
+	      "rationale": "After phenobarbitone failure, next-line agents include phenytoin or levetiracetam, both at 20 mg/kg loading dose.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase phenobarbitone to 40 mg/kg", "value": "A" },
+	          { "text": "Start IV dextrose again", "value": "B" },
+	          { "text": "Give IV phenytoin 20 mg/kg or levetiracetam 20 mg/kg PO/IV", "value": "C" },
+	          { "text": "Administer IV ibuprofen", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "50" },
+	      "type": "question",
+	      "title": "NEONATAL SEIZURES",
+	      "text": "What is the most appropriate next step after stabilizing a neonate with ongoing seizures and suspected sepsis?",
+	      "correctAnswer": "A",
+	      "rationale": "In a neonate with seizures and signs of infection, a lumbar puncture should be performed once stable, and empiric antibiotics started to cover for meningitis or sepsis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Perform a lumbar puncture and start antibiotics", "value": "A" },
+	          { "text": "Wait 48 hours to observe before testing", "value": "B" },
+	          { "text": "Begin oral antibiotics and monitor", "value": "C" },
+	          { "text": "Start paracetamol to reduce fever", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "51" },
+	      "type": "question",
+	      "title": "NEONATAL SEIZURES",
+	      "text": "What should be considered if neonatal seizures persist despite adequate anticonvulsant therapy?",
+	      "correctAnswer": "D",
+	      "rationale": "In refractory seizures, metabolic or vitamin-responsive causes should be considered. Administering calcium gluconate or pyridoxine is part of the protocol for resistant cases.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase caffeine dose", "value": "A" },
+	          { "text": "Administer insulin for metabolic stability", "value": "B" },
+	          { "text": "Stop all drugs and observe", "value": "C" },
+	          { "text": "Consider calcium gluconate 1 mmol/kg or IV pyridoxine 100 mg", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

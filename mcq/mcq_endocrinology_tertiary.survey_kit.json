@@ -1,0 +1,935 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": { "id": "1" },
+	      "type": "intro",
+	      "title": "MCQ_Endocrinology_Final.docx",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": { "id": "2" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "Which test is considered the gold standard for diagnosing Type 1 Diabetes in a newly diagnosed child?",
+	      "correctAnswer": "C",
+	      "rationale": "Antibody tests are the gold standard for confirming a diagnosis of Type 1 Diabetes, especially at the tertiary care level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "HbA1c", "value": "A" },
+	          { "text": "Random blood sugar", "value": "B" },
+	          { "text": "Antibody tests", "value": "C" },
+	          { "text": "C-peptide test", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "3" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "Children diagnosed with Type 1 Diabetes should also be screened for which two autoimmune diseases?",
+	      "correctAnswer": "B",
+	      "rationale": "Thyroid disease and celiac disease are commonly associated autoimmune conditions in children with Type 1 Diabetes and should be screened at tertiary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Addison’s disease and vitiligo", "value": "A" },
+	          { "text": "Celiac disease and thyroid disease", "value": "B" },
+	          { "text": "Lupus and rheumatoid arthritis", "value": "C" },
+	          { "text": "Psoriasis and multiple sclerosis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "4" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "What is the typical total daily insulin requirement for a prepubertal child with Type 1 Diabetes?",
+	      "correctAnswer": "B",
+	      "rationale": "Prepubertal children typically need 0.5–1.0 IU/kg/day of insulin, divided into multiple doses based on glucose and meals.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "0.1–0.3 IU/kg/day", "value": "A" },
+	          { "text": "0.5–1.0 IU/kg/day", "value": "B" },
+	          { "text": "1.5–2.0 IU/kg/day", "value": "C" },
+	          { "text": "Insulin is only used during illness", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "5" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "What should be done with insulin dosing in a child with Type 1 Diabetes who becomes ill?",
+	      "correctAnswer": "D",
+	      "rationale": "Insulin should not be stopped during illness. Instead, the dose is increased temporarily to manage the increased glucose needs during stress or infection.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stop insulin until the child recovers", "value": "A" },
+	          { "text": "Maintain the usual dose, but skip nighttime insulin", "value": "B" },
+	          { "text": "Only give insulin if blood sugar is above 250 mg/dL", "value": "C" },
+	          { "text": "Increase the insulin dose by 10–20% and taper after recovery", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "6" },
+	      "type": "question",
+	      "title": "Diabetes",
+	      "text": "At tertiary level, what is a key initial management step when a child presents with signs of Diabetic Ketoacidosis (DKA)?",
+	      "correctAnswer": "A",
+	      "rationale": "Prompt rehydration and DKA treatment are critical steps in managing children with suspected ketoacidosis at tertiary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Rehydrate the patient and treat for DKA", "value": "A" },
+	          { "text": "Screen for antibodies", "value": "B" },
+	          { "text": "Start oral glucose immediately", "value": "C" },
+	          { "text": "Administer glucagon injection", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "7" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "A child presents with DKA and is in shock. What is the correct initial fluid management step?",
+	      "correctAnswer": "C",
+	      "rationale": "Fluid resuscitation is the first step; 20 ml/kg bolus of 0.9% saline/RL over 20–30 minutes is recommended to restore circulation in shock/dehydration.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start insulin immediately", "value": "A" },
+	          { "text": "Give 10 ml/kg of 0.45% saline over 1 hour", "value": "B" },
+	          { "text": "Give 20 ml/kg bolus of 0.9% saline or RL", "value": "C" },
+	          { "text": "Withhold fluids until blood sugar is corrected", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "8" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "When should insulin therapy be started in DKA management?",
+	      "correctAnswer": "C",
+	      "rationale": "Insulin must be started at least 1 hour after fluids to avoid sudden shifts in osmolarity and reduce cerebral edema risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "At the same time as fluid resuscitation", "value": "A" },
+	          { "text": "Only after blood glucose exceeds 300 mg/dL", "value": "B" },
+	          { "text": "At least 1 hour after starting fluid therapy", "value": "C" },
+	          { "text": "Immediately after ketone check", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "9" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "What is the recommended starting dose of insulin infusion in DKA management?",
+	      "correctAnswer": "A",
+	      "rationale": "Insulin infusion begins at 0.05 IU/kg/hour after fluid resuscitation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "0.05 IU/kg/hour", "value": "A" },
+	          { "text": "1.0 IU/kg/hour", "value": "B" },
+	          { "text": "0.01 IU/kg/hour", "value": "C" },
+	          { "text": "0.5 IU/kg/hour", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "10" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "Which of the following is a key sign of possible cerebral edema in a child with DKA?",
+	      "correctAnswer": "C",
+	      "rationale": "Cerebral edema often presents with headache, vomiting, decreased consciousness, and neurological signs.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hyperreflexia", "value": "A" },
+	          { "text": "Increased urination", "value": "B" },
+	          { "text": "Headache, vomiting, and altered mental status", "value": "C" },
+	          { "text": "Hypotension only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "11" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "Which factor increases the risk of developing cerebral edema in children with DKA?",
+	      "correctAnswer": "D",
+	      "rationale": "Severe acidosis and elevated BUN are significant risk factors for cerebral edema in DKA.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Age >12 years", "value": "A" },
+	          { "text": "Slow rehydration", "value": "B" },
+	          { "text": "Blood glucose <300 mg/dL", "value": "C" },
+	          { "text": "pH < 7.1 and BUN > 20 mg/dL", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "12" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "When should hourly blood glucose checks begin during insulin therapy?",
+	      "correctAnswer": "B",
+	      "rationale": "Hourly blood glucose monitoring is critical after starting insulin to monitor drops and adjust dosing.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "After 12 hours of treatment", "value": "A" },
+	          { "text": "After initiating insulin infusion", "value": "B" },
+	          { "text": "After urine output is normal", "value": "C" },
+	          { "text": "Only when ketones normalize", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "13" },
+	      "type": "question",
+	      "title": "Diabetic Ketoacidosis",
+	      "text": "Once DKA resolves and subcutaneous insulin is administered, what should be done with the IV insulin?",
+	      "correctAnswer": "A",
+	      "rationale": "IV insulin is continued for 30 minutes after subcutaneous insulin to ensure overlap and prevent rebound hyperglycemia.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Continue IV insulin for 30 minutes, then stop", "value": "A" },
+	          { "text": "Stop IV insulin immediately", "value": "B" },
+	          { "text": "Double the insulin dose", "value": "C" },
+	          { "text": "Start oral glucose concurrently", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "14" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "Which of the following investigations is part of the initial assessment for thyroid dysfunction in a neonate?",
+	      "correctAnswer": "B",
+	      "rationale": "T4 and TSH assays are essential baseline investigations to assess thyroid function in neonates.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "MRI of the brain", "value": "A" },
+	          { "text": "T4 and TSH assays", "value": "B" },
+	          { "text": "Chest X-ray", "value": "C" },
+	          { "text": "Creatinine clearance", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "15" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "What is the recommended initial dose of levothyroxine for neonates (0–3 months of age)?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends a starting dose of 10–15 µg/kg/day of levothyroxine in infants to ensure effective treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "5–8 µg/kg/day", "value": "A" },
+	          { "text": "10–15 µg/kg/day", "value": "B" },
+	          { "text": "20–25 µg/kg/day", "value": "C" },
+	          { "text": "1–2 µg/kg/day", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "16" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "Which of the following may interfere with levothyroxine absorption in neonates?",
+	      "correctAnswer": "B",
+	      "rationale": "Iron, calcium supplements, and soy formula can impair absorption of levothyroxine and should be avoided during administration.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Plain water", "value": "A" },
+	          { "text": "Iron or calcium supplements and soy formula", "value": "B" },
+	          { "text": "Breast milk", "value": "C" },
+	          { "text": "Folic acid supplements", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "17" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "What is the primary treatment goal in congenital hypothyroidism management?",
+	      "correctAnswer": "A",
+	      "rationale": "The target is to normalize T4 as rapidly as possible to ensure optimal growth and neurodevelopment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Achieve serum T4 in the upper half of the reference range", "value": "A" },
+	          { "text": "Maintain serum TSH below the detection limit", "value": "B" },
+	          { "text": "Delay treatment until growth retardation is observed", "value": "C" },
+	          { "text": "Use minimum dose to prevent side effects", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "18" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "For infants with congenital central hypothyroidism, what guides treatment response monitoring?",
+	      "correctAnswer": "C",
+	      "rationale": "In central hypothyroidism, TSH is unreliable. Serum free T4 should guide treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Serum TSH alone", "value": "A" },
+	          { "text": "Weight and head circumference only", "value": "B" },
+	          { "text": "Serum free T4", "value": "C" },
+	          { "text": "T3:T4 ratio", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "19" },
+	      "type": "question",
+	      "title": "Thyroid Disorders",
+	      "text": "How often should serum T4 and TSH be monitored after 6 months of life in children under treatment for congenital hypothyroidism?",
+	      "correctAnswer": "D",
+	      "rationale": "Between 6 months and 3 years of age, thyroid function should be monitored every 2 to 3 months.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Every 2 years", "value": "A" },
+	          { "text": "Monthly", "value": "B" },
+	          { "text": "Every 1–2 weeks", "value": "C" },
+	          { "text": "Every 2–3 months", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "20" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "What is the recommended initial levothyroxine dose for a child aged 3 to 10 years with acquired hypothyroidism?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline states that for children aged 3 to 10 years, the appropriate levothyroxine dose is 3–5 µg/kg per day.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "2 to 4 µg/kg", "value": "A" },
+	          { "text": "3 to 5 µg/kg", "value": "B" },
+	          { "text": "4 to 6 µg/kg", "value": "C" },
+	          { "text": "5 to 10 µg/kg", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "21" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "When should serum TSH and free T4 be checked after initiating treatment for acquired hypothyroidism?",
+	      "correctAnswer": "B",
+	      "rationale": "Serum TSH and free T4 should be checked 6 to 8 weeks after initiation of levothyroxine treatment to evaluate response and guide dose adjustment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Every 2 weeks", "value": "A" },
+	          { "text": "6 to 8 weeks", "value": "B" },
+	          { "text": "Every 3 months", "value": "C" },
+	          { "text": "12 months after starting therapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "22" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "What is the main goal of levothyroxine therapy in acquired hypothyroidism?",
+	      "correctAnswer": "A",
+	      "rationale": "The treatment goal is to maintain TSH and free T4 within the normal reference range, ensuring proper metabolic control.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To maintain TSH and free T4 in the normal reference range", "value": "A" },
+	          { "text": "To avoid the need for endocrinology referral", "value": "B" },
+	          { "text": "To prevent the need for further testing", "value": "C" },
+	          { "text": "To suppress TSH below normal", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "23" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "A child receiving levothyroxine presents with symptoms suggestive of hyperthyroidism. What is the appropriate next step?",
+	      "correctAnswer": "C",
+	      "rationale": "Thyroid function tests should be done if the patient develops symptoms suggestive of hypo- or hyperthyroidism, or after any dose change.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stop levothyroxine immediately", "value": "A" },
+	          { "text": "Switch to an alternative medication", "value": "B" },
+	          { "text": "Check thyroid function tests", "value": "C" },
+	          { "text": "Increase the levothyroxine dose", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "24" },
+	      "type": "question",
+	      "title": "Acquired Hypothyroidism",
+	      "text": "Once treatment is confirmed and initiated, what is the appropriate next step in managing a child with acquired hypothyroidism?",
+	      "correctAnswer": "A",
+	      "rationale": "After diagnosis is confirmed and treatment is started, referral to an endocrinologist is recommended for ongoing care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer to an endocrinologist", "value": "A" },
+	          { "text": "Discontinue treatment", "value": "B" },
+	          { "text": "Repeat diagnosis to confirm", "value": "C" },
+	          { "text": "Reduce levothyroxine to the lowest possible dose", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "25" },
+	      "type": "question",
+	      "title": "Hyperthyroidism",
+	      "text": "Which of the following investigations should be performed at the tertiary level to confirm the diagnosis of hyperthyroidism?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline states that T4 and TSH assays are the required baseline investigations to confirm hyperthyroidism at the tertiary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Full blood count and liver enzymes", "value": "A" },
+	          { "text": "T4 and TSH assays", "value": "B" },
+	          { "text": "Thyroid ultrasound and antibody tests", "value": "C" },
+	          { "text": "Random blood sugar and ECG", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "26" },
+	      "type": "question",
+	      "title": "Hyperthyroidism",
+	      "text": "According to the guidelines, what is the appropriate starting dose of carbimazole for treating hyperthyroidism at the tertiary level?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline recommends starting treatment with carbimazole 15 mg daily once the diagnosis is confirmed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "10 mg once daily", "value": "A" },
+	          { "text": "5 mg twice daily", "value": "B" },
+	          { "text": "20 mg twice daily", "value": "C" },
+	          { "text": "15 mg daily", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "27" },
+	      "type": "question",
+	      "title": "Approach to disorders of sex development (Ambiguous Genitalia)",
+	      "text": "Which of the following is a required component of initial management for a child with ambiguous genitalia at the tertiary level?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline emphasizes the importance of supportive care, including managing dehydration and hypoglycemia, as an urgent first step at the tertiary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay treatment until investigations are complete", "value": "A" },
+	          { "text": "Begin hormone therapy immediately", "value": "B" },
+	          { "text": "Provide supportive care, including correction of dehydration and hypoglycemia", "value": "C" },
+	          { "text": "Refer directly to a social worker", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "28" },
+	      "type": "question",
+	      "title": "Approach to disorders of sex development (Ambiguous Genitalia)",
+	      "text": "In addition to supportive care, what should guide specific treatment in a child with ambiguous genitalia at the tertiary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Specific treatment should be based on the underlying diagnosis, determined through thorough investigations at the tertiary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Standard protocol used for all patients", "value": "A" },
+	          { "text": "The child’s gender as assigned at birth", "value": "B" },
+	          { "text": "The underlying disease identified through investigations", "value": "C" },
+	          { "text": "The preferences of the primary caregiver only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "29" },
+	      "type": "question",
+	      "title": "Approach to disorders of sex development (Ambiguous Genitalia)",
+	      "text": "Which of the following is required at the tertiary level of care for effective management of disorders of sex development (ambiguous genitalia)?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline highlights that tertiary-level care must involve a multidisciplinary team, including a pediatric endocrinologist, pediatrician, geneticist, urologist, gynecologist, psychologist, nurses, and a social worker.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Referral to a community clinic for long-term care", "value": "A" },
+	          { "text": "Follow-up by a single general practitioner", "value": "B" },
+	          { "text": "Basic nursing support and discharge", "value": "C" },
+	          { "text": "A multidisciplinary team", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "30" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "What is a key biochemical finding suggestive of Congenital Adrenal Hyperplasia (CAH) in newborns?",
+	      "correctAnswer": "B",
+	      "rationale": "Elevated 17-hydroxyprogesterone is the hallmark biochemical abnormality in CAH.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Elevated cortisol levels", "value": "A" },
+	          { "text": "Elevated 17-hydroxyprogesterone levels", "value": "B" },
+	          { "text": "Hypoglycemia with normal electrolytes", "value": "C" },
+	          { "text": "Increased thyroid-stimulating hormone (TSH)", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "31" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "Which of the following is part of supportive management in a neonate presenting with adrenal crisis due to suspected CAH?",
+	      "correctAnswer": "D",
+	      "rationale": "Immediate management of dehydration and hypoglycemia is essential during adrenal crisis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay treatment until diagnosis is confirmed", "value": "A" },
+	          { "text": "Withhold fluids until lab values return", "value": "B" },
+	          { "text": "Administer thyroid hormone immediately", "value": "C" },
+	          { "text": "Correct dehydration and manage hypoglycaemia", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "32" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "What is the appropriate initial glucocorticoid therapy for a newborn with confirmed CAH?",
+	      "correctAnswer": "B",
+	      "rationale": "Hydrocortisone is the first-line steroid for CAH, given in multiple daily doses.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral prednisone 1 mg/day", "value": "A" },
+	          { "text": "Hydrocortisone 20–30 mg/m²/day in 3 divided doses", "value": "B" },
+	          { "text": "Dexamethasone injection 4 mg stat", "value": "C" },
+	          { "text": "Oral fludrocortisone only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "33" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "In addition to hydrocortisone, what other medications are routinely included in newborn CAH management?",
+	      "correctAnswer": "A",
+	      "rationale": "To manage mineralocorticoid deficiency and salt-wasting, fludrocortisone and sodium chloride are necessary.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Fludrocortisone and sodium chloride supplements", "value": "A" },
+	          { "text": "Levothyroxine and calcium", "value": "B" },
+	          { "text": "Insulin and potassium chloride", "value": "C" },
+	          { "text": "Growth hormone and iron", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "34" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "Which of the following is not typically included in the initial work-up for suspected CAH in a tertiary setting?",
+	      "correctAnswer": "B",
+	      "rationale": "Amylase is not part of the CAH work-up; the rest are essential components.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Serum 17-hydroxyprogesterone", "value": "A" },
+	          { "text": "Serum amylase", "value": "B" },
+	          { "text": "Cortisol", "value": "C" },
+	          { "text": "Serum electrolytes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "35" },
+	      "type": "question",
+	      "title": "Congenital Adrenal Hyperplasia (CAH)",
+	      "text": "When should an endocrinologist be consulted for a child with CAH?",
+	      "correctAnswer": "B",
+	      "rationale": "Early involvement of an endocrinologist ensures proper hormone replacement and monitoring.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "After 6 months of observation", "value": "A" },
+	          { "text": "Once diagnosis is confirmed and treatment is started", "value": "B" },
+	          { "text": "Only during adolescence", "value": "C" },
+	          { "text": "Only if medical therapy fails", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "36" },
+	      "type": "question",
+	      "title": "Puberty Disorders",
+	      "text": "Which of the following is a key treatment responsibility at the tertiary level for a child with a puberty disorder?",
+	      "correctAnswer": "C",
+	      "rationale": "Tertiary-level care includes treating the underlying cause of the puberty disorder as part of a comprehensive management approach.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Prescribe multivitamins and discharge", "value": "A" },
+	          { "text": "Delay treatment until adulthood", "value": "B" },
+	          { "text": "Treat the underlying cause of the disorder", "value": "C" },
+	          { "text": "Refer only if the child reaches puberty late", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "37" },
+	      "type": "question",
+	      "title": "Puberty Disorders",
+	      "text": "What is an important supportive intervention for families at the tertiary level when managing puberty disorders?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline emphasizes providing psychosocial support to families, recognizing the emotional and social challenges that puberty disorders can cause.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Genetic counseling only", "value": "A" },
+	          { "text": "Diet and exercise plans", "value": "B" },
+	          { "text": "Psychosocial support to the family", "value": "C" },
+	          { "text": "School performance evaluations", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "38" },
+	      "type": "question",
+	      "title": "Puberty Disorders",
+	      "text": "Which of the following medications may be used at the tertiary level to manage puberty disorders?",
+	      "correctAnswer": "B",
+	      "rationale": "Leuprolide acetate, a gonadotropin analogue, is specifically listed in the guideline as part of medical management for puberty disorders at the tertiary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Paracetamol and zinc supplements", "value": "A" },
+	          { "text": "Leuprolide acetate", "value": "B" },
+	          { "text": "Prednisolone and insulin", "value": "C" },
+	          { "text": "Growth hormone and calcium", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "39" },
+	      "type": "question",
+	      "title": "Puberty Disorders",
+	      "text": "Which class of medications, including leuprolide acetate, is used at the tertiary level to manage puberty disorders by suppressing early or abnormal hormone activity?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline includes gonadotropin analogues such as leuprolide acetate as part of medical therapy to manage hormone-related puberty disorders at the tertiary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Corticosteroids", "value": "A" },
+	          { "text": "Estrogen receptor blockers", "value": "B" },
+	          { "text": "Gonadotropin analogues", "value": "C" },
+	          { "text": "Thyroid hormone replacements", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "40" },
+	      "type": "question",
+	      "title": "Delayed Puberty",
+	      "text": "What is a key focus of tertiary-level care in the management of delayed puberty?",
+	      "correctAnswer": "B",
+	      "rationale": "Tertiary-level care includes investigating and treating the underlying cause of delayed puberty as a core clinical responsibility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay treatment until adulthood", "value": "A" },
+	          { "text": "Investigate and treat the underlying cause", "value": "B" },
+	          { "text": "Refer to a primary care physician", "value": "C" },
+	          { "text": "Prescribe multivitamins only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "41" },
+	      "type": "question",
+	      "title": "Delayed Puberty",
+	      "text": "What medical treatment is recommended at the tertiary level for a female patient with delayed puberty?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline specifies that females with delayed puberty should be treated with Estrogen and Progestin, while males should receive Testosterone as part of tertiary-level medical management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Testosterone injections", "value": "A" },
+	          { "text": "Growth hormone therapy", "value": "B" },
+	          { "text": "Estrogen and Progestin", "value": "C" },
+	          { "text": "Gonadotropin-releasing hormone agonists", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "42" },
+	      "type": "question",
+	      "title": "Delayed Puberty",
+	      "text": "Which of the following is an important supportive measure provided to families at the tertiary level when managing delayed puberty?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline highlights the importance of offering psychosocial support to families to help them cope with the social and emotional impact of delayed puberty.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Academic tutoring", "value": "A" },
+	          { "text": "Psychosocial support", "value": "B" },
+	          { "text": "Legal counseling", "value": "C" },
+	          { "text": "Peer group referral", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "43" },
+	      "type": "question",
+	      "title": "Overweight and Obesity in Children and Adolescents",
+	      "text": "Which investigation should be included in the secondary-level assessment of an overweight child, beyond what is done at primary level?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline specifies that U&Es and LFTs should be conducted at the secondary level to evaluate for possible obesity-related complications.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "ECG and echocardiogram", "value": "A" },
+	          { "text": "Urea & Electrolytes (U&Es) and Liver Function Tests (LFTs)", "value": "B" },
+	          { "text": "Thyroid scan", "value": "C" },
+	          { "text": "Bone age X-ray", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "44" },
+	      "type": "question",
+	      "title": "Overweight and Obesity in Children and Adolescents",
+	      "text": "Why is measuring blood pressure important in the evaluation of overweight children at the secondary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Hypertension is a known complication of childhood obesity. Blood pressure monitoring allows for early detection and management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To assess for growth abnormalities", "value": "A" },
+	          { "text": "To monitor hydration status", "value": "B" },
+	          { "text": "To screen for obesity-related hypertension", "value": "C" },
+	          { "text": "To detect anemia", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "45" },
+	      "type": "question",
+	      "title": "Overweight and Obesity in Children and Adolescents",
+	      "text": "Which of the following dietary recommendations should be emphasized when managing overweight children at the secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Reducing high-glycemic index foods is part of effective dietary management, helping prevent blood sugar spikes and excessive weight gain.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Encourage frequent high-calorie snacks", "value": "A" },
+	          { "text": "Reduce intake of foods with a high glycemic index", "value": "B" },
+	          { "text": "Focus only on protein supplements", "value": "C" },
+	          { "text": "Avoid all fats in the diet", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "46" },
+	      "type": "question",
+	      "title": "Overweight and Obesity in Children and Adolescents",
+	      "text": "Why might referral from the secondary level to a higher level of care be important in managing overweight and obese children?",
+	      "correctAnswer": "C",
+	      "rationale": "Referral ensures that children with complex obesity receive comprehensive multidisciplinary care, including input from medical and psychosocial specialists.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To admit the child for emergency weight loss treatment", "value": "A" },
+	          { "text": "To provide temporary dietary support", "value": "B" },
+	          { "text": "To enable access to multidisciplinary care", "value": "C" },
+	          { "text": "To discontinue all lifestyle interventions", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "47" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "What is the purpose of calculating mid-parental height during the assessment of a child with suspected growth disorder at the tertiary level?",
+	      "correctAnswer": "A",
+	      "rationale": "Mid-parental height is used to estimate the genetic target height, helping differentiate normal short stature from pathologic growth failure.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To estimate the child’s expected genetic height range", "value": "A" },
+	          { "text": "To assess vitamin D deficiency", "value": "B" },
+	          { "text": "To determine if the child is obese", "value": "C" },
+	          { "text": "To calculate bone density", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "48" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "Which of the following investigations should be included at the tertiary level to assess thyroid function in a child with suspected growth disorder?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline specifies TSH and free T4 as the appropriate tests to evaluate thyroid dysfunction, a common cause of impaired growth.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Thyroid ultrasound and calcitonin", "value": "A" },
+	          { "text": "T3 and reverse T3", "value": "B" },
+	          { "text": "Parathyroid hormone and calcium", "value": "C" },
+	          { "text": "Thyroid-stimulating hormone (TSH) and free thyroxine (T4)", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "49" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "Why is it important to calculate height velocity in the evaluation of a child with a growth disorder at the tertiary level?",
+	      "correctAnswer": "D",
+	      "rationale": "Tracking height velocity helps identify subtle or progressive growth failure, which may not be apparent from a single height measurement.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To monitor hydration status", "value": "A" },
+	          { "text": "To confirm the child's pubertal stage", "value": "B" },
+	          { "text": "To assess response to insulin", "value": "C" },
+	          { "text": "To determine the rate of growth over time and detect growth failure", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "50" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "Which of the following investigations is recommended at the tertiary level to assess for chronic inflammation or systemic disease affecting growth?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline includes FBC and ESR to detect anemia, infection, or chronic inflammation, all of which may contribute to poor growth.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "IgF-1 and bone scan", "value": "A" },
+	          { "text": "Full blood count (FBC) and erythrocyte sedimentation rate (ESR)", "value": "B" },
+	          { "text": "HbA1c and vitamin B12", "value": "C" },
+	          { "text": "Chest X-ray and liver enzymes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "51" },
+	      "type": "question",
+	      "title": "Growth Disorders",
+	      "text": "Which of the following is used at the tertiary level to evaluate bone maturation in a child with suspected growth delay?",
+	      "correctAnswer": "C",
+	      "rationale": "Bone age X-ray is listed in the guideline as a key investigation at the tertiary level to evaluate growth potential and skeletal maturity.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "DEXA scan", "value": "A" },
+	          { "text": "Serum calcium and phosphate", "value": "B" },
+	          { "text": "Bone age X-ray", "value": "C" },
+	          { "text": "CT scan of the spine", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "52" },
+	      "type": "question",
+	      "title": "Tall Stature",
+	      "text": "What is the purpose of calculating mid-parental height during the assessment of tall stature at the tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline states that plotting parents’ heights and calculating mid-parental height helps determine whether a child’s tall stature is consistent with genetic potential.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To determine body mass index (BMI)", "value": "A" },
+	          { "text": "To assess if the child's height is within their genetic target range", "value": "B" },
+	          { "text": "To calculate insulin dosage", "value": "C" },
+	          { "text": "To assess bone mineral density", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "53" },
+	      "type": "question",
+	      "title": "Tall Stature",
+	      "text": "Which of the following investigations is recommended at the tertiary level to assess skeletal maturity in a child with tall stature?",
+	      "correctAnswer": "A",
+	      "rationale": "Bone age X-ray is used to evaluate skeletal maturity, which helps in predicting adult height and guiding management decisions.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Bone age X-ray", "value": "A" },
+	          { "text": "IgF-1 and IgFBP-3", "value": "B" },
+	          { "text": "Growth hormone stimulation test", "value": "C" },
+	          { "text": "Knee MRI", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "54" },
+	      "type": "question",
+	      "title": "Tall Stature",
+	      "text": "What is the purpose of measuring thyroid-stimulating hormone (TSH) and free thyroxine (T4) in a child with tall stature?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline includes TSH and free T4 to screen for thyroid dysfunction, such as hyperthyroidism, which can lead to increased growth velocity.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To assess kidney function", "value": "A" },
+	          { "text": "To check adrenal hormone levels", "value": "B" },
+	          { "text": "To evaluate for thyroid disorders such as hyperthyroidism", "value": "C" },
+	          { "text": "To confirm insulin resistance", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "55" },
+	      "type": "question",
+	      "title": "Tall Stature",
+	      "text": "When should IgF-1 and IgFBP-3 be included in the work-up of a child with tall stature at the tertiary level?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline recommends using IgF-1 and IgFBP-3 only if available and appropriate, particularly when an endocrine cause of tall stature is suspected and further hormonal evaluation is needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "In all patients with tall stature", "value": "A" },
+	          { "text": "Only after starting treatment", "value": "B" },
+	          { "text": "When available and clinically indicated to assess growth hormone activity", "value": "C" },
+	          { "text": "As a routine screening for thyroid dysfunction", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

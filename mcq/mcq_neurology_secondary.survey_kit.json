@@ -1,0 +1,760 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Neurology",
+	      "text": "Multiple Choice for Secondary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "What is the recommended treatment approach for schistosomiasis-related paraparesis when no other cause is identified?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends Praziquantel 40 mg/kg STAT for all paraparesis cases, and a 3-day course may be considered when schistosomiasis is very likely.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start corticosteroids and monitor for 7 days", "value": "A" },
+	          { "text": "Give Praziquantel 40 mg/kg STAT or a 3-day course if highly probable", "value": "B" },
+	          { "text": "Refer immediately for surgical decompression", "value": "C" },
+	          { "text": "Withhold treatment until stool or urine confirms infection", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "In which scenario is a lumbar puncture contraindicated in a child with acute weakness?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline notes that LP is contraindicated in children with signs of raised ICP or compressive spinal pathology.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Fever and neck stiffness", "value": "A" },
+	          { "text": "History of convulsions", "value": "B" },
+	          { "text": "Meningitis suspected without rash", "value": "C" },
+	          { "text": "Signs of raised intracranial pressure or suspected compressive myelopathy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "What is the immediate management for a suspected cerebral or spinal abscess in a child?",
+	      "correctAnswer": "A",
+	      "rationale": "Management of cerebral or spinal abscess should include empiric antibiotics (like Ceftriaxone) and urgent surgical consultation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start Ceftriaxone and seek surgical opinion", "value": "A" },
+	          { "text": "Begin TB treatment and high-dose steroids", "value": "B" },
+	          { "text": "Wait for culture results before starting any treatment", "value": "C" },
+	          { "text": "Perform LP immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "What is the recommended action for a spinal cord lesion not caused by bacterial infection?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline advises that steroids should be considered for all spinal cord lesions, unless bacterial infection is present.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay all medications until cause is confirmed", "value": "A" },
+	          { "text": "Start high-dose antibiotics immediately", "value": "B" },
+	          { "text": "Consider steroid therapy unless bacterial infection is suspected", "value": "C" },
+	          { "text": "Refer only if there is limb paralysis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "Which of the following is the correct management for TB spine or tuberculoma presenting with acute weakness?",
+	      "correctAnswer": "D",
+	      "rationale": "For TB spine and tuberculoma, the guideline recommends initiating TB therapy and seeking orthopaedic input.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Immediate LP and referral", "value": "A" },
+	          { "text": "IV steroids only", "value": "B" },
+	          { "text": "Surgical decompression in all cases", "value": "C" },
+	          { "text": "Start TB treatment and consult orthopaedics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "Which of the following is essential in the acute management of a stroke patient?",
+	      "correctAnswer": "D",
+	      "rationale": "Monitoring fluid balance is vital to avoid both dehydration and fluid overload, especially in neurocritical care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Maintain hyperglycaemia to preserve brain function", "value": "A" },
+	          { "text": "Limit monitoring to twice daily assessments", "value": "B" },
+	          { "text": "Avoid fluid administration entirely", "value": "C" },
+	          { "text": "Monitor fluid input and output carefully", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "In haemorrhagic stroke, what is the appropriate approach to managing elevated blood pressure?",
+	      "correctAnswer": "D",
+	      "rationale": "Antihypertensives must be used carefully to avoid hypoperfusion and maintain cerebral blood flow.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Aggressively lower BP with high-dose diuretics", "value": "A" },
+	          { "text": "Ignore BP unless it exceeds 200 mmHg", "value": "B" },
+	          { "text": "Stop all medications that affect BP", "value": "C" },
+	          { "text": "Use antihypertensives cautiously with frequent BP monitoring", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "What is one of the earliest signs of raised intracranial pressure in a conscious child?",
+	      "correctAnswer": "B",
+	      "rationale": "Vomiting and headache, particularly if worsening or occurring with position changes, can indicate rising ICP.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Frequent urination", "value": "A" },
+	          { "text": "Vomiting and worsening headache", "value": "B" },
+	          { "text": "Dry skin", "value": "C" },
+	          { "text": "Decreased appetite", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "Which of the following interventions helps reduce raised intracranial pressure (ICP)?",
+	      "correctAnswer": "D",
+	      "rationale": "Elevating the head improves venous return and lowers ICP—an essential neuroprotective step.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Encouraging supine positioning", "value": "A" },
+	          { "text": "Starting antibiotics", "value": "B" },
+	          { "text": "Increasing oral fluid intake", "value": "C" },
+	          { "text": "Elevating the head of the bed to at least 30 degrees", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "In ischaemic stroke in children, what determines the decision to start aspirin?",
+	      "correctAnswer": "B",
+	      "rationale": "Aspirin may be used in ischaemic stroke only after senior consultation and assessment for bleeding risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "MRI scan results", "value": "A" },
+	          { "text": "Discussion with consultant and absence of haemorrhagic risk", "value": "B" },
+	          { "text": "Age of the child", "value": "C" },
+	          { "text": "Presence of fever", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "What is an appropriate component of supportive stroke care in a high-dependency setting?",
+	      "correctAnswer": "D",
+	      "rationale": "Hourly turning reduces risk of pressure injuries, an important part of stroke nursing care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Encourage complete bed rest for days", "value": "A" },
+	          { "text": "Avoid turning to prevent dislodging IV lines", "value": "B" },
+	          { "text": "Limit nutrition until full recovery", "value": "C" },
+	          { "text": "Turn hourly to prevent pressure sores", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "What is recommended as part of long-term stroke management in children?",
+	      "correctAnswer": "B",
+	      "rationale": "Early and continued rehabilitation, including physiotherapy, is critical for maximizing recovery.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Discontinue therapy once the child is stable", "value": "A" },
+	          { "text": "Continue physiotherapy tailored to neurological severity", "value": "B" },
+	          { "text": "Avoid involving caregivers to reduce burden", "value": "C" },
+	          { "text": "Restrict activity to prevent further strokes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "What is an important consideration when treating hydrocephalus with ventriculitis at secondary or tertiary level?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline notes that ventriculitis may require prolonged parenteral therapy, which can extend beyond typical meningitis treatment durations.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It may require longer parenteral treatment than typical meningitis", "value": "A" },
+	          { "text": "Oral antibiotics are sufficient in most cases", "value": "B" },
+	          { "text": "Treat only after surgical intervention", "value": "C" },
+	          { "text": "Avoid antibiotics until CSF is drained", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "What is the recommended emergency intervention for a child with acute raised intracranial pressure (ICP) due to hydrocephalus?",
+	      "correctAnswer": "C",
+	      "rationale": "A therapeutic ventricular tap is advised to relieve acute raised ICP while awaiting definitive treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer high-dose steroids and observe", "value": "A" },
+	          { "text": "Order urgent CT and delay intervention", "value": "B" },
+	          { "text": "Perform a therapeutic ventricular tap", "value": "C" },
+	          { "text": "Refer only if symptoms persist after 48 hours", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "While awaiting surgery in a child with communicating hydrocephalus, what medical treatment can help reduce CSF production?",
+	      "correctAnswer": "D",
+	      "rationale": "Acetazolamide or Furosemide can be used to temporarily reduce CSF production in communicating hydrocephalus.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Paracetamol and bed rest", "value": "A" },
+	          { "text": "Mannitol infusion", "value": "B" },
+	          { "text": "Broad-spectrum antibiotics", "value": "C" },
+	          { "text": "Acetazolamide or Furosemide", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "What is the definitive treatment option for hydrocephalus at tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends ventriculo-peritoneal (VP) shunt or endoscopic third ventriculostomy (ETV) as the definitive surgical treatments for hydrocephalus.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Repeat doses of diuretics", "value": "A" },
+	          { "text": "Neurosurgical referral for VP shunt or ETV", "value": "B" },
+	          { "text": "Monitoring with supportive care only", "value": "C" },
+	          { "text": "Intermittent ventricular taps", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Blocked Shunts",
+	      "text": "What is the correct initial step in managing a child with a suspected blocked VP shunt at secondary care?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline advises that secondary-level providers assess the child and initiate ABCD management as part of stabilizing care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Observe the child overnight and reassess", "value": "A" },
+	          { "text": "Assess the patient and initiate ABCD management", "value": "B" },
+	          { "text": "Start oral antibiotics and refer within 72 hours", "value": "C" },
+	          { "text": "Perform a lumbar puncture for CSF analysis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Blocked Shunts",
+	      "text": "What is the appropriate antibiotic management for a suspected blocked shunt with infection at secondary level?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline recommends starting IV Ceftriaxone as for meningitis before urgent referral to a tertiary facility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral amoxicillin at 40 mg/kg twice daily", "value": "A" },
+	          { "text": "Topical antibiotics with wound care", "value": "B" },
+	          { "text": "Delay antibiotics until referral is confirmed", "value": "C" },
+	          { "text": "Start IV Ceftriaxone 100 mg/kg daily, then refer", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What is the purpose of visual and hearing assessments in children with cerebral palsy at the secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Visual and hearing issues can significantly affect communication, learning, and safety, so early assessment and intervention are key.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To determine if sedation is needed during therapy", "value": "A" },
+	          { "text": "To detect impairments that may impact development and communication", "value": "B" },
+	          { "text": "To prepare the child for orthopedic surgery", "value": "C" },
+	          { "text": "To evaluate readiness for boarding school", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "Which therapy is specifically recommended for improving mobility and chest health in children with cerebral palsy?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends physiotherapy for limb function, chest care, and support with mobility aids like wheelchairs.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Occupational therapy", "value": "A" },
+	          { "text": "Physiotherapy", "value": "B" },
+	          { "text": "Cognitive behavioral therapy", "value": "C" },
+	          { "text": "Nutritional rehabilitation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What role does speech therapy play in the care of a child with cerebral palsy at the secondary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Speech therapy is crucial not only for communication, but also for feeding difficulties, such as impaired sucking and swallowing.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Language tutoring for non-verbal children", "value": "A" },
+	          { "text": "Correction of hearing loss", "value": "B" },
+	          { "text": "Assessment and therapy for sucking and swallowing difficulties", "value": "C" },
+	          { "text": "Management of seizures", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "Which medication is recommended as an initial antispasmodic treatment for children with CP?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends Diazepam 1–2.5 mg orally every 4–6 hoursas a first-line treatment for spasticity, with dose adjustment based on the child’s response.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Ibuprofen", "value": "A" },
+	          { "text": "Diazepam", "value": "B" },
+	          { "text": "Amoxicillin", "value": "C" },
+	          { "text": "Paracetamol", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "24"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "When should a child with cerebral palsy and epilepsy be referred to a central hospital?",
+	      "correctAnswer": "C",
+	      "rationale": "Children with poorly controlled epilepsy or in need of specialist services not available at district level should be referred to tertiary care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "After one or two isolated seizures that resolved without treatment", "value": "A" },
+	          { "text": "If the child shows developmental delay but no seizures are present", "value": "B" },
+	          { "text": "When epilepsy is poorly controlled or specialist services are not available locally", "value": "C" },
+	          { "text": "Only after completing a full course of antiseizure medication without improvement", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "25"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What is an important responsibility of secondary-level facilities in coordinating care for children with CP?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline stresses coordinated care through general clinics and involvement of various specialties to manage CP comprehensively.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Managing care in isolation to simplify follow-up", "value": "A" },
+	          { "text": "Coordinating multidisciplinary follow-up and clinic care", "value": "B" },
+	          { "text": "Prioritizing home care over clinic reviews", "value": "C" },
+	          { "text": "Referring all cases to private specialists", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "26"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What should be the approach to epilepsy in children with cerebral palsy at the secondary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline clearly states that seizure management should begin in all children with epilepsy, rather than waiting for tertiary evaluation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Observe seizures unless they occur more than twice weekly", "value": "A" },
+	          { "text": "Refer immediately without starting any medication", "value": "B" },
+	          { "text": "Initiate seizure management in all children with epilepsy", "value": "C" },
+	          { "text": "Avoid treatment until EEG confirmation is available", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "27"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "Which of the following is an indication to initiate long-term anticonvulsant therapy in a child?",
+	      "correctAnswer": "C",
+	      "rationale": "Long-term treatment is initiated if the child has had more than 2 afebrile seizures, or 1 afebrile seizure with a neurological condition.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "One febrile seizure without neurological concerns", "value": "A" },
+	          { "text": "A single afebrile seizure in a healthy child", "value": "B" },
+	          { "text": "Two or more afebrile seizures", "value": "C" },
+	          { "text": "Febrile seizure in a child with a viral illness", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "28"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "What is the first-line antiepileptic treatment for focal seizures in children?",
+	      "correctAnswer": "A",
+	      "rationale": "Carbamazepine and Valproate are first-line choices for focal seizures according to the guideline.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Carbamazepine or Valproate", "value": "A" },
+	          { "text": "Lamotrigine or Phenytoin", "value": "B" },
+	          { "text": "Levetiracetam or Phenobarbitone", "value": "C" },
+	          { "text": "Valproate or Ethosuximide", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "29"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "For a child with absence seizures, which antiepileptic drug is considered first-line?",
+	      "correctAnswer": "C",
+	      "rationale": "Valproate and Ethosuximide are the first-line drugs for absence seizures. Carbamazepine can worsen this type.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Carbamazepine", "value": "A" },
+	          { "text": "Levetiracetam", "value": "B" },
+	          { "text": "Valproate", "value": "C" },
+	          { "text": "Phenytoin", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "30"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "What is the recommended approach for antiepileptic medication dosing in children?",
+	      "correctAnswer": "C",
+	      "rationale": "Monotherapy is preferred, starting at the minimum therapeutic dose and titrating upwards to avoid side effects.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Combine two drugs from the beginning", "value": "A" },
+	          { "text": "Start at maximum dose and reduce as needed", "value": "B" },
+	          { "text": "Start at minimum dose and titrate upwards", "value": "C" },
+	          { "text": "Base dosing solely on age", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "31"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "When should a child on antiepileptic therapy be referred to a tertiary facility?",
+	      "correctAnswer": "D",
+	      "rationale": "Complex cases with poor seizure control despite two antiepileptic drugs at optimal doses should be referred for specialist care and further evaluation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "After the second seizure", "value": "A" },
+	          { "text": "If the first-line medication causes mild nausea", "value": "B" },
+	          { "text": "After one month of therapy", "value": "C" },
+	          { "text": "If seizure control is not attained after 3 months on 2 drugs at optimal doses", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "32"
+	      },
+	      "type": "question",
+	      "title": "Neural Tube Defects",
+	      "text": "A newborn with a neural tube defect arrives at a secondary care facility. What is the correct immediate nursing position for the baby?",
+	      "correctAnswer": "A",
+	      "rationale": "Prone positioning helps protect the defect and prevents rupture or infection.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Prone with careful protection of the defect", "value": "A" },
+	          { "text": "Supine with a head elevation", "value": "B" },
+	          { "text": "On the side with legs extended", "value": "C" },
+	          { "text": "Sitting in an upright infant seat", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "33"
+	      },
+	      "type": "question",
+	      "title": "Neural Tube Defects",
+	      "text": "What is the appropriate wound care for a leaking NTD lesion at the secondary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Vaseline gauze keeps the area moist and antibiotics help prevent infection. Aminoglycosides like gentamicin should be avoided.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Irrigate with saline and apply a plaster dressing", "value": "A" },
+	          { "text": "Apply betadine and leave uncovered", "value": "B" },
+	          { "text": "Cover with vaseline gauze and start Ceftriaxone and Metronidazole", "value": "C" },
+	          { "text": "Cover with dry gauze and give gentamicin", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "34"
+	      },
+	      "type": "question",
+	      "title": "Neural Tube Defects",
+	      "text": "Which of the following is an indication for urgent urological review in a baby with NTD?",
+	      "correctAnswer": "D",
+	      "rationale": "Retention or failure to pass urine may indicate neurogenic bladder and requires early urological input.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "The baby has a mild fever", "value": "A" },
+	          { "text": "The baby is feeding poorly", "value": "B" },
+	          { "text": "The baby is crying excessively", "value": "C" },
+	          { "text": "The baby is not passing urine or is in retention", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "35"
+	      },
+	      "type": "question",
+	      "title": "Neural Tube Defects",
+	      "text": "Why is orthopedic evaluation important in the management of NTD at the secondary level?",
+	      "correctAnswer": "A",
+	      "rationale": "Limb deformities such as genu varus/valgus are common and require orthopedic assessment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To correct associated deformities like genu varus or valgus", "value": "A" },
+	          { "text": "To prescribe physical therapy exercises", "value": "B" },
+	          { "text": "To assess fine motor skills", "value": "C" },
+	          { "text": "To check for scoliosis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "36"
+	      },
+	      "type": "question",
+	      "title": "Neural Tube Defects",
+	      "text": "Which of the following statements is TRUE about referral to tertiary care for a baby with NTD?",
+	      "correctAnswer": "D",
+	      "rationale": "Stable babies can be referred the next day. Night travel is not required unless the baby is unstable.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Referral should be avoided if the lesion is closed", "value": "A" },
+	          { "text": "Referral is only necessary if the baby is symptomatic", "value": "B" },
+	          { "text": "The baby should be urgently transported at night", "value": "C" },
+	          { "text": "Referral can wait until the next day if the baby is stable", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "37"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "Which of the following is a recommended strategy when managing recurrent headaches in children?",
+	      "correctAnswer": "B",
+	      "rationale": "Keeping a detailed diary helps identify headache patterns and triggers, which is a foundational step in headache management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start medication immediately without diary tracking", "value": "A" },
+	          { "text": "Keep a diary recording quality, severity, timing, and triggers", "value": "B" },
+	          { "text": "Advise complete school absence until headache-free", "value": "C" },
+	          { "text": "Avoid all physical activity for at least one week", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "38"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "What advice should be given regarding school attendance for children with recurrent headaches?",
+	      "correctAnswer": "B",
+	      "rationale": "Children should return to school, and short breaks (e.g., 15 minutes in the nurse’s office during peak headache) are acceptable to help them cope.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Keep them home until headaches fully resolve", "value": "A" },
+	          { "text": "Encourage return to school with planned breaks if needed", "value": "B" },
+	          { "text": "Restrict school participation to half-days permanently", "value": "C" },
+	          { "text": "Recommend homeschooling due to stress factors", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "39"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "Which of the following is not a recommended lifestyle modification for children with recurrent headaches?",
+	      "correctAnswer": "C",
+	      "rationale": "Overuse of analgesics can worsen headaches; medication overuse is a known risk factor for chronic headaches.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Avoiding headache triggers like caffeine and poor sleep", "value": "A" },
+	          { "text": "Daily physical exercise", "value": "B" },
+	          { "text": "Using painkillers daily to prevent headache onset", "value": "C" },
+	          { "text": "Managing comorbid sleep problems", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "40"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "What is an important goal of patient education in headache management?",
+	      "correctAnswer": "C",
+	      "rationale": "Empowering patients enhances self-control and can significantly reduce distress and improve outcomes in chronic headache management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Minimize the use of diaries and self-monitoring", "value": "A" },
+	          { "text": "Focus solely on pharmacological solutions", "value": "B" },
+	          { "text": "Enable patients to manage their disease and reduce psychological distress", "value": "C" },
+	          { "text": "Encourage complete avoidance of social interaction", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

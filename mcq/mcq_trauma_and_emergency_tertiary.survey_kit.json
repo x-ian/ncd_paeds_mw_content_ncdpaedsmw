@@ -1,0 +1,190 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Trauma and emergency",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "A child in shock has received appropriate fluid resuscitation and treatment for sepsis but remains hypotensive. What is the next best step at the tertiary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "Refractory shock despite adequate treatment requires consultation and escalation to vasoactive agents like adrenaline or noradrenaline.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Repeat fluid bolus", "value": "A" },
+	          { "text": "Administer oral rehydration salts", "value": "B" },
+	          { "text": "Discuss with a consultant and consider vasoactive agents", "value": "C" },
+	          { "text": "Discharge if no obvious distress", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "Which of the following is not a standard tertiary-level intervention for refractory paediatric shock?",
+	      "correctAnswer": "C",
+	      "rationale": "High-dose paracetamol is not part of the management for refractory shock. Vasoactives, corticosteroids, bicarbonate, and ICU admission are appropriate.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Vasoactive agents (e.g., adrenaline)", "value": "A" },
+	          { "text": "Corticosteroids for adrenal insufficiency", "value": "B" },
+	          { "text": "High-dose paracetamol", "value": "C" },
+	          { "text": "Bicarbonate for metabolic acidosis correction", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Snake bite",
+	      "text": "Which of the following is an appropriate first-line medication for pain management in a child with a snake bite?",
+	      "correctAnswer": "C",
+	      "rationale": "Oral paracetamol is the first-line treatment for pain. Morphine may be added if pain is severe.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Ibuprofen", "value": "A" },
+	          { "text": "Morphine", "value": "B" },
+	          { "text": "Oral paracetamol", "value": "C" },
+	          { "text": "Aspirin", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Snake bite",
+	      "text": "When should limb elevation and monitoring for compartment syndrome be considered?",
+	      "correctAnswer": "B",
+	      "rationale": "Elevate the limb in cases of extensive swelling and monitor for compartment syndrome, which may require surgical intervention.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only for snake bites to the face", "value": "A" },
+	          { "text": "If extensive swelling is present", "value": "B" },
+	          { "text": "If the bite is more than 6 hours old", "value": "C" },
+	          { "text": "When fever is present", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Snake bite",
+	      "text": "Which of the following is not a clinical indication for anti-snake venom administration?",
+	      "correctAnswer": "B",
+	      "rationale": "Mild local swelling alone is not an indication. Anti-venom is indicated for systemic signs or extensive swelling.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Bite on the toe", "value": "A" },
+	          { "text": "Mild local swelling", "value": "B" },
+	          { "text": "Neurotoxicity", "value": "C" },
+	          { "text": "Spontaneous systemic bleeding", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Snake bite",
+	      "text": "A child with a snake bite develops rapidly progressive swelling and cardiovascular instability. What is the most appropriate next step?",
+	      "correctAnswer": "C",
+	      "rationale": "These are clear indications for anti-snake venom. Anaphylaxis risk warrants readiness with adrenaline.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Continue observation only", "value": "A" },
+	          { "text": "Start antibiotics", "value": "B" },
+	          { "text": "Administer anti-snake venom with adrenaline standing by", "value": "C" },
+	          { "text": "Perform fasciotomy immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Snake bite",
+	      "text": "What is the appropriate management when necrotic tissue is identified at the bite site?",
+	      "correctAnswer": "D",
+	      "rationale": "Surgical debridement is vital when necrotic tissue is present to prevent further complications.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Apply antiseptic cream and monitor", "value": "A" },
+	          { "text": "Elevate and immobilise the limb", "value": "B" },
+	          { "text": "Urgently refer to physiotherapy", "value": "C" },
+	          { "text": "Surgical debridement", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Toxicology",
+	      "text": "When should endotracheal intubation be considered in a child with poisoning?",
+	      "correctAnswer": "C",
+	      "rationale": "Intubation and ventilation are indicated for airway protection in neurologically deteriorating children.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "In all cases of suspected ingestion", "value": "A" },
+	          { "text": "Only if blood pressure drops", "value": "B" },
+	          { "text": "With progressive neurologic deterioration", "value": "C" },
+	          { "text": "If vomiting is present", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Toxicology",
+	      "text": "What is a key responsibility of the tertiary care team after initial stabilisation in a toxicology case?",
+	      "correctAnswer": "C",
+	      "rationale": "Once the patient is stabilised, the tertiary team should initiate condition-specific treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Repeat decontamination", "value": "A" },
+	          { "text": "Administer intravenous fluids only", "value": "B" },
+	          { "text": "Begin definitive treatment for the specific poison", "value": "C" },
+	          { "text": "Monitor heart rate every 6 hours", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

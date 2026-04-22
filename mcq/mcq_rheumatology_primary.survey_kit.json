@@ -1,0 +1,81 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Rheumatology",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "What is the recommended initial pharmacotherapy for Oligoarticular or Polyarticular JIA at the primary/secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "NSAIDs (e.g., ibuprofen 10 mg/kg/dose every 6–8 hours) and intraarticular steroids are first-line options if there's low disease activity and no joint contractures.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Methotrexate and biologics",
+	            "value": "A"
+	          },
+	          {
+	            "text": "NSAIDs and/or intraarticular steroids",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Oral corticosteroids only",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Hydroxychloroquine monotherapy",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "What is the recommended action for patients presenting with systemic JIA, psoriatic JIA, enthesitis-related arthritis, or non-specific JIA?",
+	      "correctAnswer": "C",
+	      "rationale": "All cases of systemic, psoriatic, enthesitis-related, and non-specific JIA should be referred to tertiary care for specialist management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Start methotrexate immediately",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Observe and review in 3 months",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Refer to tertiary level care",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Begin long-term NSAID therapy",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    }
+	  ]
+	}

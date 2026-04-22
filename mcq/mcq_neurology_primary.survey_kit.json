@@ -1,0 +1,380 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Neurology",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "What should a primary-level provider consider if a child with acute weakness appears at risk of respiratory compromise?",
+	      "correctAnswer": "A",
+	      "rationale": "In cases like Guillain-Barré Syndrome (GBS) or polio, where respiratory compromise is a risk, the guideline advises direct referral to tertiary care for airway support.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer the child directly to a tertiary facility", "value": "A" },
+	          { "text": "Begin oral antibiotics and schedule a follow-up", "value": "B" },
+	          { "text": "Wait for signs of full paralysis before acting", "value": "C" },
+	          { "text": "Observe for 72 hours and reassess", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "Which of the following best indicates a need for urgent tertiary-level referral in a child with acute weakness?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline highlights that signs of respiratory involvement in a child with acute weakness warrant immediate referral to tertiary care for potential airway management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mild muscle pain with normal reflexes", "value": "A" },
+	          { "text": "Headache with no weakness", "value": "B" },
+	          { "text": "Fever and rash only", "value": "C" },
+	          { "text": "Rapidly progressing weakness with signs of respiratory difficulty", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Acute Weakness",
+	      "text": "What is the appropriate action when a child presents with new-onset neurological signs at a primary health facility?",
+	      "correctAnswer": "C",
+	      "rationale": "According to the guideline, any child with new neurological symptoms should be referred to a secondary-level facility for further evaluation and management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin full neurological investigations onsite", "value": "A" },
+	          { "text": "Start corticosteroids and observe for 48 hours", "value": "B" },
+	          { "text": "Refer to a secondary healthcare facility for initial work-up and acute care", "value": "C" },
+	          { "text": "Initiate long-term rehabilitation therapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "What is the immediate priority when a child presents with suspected stroke at a primary care facility?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline emphasizes ABCDE management, neuroprotection, and urgent referral as the primary steps in stroke care at the primary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Wait for imaging before taking action", "value": "A" },
+	          { "text": "Administer aspirin and observe for 24 hours", "value": "B" },
+	          { "text": "Begin rehabilitation exercises", "value": "C" },
+	          { "text": "Apply ABCDE approach and provide neuroprotective care, then refer urgently", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "Why is temperature control important in the management of acute pediatric stroke?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline notes that keeping the child cool is essential because high temperatures can exacerbate ischemic injury.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "High temperatures can worsen cerebral ischemia", "value": "A" },
+	          { "text": "Fever helps identify infection-related strokes", "value": "B" },
+	          { "text": "Hypothermia prevents seizures", "value": "C" },
+	          { "text": "Temperature changes are unrelated to stroke outcome", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Stroke",
+	      "text": "What is the recommended approach to blood sugar management in a child with acute stroke?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline stresses the importance of maintaining normal glycaemia as part of neuroprotective care during acute stroke management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Induce mild hypoglycemia for neuroprotection", "value": "A" },
+	          { "text": "Avoid checking glucose until after referral", "value": "B" },
+	          { "text": "Maintain normal blood glucose levels", "value": "C" },
+	          { "text": "Only treat high glucose if above 12 mmol/L", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Hydrocephalus",
+	      "text": "What is the appropriate action at a primary care facility when a child presents with suspected hydrocephalus?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline advises primary-level providers to apply ABCCCD (Airway, Breathing, Circulation, Consciousness, Convulsions, Dehydration) management and refer the patient for further care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin corticosteroid therapy immediately", "value": "A" },
+	          { "text": "Manage using the ABCCCD approach and refer", "value": "B" },
+	          { "text": "Perform lumbar puncture to relieve pressure", "value": "C" },
+	          { "text": "Schedule follow-up in two weeks if symptoms persist", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Blocked Shunts",
+	      "text": "What is the appropriate action at a primary care level when a child presents with suspected blocked VP shunt?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary care level, the guideline recommends initial stabilization using ABCCCD (Airway, Breathing, Circulation, Consciousness, Convulsions, Dehydration), followed by urgent referral for specialized care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin corticosteroids and monitor", "value": "A" },
+	          { "text": "Attempt to flush the shunt manually", "value": "B" },
+	          { "text": "Manage using the ABCCCD approach", "value": "C" },
+	          { "text": "Reposition the child and observe for 24 hours", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What is the recommendation regarding immunizations for children with Cerebral Palsy?",
+	      "correctAnswer": "D",
+	      "rationale": "Children with CP should receive all immunizations on schedule unless specific contraindications exist.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only administer vaccines once growth has stabilized", "value": "A" },
+	          { "text": "Delay all live vaccines", "value": "B" },
+	          { "text": "Use reduced doses due to muscle spasticity", "value": "C" },
+	          { "text": "Administer all routine vaccines", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "How should nutrition be addressed at the primary care level in a child with CP?",
+	      "correctAnswer": "C",
+	      "rationale": "Children with CP are prone to feeding difficulties and undernutrition, so ongoing assessment and support are essential.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Provide multivitamins and discharge", "value": "A" },
+	          { "text": "Refer directly for feeding tube placement", "value": "B" },
+	          { "text": "Assess regularly and provide nutritional rehabilitation if undernourished", "value": "C" },
+	          { "text": "Avoid nutritional evaluation until weight is severely low", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "What should be done during routine Under-5 clinic visits at primary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends routine developmental screening and early referral when delays are noted.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Assess for hearing only", "value": "A" },
+	          { "text": "Screen for developmental delay and refer if needed", "value": "B" },
+	          { "text": "Only weigh and measure head circumference", "value": "C" },
+	          { "text": "Wait for parental concern before assessing milestones", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Cerebral Palsy (CP)",
+	      "text": "Which of the following is an essential component of primary-level care for a child with Cerebral Palsy?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline emphasizes education of the child, guardians, and community as a key role of primary-level care in managing Cerebral Palsy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Surgical correction of motor symptoms", "value": "A" },
+	          { "text": "Education of the child, guardians, and the community", "value": "B" },
+	          { "text": "Long-term sedation for muscle tone control", "value": "C" },
+	          { "text": "Home-based ventilation support", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "What is the recommended initial action when a child presents with an acute seizure at a primary health care facility?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline advises treating acute seizures using ABCDE and the seizure protocol as the first-line approach.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer immediately without intervention", "value": "A" },
+	          { "text": "Administer long-term antiepileptics immediately", "value": "B" },
+	          { "text": "Manage using ABCDE and the seizure protocol", "value": "C" },
+	          { "text": "Perform lumbar puncture before treating the seizure", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Epilepsy",
+	      "text": "What practical advice can be given to caregivers at the primary level to support epilepsy diagnosis?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline recommends that caregivers record seizure episodes on video when possible, to help clinicians confirm the diagnosis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Take a video of the seizure episode if they have access to a phone", "value": "A" },
+	          { "text": "Begin documenting food triggers", "value": "B" },
+	          { "text": "Record the child’s blood pressure during each episode", "value": "C" },
+	          { "text": "Keep the child awake during episodes for observation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Neural Tube Defects",
+	      "text": "A newborn is delivered with an obvious neural tube defect. What is the most appropriate initial step in management at the primary level?",
+	      "correctAnswer": "D",
+	      "rationale": "At the primary level, the focus is on stabilization: assessing the baby’s airway, breathing, circulation, disability, and exposure (ABCDE), maintaining warmth, and prompt referral to a higher level of care. No definitive treatment is done at this stage.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Cover the defect with antibiotic ointment and discharge home", "value": "A" },
+	          { "text": "Begin oral antibiotics immediately", "value": "B" },
+	          { "text": "Attempt surgical closure of the defect", "value": "C" },
+	          { "text": "Assess ABCDE and keep the baby warm", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "Which of the following is a recommended strategy when managing recurrent headaches in children?",
+	      "correctAnswer": "B",
+	      "rationale": "Keeping a detailed diary helps identify headache patterns and triggers, which is a foundational step in headache management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start medication immediately without diary tracking", "value": "A" },
+	          { "text": "Keep a diary recording quality, severity, timing, and triggers", "value": "B" },
+	          { "text": "Advise complete school absence until headache-free", "value": "C" },
+	          { "text": "Avoid all physical activity for at least one week", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "What advice should be given regarding school attendance for children with recurrent headaches?",
+	      "correctAnswer": "B",
+	      "rationale": "Children should return to school, and short breaks (e.g., 15 minutes in the nurse’s office during peak headache) are acceptable to help them cope.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Keep them home until headaches fully resolve", "value": "A" },
+	          { "text": "Encourage return to school with planned breaks if needed", "value": "B" },
+	          { "text": "Restrict school participation to half-days permanently", "value": "C" },
+	          { "text": "Recommend homeschooling due to stress factors", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "Which of the following is not a recommended lifestyle modification for children with recurrent headaches?",
+	      "correctAnswer": "C",
+	      "rationale": "Overuse of analgesics can worsen headaches; medication overuse is a known risk factor for chronic headaches.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Avoiding headache triggers like caffeine and poor sleep", "value": "A" },
+	          { "text": "Daily physical exercise", "value": "B" },
+	          { "text": "Using painkillers daily to prevent headache onset", "value": "C" },
+	          { "text": "Managing comorbid sleep problems", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Headache",
+	      "text": "What is an important goal of patient education in headache management?",
+	      "correctAnswer": "C",
+	      "rationale": "Empowering patients enhances self-control and can significantly reduce distress and improve outcomes in chronic headache management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Minimize the use of diaries and self-monitoring", "value": "A" },
+	          { "text": "Focus solely on pharmacological solutions", "value": "B" },
+	          { "text": "Enable patients to manage their disease and reduce psychological distress", "value": "C" },
+	          { "text": "Encourage complete avoidance of social interaction", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

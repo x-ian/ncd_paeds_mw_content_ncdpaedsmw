@@ -1,0 +1,639 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+	
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Cardiology",
+	      "text": "Multiple Choice for Secondary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "What is the correct dosage of intramuscular benzathine penicillin for a child weighing over 25 kg with ARF? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Children >25 kg should receive 1,200,000 IU IM as a stat dose. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "600,000 IU",
+	            "value": "A"
+	          },
+	          {
+	            "text": "1,200,000 IU",
+	            "value": "B"
+	          },
+	          {
+	            "text": "300,000 IU",
+	            "value": "C"
+	          },
+	          {
+	            "text": "800,000 IU",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "What is the recommended first-line treatment for joint pain in ARF? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Ibuprofen 10 mg/kg TDS for 7 days (or until joint symptoms resolve) is the guideline-recommended anti-inflammatory treatment. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Paracetamol",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Ibuprofen 5 mg/kg once daily",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Ibuprofen 10 mg/kg three times a day for 7 days",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Steroids",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "Which of the following is an appropriate treatment for severe or distressing chorea in ARF? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Haloperidol or sodium valproate are used to treat severe chorea. Mild chorea may not require treatment. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Oral penicillin",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Haloperidol or sodium valproate",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Paracetamol",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Ibuprofen only",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "In cases of severe chorea, which medication can be added to haloperidol or valproate? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Prednisone (2 mg/kg daily) can be added in severe or distressing cases of chorea, then tapered. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Amoxicillin",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Furosemide",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Prednisone",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Diazepam",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "What is the minimum recommended duration of prophylactic benzathine penicillin in mild cases of rheumatic heart disease? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Mild cases should receive secondary prophylaxis until 21 years of age; moderate to severe cases require life-long prophylaxis. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "5 years",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Until age 18",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Until age 21",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Life-long",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Myocarditis",
+	      "text": "Which of the following best describes the appropriate treatment at secondary and tertiary care levels for a child with suspected myocarditis? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Treatment at secondary and tertiary levels includes: stabilization, heart failure management if symptoms are present, and antibiotics if there is clinical evidence of bacterial infection. Tertiary care adds cardiology review, but the core treatment overlaps. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Monitor for 72 hours and refer only if symptoms worsen",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Stabilize the patient, treat as heart failure if symptomatic, and start antibiotics if bacterial infection is suspected",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Immediately refer without any intervention",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Begin antiviral therapy and schedule cardiology review later",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Dilated Cardiomyopathy",
+	      "text": "What is the appropriate management of a child diagnosed with dilated cardiomyopathy at the secondary or tertiary care level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline emphasizes stabilizing the patient and managing them as heart failure if symptoms are present. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Begin corticosteroids and reassess in one week",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Stabilize the patient and treat as heart failure if symptoms are present",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Delay treatment until echocardiogram confirms diagnosis",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Start antibiotics routinely for all cases",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Pulmonary hypertension",
+	      "text": "A child with pulmonary hypertension presents with dyspnoea and mild leg swelling. What combination of interventions is most appropriate at the secondary care level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Key secondary-level management includes supplemental oxygen, heart failure management if symptoms are present, and treating any reversible underlying causes such as lung disease or congenital heart defects [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Begin sildenafil, restrict fluids, and refer immediately",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Administer corticosteroids, discharge with oxygen, and encourage walking",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Provide supplemental oxygen, manage heart failure symptoms, and assess for treatable underlying causes",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Delay treatment and monitor for signs of right heart failure before intervening",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Congenital Heart diseases",
+	      "text": "A child with suspected CHD is admitted at secondary level. They are tachypnoeic with hepatomegaly. What is the most appropriate initial treatment? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Heart failure treatment at this level includes furosemide and spironolactone if symptoms are present, along with stabilization. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Immediate corrective surgery",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Stabilization and furosemide + spironolactone",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Start only spironolactone and monitor",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Refer immediately without starting medications",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Hypercyanotic Spell in Tetralogy of Fallot",
+	      "text": "A child with Tetralogy of Fallot presents with a hypercyanotic spell. Which medication should be given at the secondary care level to reduce distress and respiratory drive? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "PO morphine helps reduce hyperpnoea and distress, both of which exacerbate cyanosis during a Tet spell. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Furosemide",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Paracetamol",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Morphine 0.1 mg/kg PO",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Salbutamol",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Hypercyanotic Spell in Tetralogy of Fallot",
+	      "text": "Which of the following is part of the ongoing medical management for children with Tet spells at the secondary care level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Propranolol helps relieve right ventricular outflow tract obstruction by reducing infundibular spasm, and is used as part of ongoing medical management. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Aspirin 5 mg/kg/day",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Propranolol 0.5–1 mg/kg/dose PO TDS",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Oral corticosteroids",
+	            "value": "C"
+	          },
+	          {
+	            "text": "High-dose antibiotics",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Congestive Heart Failure",
+	      "text": "A 6-month-old infant with CHF is admitted to a secondary facility. What combination of medications is recommended as part of anti-failure treatment? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline recommends furosemide (1–2 mg/kg IV BD or TDS) and spironolactone (1–2 mg/kg PO BD) as the standard anti-failure regimen. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Furosemide and corticosteroids",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Furosemide and spironolactone",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Salbutamol and oral antibiotics",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Spironolactone and ibuprofen",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Congestive Heart Failure",
+	      "text": "What is the purpose of placing a child in a propped-up position during management of congestive heart failure? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "The propped-up position helps ease breathing and improve lung expansion in children with heart failure-related pulmonary congestion. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "To promote sleep",
+	            "value": "A"
+	          },
+	          {
+	            "text": "To assist with feeding",
+	            "value": "B"
+	          },
+	          {
+	            "text": "To improve respiratory effort and reduce pulmonary congestion",
+	            "value": "C"
+	          },
+	          {
+	            "text": "To reduce abdominal distension",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Congestive Heart Failure",
+	      "text": "What is an appropriate nutritional strategy for an infant with CHF being managed at the secondary level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline emphasizes nutritional support with optimized caloric intake and a low threshold for nasogastric feeding due to high metabolic demand and poor oral intake. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Begin high-fat diet",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Delay feeding until respiratory symptoms improve",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Optimize caloric intake and consider nasogastric feeding if needed",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Use only IV fluids until referral",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Paediatric Arrhythimias",
+	      "text": "A 7-year-old presents to a primary care facility with altered consciousness and a heart rate over 220 bpm. The child appears pale, cold, and poorly perfused. What is the most appropriate action? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "This is an unstable arrhythmia. At the primary level, the correct response is to stabilize using ABCs and refer immediately to tertiary care. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Administer oral beta-blocker and monitor for 2 hours",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Perform a 12-lead ECG and refer the next day",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Begin ABC stabilization and urgently refer to tertiary care",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Attempt vagal maneuvers and discharge if heart rate improves",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Supraventricular Tachycardia",
+	      "text": "Which of the following is an appropriate vagal manoeuvre for infants with haemodynamically stable SVT at the secondary care level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "For infants, applying ice or iced water to the face is a safe and effective vagal manoeuvre to attempt termination of SVT. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Asking the infant to hold their breath",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Applying an ice pack or iced water to the face for up to 30 seconds",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Having the infant blow into a straw",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Performing chest compressions briefly",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Supraventricular Tachycardia",
+	      "text": "What is the correct initial non-pharmacologic intervention for an older child with stable SVT at secondary care? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "The Valsalva maneuver is a recommended first-line intervention in older children who are stable with SVT. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Give IV fluids",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Perform synchronized cardioversion",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Use the Valsalva maneuver (e.g., blowing into a straw)",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Start oral furosemide",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Chest Pain",
+	      "text": "In evaluating pediatric chest pain at a secondary or tertiary facility, which of the following warrants referral to a cardiologist? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Chest pain that is triggered or worsened by activity may suggest an underlying cardiac cause and should be referred to cardiology. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Normal ECG and no family history of cardiac conditions",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Chest pain localized to a single rib with reproducible tenderness",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Chest pain associated with physical exertion",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Pain that resolves with paracetamol",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Chest Pain",
+	      "text": "Which of the following findings would most strongly indicate the need for cardiology referral in a child with chest pain? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "ECG abnormalities and a family history of cardiomyopathy, long QT syndrome, or sudden death are clear indications for cardiology referral. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Mild cough and normal chest X-ray",
+	            "value": "A"
+	          },
+	          {
+	            "text": "ECG abnormalities or positive family history of cardiomyopathy",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Localized muscle tenderness",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Normal cardiovascular examination and no systemic symptoms",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Syncope",
+	      "text": "A child presents with a brief loss of consciousness but has a normal exam and vitals. What is the most appropriate action at the primary or secondary level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Syncope may have cardiac or neurological causes. Evaluation by a cardiologist or neurologist at a tertiary center is advised. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Discharge without follow-up",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Begin oral rehydration therapy",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Refer to a tertiary facility for cardiology or neurology evaluation",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Order a 24-hour EEG before deciding next steps",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    }
+	  ]
+	}

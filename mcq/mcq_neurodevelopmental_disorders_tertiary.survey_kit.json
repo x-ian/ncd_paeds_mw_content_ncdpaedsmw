@@ -1,0 +1,918 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Neurodevelopmental disorders",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Attention Deficit Hyperactive Disorder (ADHD)",
+	      "text": "Which of the following is considered the foundation of treatment for ADHD?",
+	      "correctAnswer": "B",
+	      "rationale": "Psychoeducation is identified as the foundation of treatment because ADHD is a chronic condition. It helps families understand and manage the condition.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Methylphenidate therapy",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Psychoeducation",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Cardiac assessment",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Neuroimaging",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Attention Deficit Hyperactive Disorder (ADHD)",
+	      "text": "Before starting medication for ADHD, what baseline evaluation is essential?",
+	      "correctAnswer": "C",
+	      "rationale": "A full clinical assessment should be conducted before initiating ADHD medication. This includes reviewing mental health, social circumstances, and physical health.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Chest X-ray",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Thyroid function test",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Full clinical assessment including psychosocial review",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Spirometry",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Attention Deficit Hyperactive Disorder (ADHD)",
+	      "text": "When should a cardiology opinion be sought before starting ADHD medication?",
+	      "correctAnswer": "B",
+	      "rationale": "Cardiology referral is warranted if there’s a history of congenital heart disease, cardiac symptoms, or sudden death in a first-degree relative.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "For all patients under 10 years old",
+	            "value": "A"
+	          },
+	          {
+	            "text": "History of congenital heart disease or sudden death in a first-degree relative",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Elevated cholesterol",
+	            "value": "C"
+	          },
+	          {
+	            "text": "If the child has asthma",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Attention Deficit Hyperactive Disorder (ADHD)",
+	      "text": "Which medication is the recommended first-line pharmacological treatment for children aged 5 years and older with ADHD?",
+	      "correctAnswer": "D",
+	      "rationale": "Methylphenidate (short or long-acting) is recommended as the first-line pharmacologic treatment for ADHD in children over 5 years.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Risperidone",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Guanfacine",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Diazepam",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Methylphenidate",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Attention Deficit Hyperactive Disorder (ADHD)",
+	      "text": "Which of the following is TRUE regarding medication for ADHD at tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Only professionals with adequate training in ADHD should initiate medication due to the need for careful assessment and monitoring.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Any healthcare worker may prescribe it",
+	            "value": "A"
+	          },
+	          {
+	            "text": "It should be initiated by a professional with training in ADHD",
+	            "value": "B"
+	          },
+	          {
+	            "text": "It must be started before behavioural therapy",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Medication should be the only form of treatment",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Attention Deficit Hyperactive Disorder (ADHD)",
+	      "text": "What should be assessed before initiating stimulant therapy in ADHD?",
+	      "correctAnswer": "B",
+	      "rationale": "Stimulants can affect cardiovascular parameters, so baseline pulse and blood pressure must be assessed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Allergy testing",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Blood pressure and heart rate",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Vitamin D levels",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Renal ultrasound",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Attention Deficit Hyperactive Disorder (ADHD)",
+	      "text": "Why should height and weight be recorded before and during stimulant use?",
+	      "correctAnswer": "B",
+	      "rationale": "Stimulants such as methylphenidate are known to possibly affect growth, so monitoring height and weight is necessary.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "To assess for thyroid dysfunction",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Stimulants may suppress growth",
+	            "value": "B"
+	          },
+	          {
+	            "text": "For body mass index only",
+	            "value": "C"
+	          },
+	          {
+	            "text": "To determine correct medication dose",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Attention Deficit Hyperactive Disorder (ADHD)",
+	      "text": "When may risperidone be considered for a child with ADHD?",
+	      "correctAnswer": "A",
+	      "rationale": "Risperidone should only be used when behavioural difficulties persist and psychological/behavioural interventions have failed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Only if there is comorbid behavioural difficulty and psychological interventions have failed",
+	            "value": "A"
+	          },
+	          {
+	            "text": "In children under 5",
+	            "value": "B"
+	          },
+	          {
+	            "text": "As a first-line treatment",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Alongside methylphenidate from the start",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Autism Spectrum Disorder",
+	      "text": "What is a key responsibility of tertiary-level services in the care of children with Autism Spectrum Disorder (ASD)?",
+	      "correctAnswer": "C",
+	      "rationale": "According to the guideline, tertiary-level services are responsible for assessing, diagnosing, and managing children with ASD.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Provide school-based behavioral observations only",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Refer the patient to secondary care for diagnosis",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Assess, diagnose, and manage the child",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Delay diagnosis until adolescence",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Autism Spectrum Disorder",
+	      "text": "In addition to diagnosing ASD, what else is expected from tertiary-level services according to the guideline?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline clearly states that tertiary services must also support other care levels in the ongoing management of patients with ASD.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Support lower-level facilities in the ongoing care of children with ASD",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Handle only medication-related concerns",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Monitor educational progress exclusively",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Discharge patients after diagnosis",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Intellectual Disability (ID)",
+	      "text": "What is a core responsibility of tertiary-level services in the management of children with intellectual disability (ID)?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline states that tertiary-level services are responsible for assessment, diagnosis, management, and supporting lower-level facilities in the ongoing care of children with ID.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Provide home-based educational instruction",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Refer directly to primary care for treatment",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Assess, diagnose, and manage the child, and support other care levels",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Limit involvement to behavioral therapy only",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Specific Learning Disability/Disorders",
+	      "text": "Which of the following best describes the role of tertiary-level facilities in the management of specific learning disabilities?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline clearly states that tertiary-level services are critical in making the diagnosis of specific learning disabilities, with collaboration from other care levels.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "They provide routine classroom teaching",
+	            "value": "A"
+	          },
+	          {
+	            "text": "They only offer speech therapy services",
+	            "value": "B"
+	          },
+	          {
+	            "text": "They refer all suspected cases to secondary care",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Tertiary-level facilities are critical in making the diagnosis",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Specific Learning Disability/Disorders",
+	      "text": "In addition to diagnosing specific learning disorders, what is a key responsibility of tertiary-level services?",
+	      "correctAnswer": "D",
+	      "rationale": "Tertiary facilities must coordinate with providers at other care levels to confirm and support the diagnosis through shared information and collaboration.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Focus only on IQ testing",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Refer all cases to school authorities",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Conduct interventions independently",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Liaise with primary and secondary level providers to substantiate the diagnosis",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "What is the first-line approach for treating emotional distress in children at secondary or tertiary care levels?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline emphasizes that skills-based therapy (e.g., cognitive restructuring, relaxation, psychoeducation) is the mainstay of treatment, with medication reserved for severe cases.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Medication combined with inpatient admission",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Weekly psychiatric evaluations only",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Skills-based therapy programs",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Emergency use of antidepressants",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "Which of the following should be included as part of a structured skills-based therapy plan?",
+	      "correctAnswer": "D",
+	      "rationale": "Skills-based programs listed in the guideline include exposure therapy, parent training, relaxation, cognitive restructuring, and more — all non-pharmacologic approaches.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Electroconvulsive therapy and medication",
+	            "value": "A"
+	          },
+	          {
+	            "text": "CT brain scan and diet control",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Antipsychotic therapy and school exclusion",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Exposure therapy, parent training, and social skills training",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "What is the recommended approach to using medication for children with emotional distress, according to the guideline?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline advises that drugs should be used only if symptoms are very severe, and must be initiated carefully, preferably with input from a clinician experienced in pediatric psychopharmacology.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Medication should be used as the first-line treatment in all cases",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Drugs should be prescribed immediately if the child appears withdrawn",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Medication should be given at the parent’s request",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Medication should only be used as a last resort when symptoms are very severe",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "How often should children receiving skills-based therapy be reviewed during the early phase of treatment?",
+	      "correctAnswer": "B",
+	      "rationale": "Patients should be reviewed every 2–4 weeks, especially during early treatment, to monitor progress and adjust therapy as needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Once a year",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Every 2–4 weeks",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Only when medication is started",
+	            "value": "C"
+	          },
+	          {
+	            "text": "After 6 months of treatment",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "When should drug treatment be considered in the management of emotional distress in children?",
+	      "correctAnswer": "C",
+	      "rationale": "According to the guideline, medication is a last option, used only if symptoms are severe or the child does not respond to skills-based therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "In all cases as first-line care",
+	            "value": "A"
+	          },
+	          {
+	            "text": "After 3 therapy sessions",
+	            "value": "B"
+	          },
+	          {
+	            "text": "If symptoms are severe or there is no response to therapy",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Based on parental request alone",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "What critical safety assessment must be performed for all children with emotional distress?",
+	      "correctAnswer": "B",
+	      "rationale": "Clinicians must always assess for suicide risk. Any suicidal thoughts or behaviors must lead to urgent referral for specialist intervention.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Vision and hearing screening",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Suicide risk assessment with urgent referral if necessary",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Nutritional scoring",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Medication trial before diagnosis",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "What is the recommended duration for continuing medication in children with emotional distress to prevent relapse?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline advises continuing medication for up to 12 months, followed by slow weaning and close monitoring for relapse.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Stop as soon as symptoms improve",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Continue for life",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Up to 12 months with gradual weaning",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Until the child starts school",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "What is the correct approach to monitoring children on SSRIs for emotional distress, according to the guideline?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline stresses that all children on medication, especially SSRIs, must be closely monitored for worsening symptoms, including suicidal ideation or behavior, and that caregivers should be informed and involved. Referral to mental health professionals should be made as needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Monitor for physical side effects only",
+	            "value": "A"
+	          },
+	          {
+	            "text": "No follow-up is needed if symptoms improve initially",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Monitor closely for worsening symptoms and advise caregivers to do the same",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Refer only if sleep disturbances occur",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "Stress, Anxiety and other emotional distress",
+	      "text": "According to the guideline, what should be done if a child on SSRIs shows signs of worsening symptoms or suicidal ideation?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline emphasizes that if any child on treatment—especially SSRIs—shows worsening behavior or suicidal thoughts, they must be referred promptly to a psychiatry unit or mental health professional for appropriate intervention.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Stop the medication and monitor at home",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Increase the dose to stabilize the mood",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Wait for the next scheduled review before taking action",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Refer the child to a psychiatry unit or mental health practitioner for assessment and treatment",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "24"
+	      },
+	      "type": "question",
+	      "title": "Depression",
+	      "text": "What is a key responsibility of tertiary-level facilities in the management of depression?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline states that tertiary-level services are responsible for handling complex or complicated cases of depression that require advanced expertise.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Provide basic counseling only",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Refer all patients back to primary care",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Assess, diagnose, and manage complicated cases",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Avoid pharmacological treatment options",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "25"
+	      },
+	      "type": "question",
+	      "title": "Depression",
+	      "text": "What is the recommended course of action for a child presenting with severe depression and significant suicide risk?",
+	      "correctAnswer": "A",
+	      "rationale": "The guideline advises that children with high-risk symptoms such as suicidal ideation should be assessed promptly for inpatient psychiatric care, ensuring safety and intensive support.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Evaluate for possible inpatient admission to a psychiatric unit",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Initiate outpatient therapy and review after one month",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Refer the case to school-based counseling services",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Delay admission unless self-harm has already occurred",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "26"
+	      },
+	      "type": "question",
+	      "title": "Suicide / self-harm",
+	      "text": "What is a responsibility of secondary or tertiary-level facilities in managing patients with PTSD or self-harm risk?",
+	      "correctAnswer": "B",
+	      "rationale": "According to the guideline, secondary and tertiary facilities should assess and manage patients with PTSD or self-harm if equipped to do so.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Refer all cases to primary level for initial diagnosis",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Assess and manage patients if the services are available at that level",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Only monitor for physical injuries",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Focus solely on group therapy sessions",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "27"
+	      },
+	      "type": "question",
+	      "title": "Suicide / self-harm",
+	      "text": "When can a primary-level facility take over the care of a patient with PTSD or history of self-harm?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline notes that ongoing care for stable patients may be continued at the primary level, provided the right skills and services are in place.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Immediately after the first episode resolves",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Only after psychiatric admission",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Once medication is started at the tertiary level",
+	            "value": "C"
+	          },
+	          {
+	            "text": "When the patient is stable and the necessary skills and services are available",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "28"
+	      },
+	      "type": "question",
+	      "title": "Suicide / self-harm",
+	      "text": "A 14-year-old on SSRIs for depression begins showing increased irritability and vague references to hopelessness. What is the most appropriate next step according to the guideline?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline states that any sign of worsening behavior or suicidal ideation in a child on treatment—especially SSRIs—warrants urgent referral. Caregivers must also be actively involved in monitoring at home.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Reduce the SSRI dose and continue monitoring during routine follow-up",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Wait for a clear verbal expression of suicidal intent before acting",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Advise school staff to watch for further behavior changes",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Urgently refer the child for specialist assessment and advise caregivers to monitor closely",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "29"
+	      },
+	      "type": "question",
+	      "title": "Psychosis",
+	      "text": "What is a key responsibility of tertiary-level care in managing a child with psychosis?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline states that tertiary-level facilities are responsible for assessing and starting acute management of psychosis in children.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Refer immediately to secondary care for all suspected cases",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Limit management to supportive therapy only",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Assess and initiate acute management",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Delay treatment until long-term causes are identified",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "30"
+	      },
+	      "type": "question",
+	      "title": "Psychosis",
+	      "text": "What should be done after stabilizing a child with psychosis at the tertiary level, according to the guideline?",
+	      "correctAnswer": "A",
+	      "rationale": "Once the child is stabilized and treatment is underway, the guideline advises to rule out organic causes, and ongoing care may be shifted to secondary-level facilities if services are available.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Rule out organic causes and consider continuing care at secondary level if appropriate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Discharge the child to home care with no follow-up",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Refer directly to school counseling services",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Start indefinite inpatient care regardless of progress",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    }
+	  ]
+	}

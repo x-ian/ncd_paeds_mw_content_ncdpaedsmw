@@ -1,0 +1,683 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Gastroenterology and food allergy",
+	      "text": "Multiple Choice for Secondary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Chronic Abdominal Pain",
+	      "text": "What is the appropriate next step for managing a child with chronic abdominal pain at the secondary level?",
+	      "correctAnswer": "A",
+	      "rationale": "At the secondary level, the focus is on performing appropriate investigations (labs, imaging, stool tests, etc.) to find the underlying cause before escalating care.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Conduct relevant investigations to identify an underlying cause", "value": "A" },
+	          { "text": "Start symptomatic treatment only", "value": "B" },
+	          { "text": "Refer immediately without investigation", "value": "C" },
+	          { "text": "Reassure the family and schedule a yearly follow-up", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Chronic Abdominal Pain",
+	      "text": "When should a child with chronic abdominal pain be referred from secondary to tertiary care?",
+	      "correctAnswer": "D",
+	      "rationale": "If no clear diagnosis is reached after appropriate workup at secondary level, referral to tertiary care is warranted for specialist input and advanced diagnostics.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "If mild gastritis is diagnosed", "value": "A" },
+	          { "text": "If symptoms are controlled with diet changes", "value": "B" },
+	          { "text": "If stool test shows pinworm infestation", "value": "C" },
+	          { "text": "If no underlying cause is found despite appropriate investigations", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "Which is the first-line drug for treating GERD in children at the secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "PPIs like omeprazole are the recommended first-line pharmacologic option.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Antacids", "value": "A" },
+	          { "text": "Proton pump inhibitors", "value": "B" },
+	          { "text": "Domperidone", "value": "C" },
+	          { "text": "Simethicone", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "Which drug class should not be used routinely for pediatric GERD?",
+	      "correctAnswer": "C",
+	      "rationale": "Prokinetics (e.g. domperidone, erythromycin) are not routinely recommended due to limited evidence and potential side effects.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "PPIs", "value": "A" },
+	          { "text": "Antacids", "value": "B" },
+	          { "text": "Prokinetic agents", "value": "C" },
+	          { "text": "H2 blockers", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Gastroesophageal Reflux Disease",
+	      "text": "What is the goal when prescribing GERD medication?",
+	      "correctAnswer": "A",
+	      "rationale": "The aim is to use minimal effective dosing for the shortest time to manage symptoms.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Use the lowest effective dose briefly", "value": "A" },
+	          { "text": "Treat for 6 months", "value": "B" },
+	          { "text": "Combine multiple drug classes", "value": "C" },
+	          { "text": "Always use long-term therapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Peptic Ulcer Disease (PUD)",
+	      "text": "Which of the following is a red flag symptom that warrants referral for possible PUD?",
+	      "correctAnswer": "C",
+	      "rationale": "Hematemesis and involuntary weight loss are clear red flags suggesting gastritis or PUD, requiring urgent referral.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mild occasional bloating", "value": "A" },
+	          { "text": "Constipation for 2 days", "value": "B" },
+	          { "text": "Hematemesis and involuntary weight loss", "value": "C" },
+	          { "text": "Recent increase in appetite", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Peptic Ulcer Disease (PUD)",
+	      "text": "What is the first-line pharmacologic treatment for confirmed PUD in older children at the secondary level?",
+	      "correctAnswer": "C",
+	      "rationale": "PPIs (omeprazole, esomeprazole) are the first-line treatment in older children, given at 1–2 mg/kg/day.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "H2 receptor antagonists", "value": "A" },
+	          { "text": "Sucralfate syrup", "value": "B" },
+	          { "text": "Proton pump inhibitors", "value": "C" },
+	          { "text": "Long-term antacid monotherapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Peptic Ulcer Disease (PUD)",
+	      "text": "When should H. pylori eradication therapy be initiated in a child with PUD?",
+	      "correctAnswer": "A",
+	      "rationale": "H. pylori treatment should be started only when infection is confirmed, not empirically.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Only after confirmation of H. pylori infection", "value": "A" },
+	          { "text": "At the first suspicion of abdominal pain", "value": "B" },
+	          { "text": "Before any endoscopic or lab confirmation", "value": "C" },
+	          { "text": "In all children with nausea and bloating", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Peptic Ulcer Disease (PUD)",
+	      "text": "Which PUD presentation at the secondary level requires urgent referral?",
+	      "correctAnswer": "D",
+	      "rationale": "All bleeding patients should be referred to tertiary care for urgent evaluation and endoscopic management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Recurrent bloating", "value": "A" },
+	          { "text": "Poor response to PPIs", "value": "B" },
+	          { "text": "Mild iron deficiency anemia", "value": "C" },
+	          { "text": "Gastrointestinal bleeding (e.g., hematemesis or melena)", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Chronic Diarrhea",
+	      "text": "A 2-year-old child presents with chronic diarrhea and signs of wasting. What is an appropriate next step at the secondary care level?",
+	      "correctAnswer": "A",
+	      "rationale": "At the secondary level, it is essential to stabilize the patient, correct dehydration, and begin evaluation for infectious and nutritional causes.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Correct dehydration and evaluate for malnutrition and infection", "value": "A" },
+	          { "text": "Begin long-term steroids", "value": "B" },
+	          { "text": "Refer immediately without investigation", "value": "C" },
+	          { "text": "Start antidiarrheals and discharge", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Chronic Diarrhea",
+	      "text": "When should a child with chronic diarrhea be referred from secondary to tertiary care?",
+	      "correctAnswer": "D",
+	      "rationale": "Persistent symptoms or suspicion of non-infectious or complex causes (e.g. IBD, pancreatic insufficiency, congenital disorders) warrant referral to tertiary care for further investigation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "If the stool pH is above 7", "value": "A" },
+	          { "text": "If stool frequency reduces with fluids", "value": "B" },
+	          { "text": "If there is mild weight loss", "value": "C" },
+	          { "text": "If diarrhea persists or a non-infectious cause is suspected", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Chronic Diarrhea",
+	      "text": "Which of the following stool investigations helps differentiate between osmotic and secretory diarrhea?",
+	      "correctAnswer": "B",
+	      "rationale": "The stool osmotic gap helps distinguish osmotic diarrhea (high gap) from secretory diarrhea (gap <50). This guides diagnosis and treatment in persistent or unclear cases.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stool pH", "value": "A" },
+	          { "text": "Stool osmotic gap", "value": "B" },
+	          { "text": "Fecal occult blood test", "value": "C" },
+	          { "text": "Stool culture", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Food allergy",
+	      "text": "A child presents with sudden wheezing, rash, and hypotension after eating peanuts. What is your first priority?",
+	      "correctAnswer": "B",
+	      "rationale": "A child with signs of anaphylaxis requires immediate stabilization using the ABCDE approach and emergency management protocols.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Order food-specific IgE test", "value": "A" },
+	          { "text": "Initiate ABCDE and manage as anaphylaxis", "value": "B" },
+	          { "text": "Give antihistamines and monitor at home", "value": "C" },
+	          { "text": "Ask the family to remove peanuts from diet and return if worse", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Food allergy",
+	      "text": "What is the next best step in a child with recurrent hives after certain meals, but currently stable?",
+	      "correctAnswer": "A",
+	      "rationale": "A thorough history is essential, but all suspected food allergy cases should be referred to higher-level care for further evaluation and testing.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Take detailed dietary history and refer", "value": "A" },
+	          { "text": "Prescribe oral steroids and observe", "value": "B" },
+	          { "text": "Perform skin prick test in primary care", "value": "C" },
+	          { "text": "Start an elimination diet without documentation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "Which of the following symptom combinations should raise suspicion for IBD in a child?",
+	      "correctAnswer": "C",
+	      "rationale": "Chronic diarrhea, rectal bleeding, and growth retardation are classic features of inflammatory bowel disease, especially Crohn’s disease.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Intermittent constipation and flatulence", "value": "A" },
+	          { "text": "Fever and isolated upper abdominal pain after meals", "value": "B" },
+	          { "text": "Chronic diarrhea with rectal bleeding and growth retardation", "value": "C" },
+	          { "text": "Isolated oral thrush and fussiness", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Inflammatory Bowel Disease",
+	      "text": "Which of the following symptoms is more commonly associated with Crohn’s disease than ulcerative colitis in children?",
+	      "correctAnswer": "C",
+	      "rationale": "Crohn’s disease is more often associated with aphthous ulcers and growth retardation, which may precede GI symptoms and help differentiate it from ulcerative colitis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Tenesmus and bloody diarrhea", "value": "A" },
+	          { "text": "Abdominal distension with left-sided pain", "value": "B" },
+	          { "text": "Aphthous oral ulcers and growth failure", "value": "C" },
+	          { "text": "Rectal bleeding only during infections", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Coeliac disease",
+	      "text": "A child with undiagnosed coeliac disease presents with severe diarrhea, hypotension, and signs of shock. What is the immediate priority?",
+	      "correctAnswer": "A",
+	      "rationale": "In cases of coeliac crisis, immediate treatment of life-threatening dehydration or anemia is essential before initiating other interventions.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stabilize with fluids and treat life-threatening dehydration", "value": "A" },
+	          { "text": "Begin iron supplements and refer", "value": "B" },
+	          { "text": "Prescribe gluten-free diet and reassess next day", "value": "C" },
+	          { "text": "Order HLA typing before any treatment", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Coeliac disease",
+	      "text": "Which of the following grains is safe for children with coeliac disease to consume?",
+	      "correctAnswer": "C",
+	      "rationale": "Rice is gluten-free and safe. Others like wheat, rye, barley, and spelt contain gluten and must be avoided permanently.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Barley", "value": "A" },
+	          { "text": "Rye", "value": "B" },
+	          { "text": "Rice", "value": "C" },
+	          { "text": "Spelt", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Coeliac disease",
+	      "text": "What is an essential component of long-term management for a child with coeliac disease?",
+	      "correctAnswer": "B",
+	      "rationale": "Children with coeliac disease require a lifelong gluten-free diet, even if symptoms resolve, to prevent complications and support growth.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Gradual reintroduction of gluten after 6 months", "value": "A" },
+	          { "text": "Lifelong gluten-free diet", "value": "B" },
+	          { "text": "Avoid all carbohydrates", "value": "C" },
+	          { "text": "Discontinue treatment once symptoms improve", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "In a child with acute liver failure and signs of shock, what is the recommended initial fluid resuscitation strategy?",
+	      "correctAnswer": "B",
+	      "rationale": "Volume repletion with normal saline (20 mL/kg bolus, repeat if necessary) is the first-line fluid in hemodynamic compromise due to liver failure.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Dextrose 5% at maintenance rate", "value": "A" },
+	          { "text": "Normal saline 20 mL/kg bolus", "value": "B" },
+	          { "text": "Colloid infusion 10 mL/kg", "value": "C" },
+	          { "text": "Ringer’s lactate 50 mL/kg over 1 hour", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "What is the goal when using lactulose to control hyperammonemia in children with acute liver failure?",
+	      "correctAnswer": "C",
+	      "rationale": "Lactulose helps lower ammonia levels by targeting the gut; the goal is 2–4 loose stools/day to ensure effective clearance.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Produce no bowel movements", "value": "A" },
+	          { "text": "Produce 1 hard stool daily", "value": "B" },
+	          { "text": "Produce 2–4 loose stools daily", "value": "C" },
+	          { "text": "Eradicate all gut bacteria", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "What should be done after stabilizing a child with acute liver failure at a secondary facility?",
+	      "correctAnswer": "A",
+	      "rationale": "All children with acute liver failure must be referred to tertiary care after stabilization, as definitive care requires specialist input.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Refer to a tertiary facility for further management", "value": "A" },
+	          { "text": "Discharge with follow-up in 3 days", "value": "B" },
+	          { "text": "Start long-term steroids", "value": "C" },
+	          { "text": "Monitor only liver enzyme trends", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "24"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which of the following supports neuroprotection in a child with hepatic encephalopathy?",
+	      "correctAnswer": "D",
+	      "rationale": "Head elevation helps reduce the risk of increased intracranial pressure, a serious complication of hepatic encephalopathy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Head-down position and hyperventilation", "value": "A" },
+	          { "text": "Deep sedation without airway support", "value": "B" },
+	          { "text": "Rapid fluid boluses", "value": "C" },
+	          { "text": "Elevating head of bed to 30°", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "25"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which of the following is a clear indication for early intubation in a child with acute liver failure?",
+	      "correctAnswer": "B",
+	      "rationale": "Rapidly worsening encephalopathy requires early intubation to protect the airway and prevent further neurological compromise.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Mild hyperbilirubinemia", "value": "A" },
+	          { "text": "Rapidly progressing encephalopathy", "value": "B" },
+	          { "text": "Normal ammonia level with mild confusion", "value": "C" },
+	          { "text": "Coagulopathy without bleeding", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "26"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "A child with ALF is hypotensive and poorly responsive to two normal saline boluses. What is the next step?",
+	      "correctAnswer": "A",
+	      "rationale": "If a child with ALF remains hypotensive despite fluid resuscitation, vasopressors should be initiated to support perfusion.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start vasopressors", "value": "A" },
+	          { "text": "Give another fluid bolus", "value": "B" },
+	          { "text": "Begin oral rehydration", "value": "C" },
+	          { "text": "Delay treatment until renal function tests return", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "27"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which of the following can be used to treat raised ICP in acute liver failure?",
+	      "correctAnswer": "C",
+	      "rationale": "Mannitol (0.5–1 g/kg) and 3% hypertonic saline are both effective options for reducing intracranial pressure in ALF.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Acetazolamide", "value": "A" },
+	          { "text": "Dexamethasone", "value": "B" },
+	          { "text": "Mannitol or hypertonic saline", "value": "C" },
+	          { "text": "Diuretics and head-down positioning", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "28"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "What is the recommended treatment for active bleeding due to coagulopathy in acute liver failure?",
+	      "correctAnswer": "D",
+	      "rationale": "Management includes IV vitamin K and FFP (15 mL/kg) for patients with active bleeding.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral vitamin K and observation", "value": "A" },
+	          { "text": "Steroids and transfusion", "value": "B" },
+	          { "text": "Albumin and vitamin D", "value": "C" },
+	          { "text": "IV Vitamin K and FFP transfusion", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "29"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which medication is indicated in a child with acute liver failure due to acetaminophen overdose?",
+	      "correctAnswer": "A",
+	      "rationale": "N-acetylcysteine is the antidote of choice for paracetamol (acetaminophen) toxicity, and is a cornerstone in ALF related to overdose.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "N-acetylcysteine", "value": "A" },
+	          { "text": "Lactulose", "value": "B" },
+	          { "text": "Metronidazole", "value": "C" },
+	          { "text": "Prednisolone", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "30"
+	      },
+	      "type": "question",
+	      "title": "Acute Liver Failure",
+	      "text": "Which antibiotic is recommended for prophylaxis against infection in a child with acute liver failure?",
+	      "correctAnswer": "C",
+	      "rationale": "Ceftriaxone (50 mg/kg/day) is the recommended prophylactic antibiotic in acute liver failure due to the high risk of infection and sepsis in these patients.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Amoxicillin", "value": "A" },
+	          { "text": "Azithromycin", "value": "B" },
+	          { "text": "Ceftriaxone", "value": "C" },
+	          { "text": "Metronidazole", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "31"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "A 10-year-old with suspected liver cirrhosis presents with confusion and vomiting. What is the most appropriate initial step at a primary or secondary care facility?",
+	      "correctAnswer": "B",
+	      "rationale": "Stabilization and checking for hypoglycemia are key priorities in any child presenting with signs of hepatic decompensation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start corticosteroids and observe", "value": "A" },
+	          { "text": "Stabilize the patient and check blood sugar", "value": "B" },
+	          { "text": "Discharge if afebrile", "value": "C" },
+	          { "text": "Start diuretics immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "32"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "What is the recommended first-line treatment for coagulopathy-related bleeding in a child with liver cirrhosis?",
+	      "correctAnswer": "C",
+	      "rationale": "Vitamin K (2.5–10 mg/day) is used to manage bleeding due to impaired synthesis of clotting factors in chronic liver disease.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Fresh frozen plasma", "value": "A" },
+	          { "text": "Aspirin", "value": "B" },
+	          { "text": "Vitamin K", "value": "C" },
+	          { "text": "Oral iron", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "33"
+	      },
+	      "type": "question",
+	      "title": "Liver Cirrhosis",
+	      "text": "Which of the following actions is appropriate in the care of a child with chronic liver disease at the primary or secondary level?",
+	      "correctAnswer": "A",
+	      "rationale": "Mid-upper arm circumference is useful for nutritional assessment, and palliative care involvement is crucial for chronic or end-stage cases.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Perform nutritional assessment and refer to palliative care if needed", "value": "A" },
+	          { "text": "Begin lifelong immunosuppressants", "value": "B" },
+	          { "text": "Initiate liver transplant evaluation", "value": "C" },
+	          { "text": "Delay referral until liver enzymes normalize", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "34"
+	      },
+	      "type": "question",
+	      "title": "Portal hypertension",
+	      "text": "A 6-year-old presents with splenomegaly, abdominal distension, and hematemesis. You suspect portal hypertension. What is the most appropriate action at a primary or secondary care facility?",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary or secondary level, the priority is stabilization (manage airway, breathing, circulation) and urgent referral to tertiary care for further diagnostic workup and definitive management of portal hypertension.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start beta-blocker therapy", "value": "A" },
+	          { "text": "Administer diuretics and discharge home", "value": "B" },
+	          { "text": "Stabilize the patient and refer to tertiary care", "value": "C" },
+	          { "text": "Order a liver biopsy before referring", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "35"
+	      },
+	      "type": "question",
+	      "title": "Ascites",
+	      "text": "A 6-year-old presents with moderate ascites. Which of the following is part of the standard initial workup at the secondary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "At the secondary level, key investigations for ascites include abdominal ultrasound and diagnostic paracentesis to evaluate for infection, malignancy, or other causes.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Bone marrow aspiration", "value": "A" },
+	          { "text": "Abdominal ultrasound and diagnostic paracentesis", "value": "B" },
+	          { "text": "Endoscopy", "value": "C" },
+	          { "text": "Spirometry and chest X-ray", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "36"
+	      },
+	      "type": "question",
+	      "title": "Ascites",
+	      "text": "Which of the following investigations is most useful to screen for infectious causes of ascites at the secondary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "To evaluate infectious causes of ascites, tests like blood and urine cultures, and screening for tuberculosis or schistosomiasis, are appropriate and routinely performed at the secondary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Liver biopsy", "value": "A" },
+	          { "text": "Endoscopy", "value": "B" },
+	          { "text": "Blood and urine cultures, and TB screening", "value": "C" },
+	          { "text": "Upper GI series", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

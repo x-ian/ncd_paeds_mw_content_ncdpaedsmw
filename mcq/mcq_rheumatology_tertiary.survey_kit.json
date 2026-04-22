@@ -1,0 +1,1352 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Rheumatology",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Septic Arthritis",
+	      "text": "What is the initial management for pain in a child with septic arthritis at tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Pain management in septic arthritis includes paracetamol, NSAIDs (if available), and sometimes opiates for severe pain.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Antibiotics only",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Paracetamol and NSAIDs",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Physiotherapy",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Oral steroids",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Septic Arthritis",
+	      "text": "What is the purpose of joint rest in managing septic arthritis?",
+	      "correctAnswer": "C",
+	      "rationale": "Resting the joint (e.g., using a sling for the arm or bed rest for the leg) helps reduce inflammation and supports recovery.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "To promote early mobilization",
+	            "value": "A"
+	          },
+	          {
+	            "text": "To allow antibiotic penetration",
+	            "value": "B"
+	          },
+	          {
+	            "text": "To reduce inflammation and aid healing",
+	            "value": "C"
+	          },
+	          {
+	            "text": "To facilitate drainage",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Septic Arthritis",
+	      "text": "Which intravenous antibiotics are recommended for neonates with septic arthritis?",
+	      "correctAnswer": "B",
+	      "rationale": "Flucloxacillin and gentamicin are recommended IV antibiotics for neonates until fever subsides, followed by 4 weeks of oral therapy based on sensitivities.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Ceftriaxone and ciprofloxacin",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Flucloxacillin and gentamicin",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Amoxicillin and clavulanate",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Vancomycin and metronidazole",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Septic Arthritis",
+	      "text": "What is the recommended antibiotic and dose for older children with septic arthritis?",
+	      "correctAnswer": "B",
+	      "rationale": "Older children are treated with ceftriaxone 50 mg/kg IV once daily until fever settles, then switched to oral ciprofloxacin for up to 2 weeks if improving.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Ceftriaxone 100 mg/kg IV",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Ceftriaxone 50 mg/kg IV once daily",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Amoxicillin 50 mg/kg IV twice daily",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Ciprofloxacin 50 mg/kg IV once daily",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Septic Arthritis",
+	      "text": "What surgical intervention is included in tertiary care for septic arthritis?",
+	      "correctAnswer": "D",
+	      "rationale": "Orthopedic surgery may be needed to aspirate the joint, perform debridement, and inject sterile fluid until the infection clears.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Limb amputation",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Biopsy of joint capsule",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Arthroscopy for joint replacement",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Surgical debridement, aspiration, and sterile fluid injection",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Septic Arthritis",
+	      "text": "What factors influence the choice of antibiotics in the tertiary management of septic arthritis?",
+	      "correctAnswer": "C",
+	      "rationale": "Antibiotic choice in septic arthritis should be individualized based on several factors including age, predisposing conditions, suspected pathogens, culture results, and local antimicrobial resistance trends.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "The child’s weight and allergy history only",
+	            "value": "A"
+	          },
+	          {
+	            "text": "The availability of generic antibiotics",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Predisposing factors, age and suspected organism",
+	            "value": "C"
+	          },
+	          {
+	            "text": "The presence of joint effusion only",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Osteomyelitis",
+	      "text": "What is the recommended initial approach to manage pain in a child with osteomyelitis at the tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Tertiary care includes managing pain with paracetamol, NSAIDs (if available), and opiates when needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Oral antibiotics only",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Paracetamol, NSAIDs, and possibly opiates",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Topical analgesics",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Muscle relaxants",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Osteomyelitis",
+	      "text": "What is the initial antibiotic regimen for a neonate with osteomyelitis?",
+	      "correctAnswer": "C",
+	      "rationale": "Flucloxacillin and gentamicin are the recommended IV antibiotics for neonates until fever settles, followed by 4 weeks of oral antibiotics based on susceptibility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Ceftriaxone and ciprofloxacin",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Amoxicillin and clavulanate",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Flucloxacillin and gentamicin",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Vancomycin and metronidazole",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Osteomyelitis",
+	      "text": "What antibiotic and dose are recommended for older children with osteomyelitis?",
+	      "correctAnswer": "B",
+	      "rationale": "Older children should receive ceftriaxone 50 mg/kg IV daily, followed by oral ciprofloxacin for up to 4 weeks if fever resolves and condition improves.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Ceftriaxone 100 mg/kg IV daily",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Ceftriaxone 50 mg/kg IV once daily",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Amoxicillin 40 mg/kg orally",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Ciprofloxacin 50 mg/kg IV once daily",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Osteomyelitis",
+	      "text": "What is an important surgical step in the management of osteomyelitis at tertiary level?",
+	      "correctAnswer": "D",
+	      "rationale": "Osteomyelitis with abscess formation requires surgical drainage, which should be discussed with orthopedic surgeons.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Joint replacement",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Bone grafting",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Amputation",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Abscess drainage by orthopedic surgery",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Osteomyelitis",
+	      "text": "According to the note in the guideline, what should guide the choice of antibiotics in osteomyelitis?",
+	      "correctAnswer": "C",
+	      "rationale": "Antibiotic selection should be based on multiple factors including age, suspected organism, culture sensitivity, and local resistance patterns.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Drug availability and parental preference",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Only patient age",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Age, predisposing factors, culture results, and local resistance patterns",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Duration of symptoms only",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Osteomyelitis",
+	      "text": "What is the goal of physiotherapy and early mobilization after surgery for osteomyelitis?",
+	      "correctAnswer": "B",
+	      "rationale": "Postoperative care involves physiotherapy and early mobilization to maintain joint mobility and function once pain subsides.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Reduce bone inflammation",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Prevent stiffness and preserve function when pain free",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Improve appetite",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Accelerate bone growth",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "What is the initial corticosteroid used in first-line treatment of JDM?",
+	      "correctAnswer": "B",
+	      "rationale": "Methylprednisolone is used IV for 3 days at 10–30 mg/kg/day in first-line management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Dexamethasone",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Methylprednisolone",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Betamethasone",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Triamcinolone",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "How is methotrexate preferably administered in first-line JDM treatment?",
+	      "correctAnswer": "B",
+	      "rationale": "Methotrexate is preferably given subcutaneously at 15 mg/m² in JDM for better bioavailability and tolerance.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Oral",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Subcutaneous",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Intramuscular",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Inhaled",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "Why is TB prophylaxis included in the first-line management of JDM?",
+	      "correctAnswer": "C",
+	      "rationale": "Methotrexate is immunosuppressive and may reactivate latent TB, so TB INH prophylaxis is recommended when needed.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "All JDM patients are exposed to TB",
+	            "value": "A"
+	          },
+	          {
+	            "text": "To prevent lung complications",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Because methotrexate can increase TB reactivation risk",
+	            "value": "C"
+	          },
+	          {
+	            "text": "To treat latent tuberculosis",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "What is the correct dose range for daily hydroxychloroquine in JDM management?",
+	      "correctAnswer": "C",
+	      "rationale": "Hydroxychloroquine is used at a dose of 3–6 mg/kg/day to manage skin and joint manifestations.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "1–2 mg/kg/day",
+	            "value": "A"
+	          },
+	          {
+	            "text": "4–5 mg/kg/day",
+	            "value": "B"
+	          },
+	          {
+	            "text": "3–6 mg/day",
+	            "value": "C"
+	          },
+	          {
+	            "text": "6–10 mg/kg/day",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "Which of the following is a second-line immunosuppressive agent for JDM?",
+	      "correctAnswer": "C",
+	      "rationale": "Azathioprine is listed under second-line pharmacologic agents for JDM when first-line therapy is insufficient.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Rituximab",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Cyclophosphamide",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Azathioprine",
+	            "value": "C"
+	          },
+	          {
+	            "text": "MMF (Mycophenolate mofetil)",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "Which treatment in JDM provides immunoglobulin replacement and modulation of immune response?",
+	      "correctAnswer": "C",
+	      "rationale": "IV immunoglobulins are used in second-line therapy for their immunomodulatory effects.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Methotrexate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Tacrolimus",
+	            "value": "B"
+	          },
+	          {
+	            "text": "IV immunoglobulins",
+	            "value": "C"
+	          },
+	          {
+	            "text": "NSAIDs",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "Which third-line agent in JDM is a B-cell depleting monoclonal antibody?",
+	      "correctAnswer": "C",
+	      "rationale": "Rituximab is a monoclonal antibody targeting CD20 on B cells and is used in refractory cases.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Cyclophosphamide",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Azathioprine",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Rituximab",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Hydroxychloroquine",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "What is the mechanism of action of MMF (Mycophenolate mofetil) in JDM treatment?",
+	      "correctAnswer": "B",
+	      "rationale": "MMF suppresses lymphocyte proliferation by inhibiting purine synthesis and is used as third-line therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "TNF-α inhibition",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Inhibition of T and B cell proliferation",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Calcium channel blocking",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Corticosteroid-sparing",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "Which drug is classified as a calcineurin inhibitor and used as third-line treatment for JDM?",
+	      "correctAnswer": "C",
+	      "rationale": "Tacrolimus is a calcineurin inhibitor that modulates T-cell activation and is used in resistant JDM.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Cyclophosphamide",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Methotrexate",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Tacrolimus",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Azathioprine",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Dermatomyositis",
+	      "text": "In third-line JDM therapy, which class of agents directly targets TNF-α?",
+	      "correctAnswer": "D",
+	      "rationale": "Anti-TNF agents are used in refractory cases of JDM that do not respond to other therapies.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "IL-6 inhibitors",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Corticosteroids",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Calcineurin inhibitors",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Anti-TNF agents",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "24"
+	      },
+	      "type": "question",
+	      "title": "Systemic Lupus Erythematosus (SLE)",
+	      "text": "What daily medication is recommended for all patients with SLE at tertiary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Hydroxychloroquine is a cornerstone therapy for all SLE patients due to its role in reducing flares and improving survival.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Methotrexate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Hydroxychloroquine 200 mg OD",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Prednisone 60 mg daily",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Azathioprine",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "25"
+	      },
+	      "type": "question",
+	      "title": "Systemic Lupus Erythematosus (SLE)",
+	      "text": "Which corticosteroid regimen is commonly used in tertiary care for SLE?",
+	      "correctAnswer": "B",
+	      "rationale": "In cases of active or severe SLE, IV methylprednisolone is used initially, followed by a tapering course of oral prednisolone.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Oral dexamethasone",
+	            "value": "A"
+	          },
+	          {
+	            "text": "IV methylprednisolone",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Inhaled budesonide",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Oral hydrocortisone",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "26"
+	      },
+	      "type": "question",
+	      "title": "Systemic Lupus Erythematosus (SLE)",
+	      "text": "Which of the following is classified as a biological therapy used in SLE management?",
+	      "correctAnswer": "B",
+	      "rationale": "Rituximab is a biological agent used in refractory or severe SLE, particularly in patients not responding to conventional therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Methotrexate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Rituximab",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Cyclophosphamide",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Azathioprine",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "27"
+	      },
+	      "type": "question",
+	      "title": "Systemic Lupus Erythematosus (SLE)",
+	      "text": "What is the purpose of Vitamin D and calcium supplementation in SLE patients?",
+	      "correctAnswer": "B",
+	      "rationale": "Long-term steroid use can lead to osteoporosis, so Vitamin D and calcium are essential preventive supplements.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "To treat anemia",
+	            "value": "A"
+	          },
+	          {
+	            "text": "To prevent corticosteroid-induced bone loss",
+	            "value": "B"
+	          },
+	          {
+	            "text": "To reduce photosensitivity",
+	            "value": "C"
+	          },
+	          {
+	            "text": "To treat renal dysfunction",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "28"
+	      },
+	      "type": "question",
+	      "title": "Systemic Lupus Erythematosus (SLE)",
+	      "text": "What laboratory markers should be regularly monitored in tertiary care for SLE patients?",
+	      "correctAnswer": "C",
+	      "rationale": "Monitoring inflammatory markers (like ESR/CRP) and renal function (e.g., creatinine, urinalysis) is critical in managing disease activity and complications in SLE.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Blood glucose and lipid profile",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Liver enzymes and bilirubin",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Inflammatory markers and renal function",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Clotting profile and electrolytes",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "29"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "What is the recommended disease-modifying drug if oligoarticular JIA is still active after 3 months of initial therapy?",
+	      "correctAnswer": "B",
+	      "rationale": "Methotrexate (10–15 mg/m²/week) is the standard second-line treatment if the disease remains active after 3 months of NSAIDs or intra-articular steroids.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Prednisone",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Methotrexate",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Hydroxychloroquine",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Azathioprine",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "30"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "Which of the following should be monitored monthly during methotrexate therapy for oligoarticular JIA?",
+	      "correctAnswer": "C",
+	      "rationale": "FBC, LFTs, and creatinine should be monitored monthly for the first 3 months to detect methotrexate-related toxicity.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Serum calcium and phosphate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Vitamin D and iron studies",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Full blood count, liver enzymes, and creatinine",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Thyroid function",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "31"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "What is the next step if there is no improvement after a month of initial therapy in polyarticular JIA?",
+	      "correctAnswer": "B",
+	      "rationale": "Methotrexate should be added if there is no improvement within one month of initial therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Start biologics immediately",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Add methotrexate",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Stop all treatment",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Use hydroxychloroquine",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "32"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "Which corticosteroid regimen is recommended for rapid symptom relief in polyarticular JIA?",
+	      "correctAnswer": "B",
+	      "rationale": "A starting dose of 1 mg/kg/day of prednisolone is used, then reduced to 5–7.5 mg/day if good response is achieved.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Prednisolone 2 mg/kg/day only",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Prednisolone 1 mg/kg/day starting dose",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Methylprednisolone IV for 3 days",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Budesonide orally",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "33"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "In mild SJIA, what is the first-line treatment approach?",
+	      "correctAnswer": "B",
+	      "rationale": "For mild SJIA, prednisolone at 2 mg/kg/day is used with tapering once remission is achieved.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Start biologic immediately",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Prednisolone 2 mg/kg/day orally",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Methotrexate weekly",
+	            "value": "C"
+	          },
+	          {
+	            "text": "NSAIDs only",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "34"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "What therapy is recommended as initial treatment for critically ill SJIA patients with serositis?",
+	      "correctAnswer": "B",
+	      "rationale": "High-dose IV methylprednisolone (30mg/kg for 3 days) is used for critically ill SJIA patients with serositis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Methotrexate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Methylprednisolone IV",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Oral NSAIDs",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Azathioprine",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "35"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "If there is no improvement in psoriatic JIA after NSAID therapy, what is the next recommended treatment step?",
+	      "correctAnswer": "D",
+	      "rationale": "Anti-IL-17 biologic agents like secukinumab are recommended for patients not responding to first-line therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "IV steroids",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Add hydroxychloroquine",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Start oral corticosteroids",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Start biologic – anti-IL-17",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "36"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "What is the initial management strategy for psoriatic JIA with no joint contractures and low disease activity?",
+	      "correctAnswer": "A",
+	      "rationale": "NSAIDs (like ibuprofen 10 mg/kg/does) are the initial treatment if the disease is mild and no joint contractures are present.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "NSAIDs",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Methotrexate weekly",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Biologic therapy",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Daily corticosteroids",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "37"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "What is the first-line therapy for enthesitis-related arthritis in primary care?",
+	      "correctAnswer": "C",
+	      "rationale": "Enthesitis-related arthritis is initially managed in primary care with NSAIDs to reduce inflammation and pain.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Methotrexate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Prednisone",
+	            "value": "B"
+	          },
+	          {
+	            "text": "NSAIDs",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Biologics",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "38"
+	      },
+	      "type": "question",
+	      "title": "Juvenile Idiopathic Arthritis",
+	      "text": "What is the next step in severe enthesitis-related arthritis unresponsive to NSAIDs?",
+	      "correctAnswer": "C",
+	      "rationale": "Severe cases require corticosteroids (2mg /kg/day) and urgent referral to a pediatric rheumatologist.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Continue NSAIDs only",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Start hydroxychloroquine",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Prednisolone and refer to rheumatologist",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Begin physiotherapy alone",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "39"
+	      },
+	      "type": "question",
+	      "title": "Kawasaki Disease",
+	      "text": "What is the recommended dose and timing for IV immunoglobulin (IVIG) in Kawasaki disease?",
+	      "correctAnswer": "B",
+	      "rationale": "IVIG should be given at 2 g/kg over 10–12 hours, preferably within 10 days of illness onset to reduce risk of coronary artery complications.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "1 g/kg over 24 hours",
+	            "value": "A"
+	          },
+	          {
+	            "text": "2 g/kg infusion over 10–12 hours",
+	            "value": "B"
+	          },
+	          {
+	            "text": "2 g/kg in divided doses over 2 days",
+	            "value": "C"
+	          },
+	          {
+	            "text": "500 mg/kg/day for 5 days",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "40"
+	      },
+	      "type": "question",
+	      "title": "Kawasaki Disease",
+	      "text": "What is the anti-inflammatory dose of oral aspirin recommended during the acute phase of Kawasaki disease?",
+	      "correctAnswer": "C",
+	      "rationale": "During the acute febrile phase, aspirin is given at an anti-inflammatory dose of 30–50 mg/kg/day in 3 doses until the patient is afebrile for 2–3 days or until day 14.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "5 mg/kg/day",
+	            "value": "A"
+	          },
+	          {
+	            "text": "10 mg/kg/day in a single dose",
+	            "value": "B"
+	          },
+	          {
+	            "text": "30–50 mg/kg/day in 3 divided doses",
+	            "value": "C"
+	          },
+	          {
+	            "text": "80–100 mg/kg once daily",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "41"
+	      },
+	      "type": "question",
+	      "title": "Kawasaki Disease",
+	      "text": "What is the recommended maintenance (anti-platelet) dose of aspirin following the acute phase of Kawasaki disease?",
+	      "correctAnswer": "B",
+	      "rationale": "Aspirin is continued at 3–5 mg/kg/day as an anti-platelet agent for 6–8 weeks or until inflammatory markers normalize.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "10–20 mg/kg once daily",
+	            "value": "A"
+	          },
+	          {
+	            "text": "3–5 mg/kg once daily for 6–8 weeks",
+	            "value": "B"
+	          },
+	          {
+	            "text": "1 mg/kg twice daily until afebrile",
+	            "value": "C"
+	          },
+	          {
+	            "text": "20 mg/kg every 6 hours",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "42"
+	      },
+	      "type": "question",
+	      "title": "Kawasaki Disease",
+	      "text": "When should low-dose aspirin be continued indefinitely in Kawasaki disease?",
+	      "correctAnswer": "C",
+	      "rationale": "Aspirin is continued long-term if a coronary artery aneurysm is present to prevent thrombosis.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "If patient has persistent rash",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Until age 12",
+	            "value": "B"
+	          },
+	          {
+	            "text": "If coronary aneurysm is present",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Only if fever recurs",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "43"
+	      },
+	      "type": "question",
+	      "title": "Kawasaki Disease",
+	      "text": "What defines Kawasaki Disease as not responding to primary treatment?",
+	      "correctAnswer": "C",
+	      "rationale": "Persistent or recurrent fever ≥36 hours after the initial IVIG indicates treatment failure.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Mild rash after IVIG",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Temperature spike within 12 hours of IVIG",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Fever ≥36 hours after initial IVIG dose",
+	            "value": "C"
+	          },
+	          {
+	            "text": "No change in platelet count",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "44"
+	      },
+	      "type": "question",
+	      "title": "Kawasaki Disease",
+	      "text": "What is the recommended intervention if Kawasaki Disease does not respond to the initial IVIG dose?",
+	      "correctAnswer": "C",
+	      "rationale": "A second dose of IVIG (2 g/kg) over 10–12 hours is advised for non-responders to initial treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Start methotrexate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Add oral corticosteroids",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Repeat IVIG 2 g/kg",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Use aspirin alone",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    }
+	  ]
+	}

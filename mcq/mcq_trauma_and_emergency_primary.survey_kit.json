@@ -1,0 +1,228 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+	
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Trauma and emergency",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "Which of the following is the most appropriate fluid management for a child in septic shock at primary/secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "Septic shock is managed with 10 ml/kg over 1 hour with reassessment, and can be repeated up to 40 ml/kg as per guidelines.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "20 ml/kg over 1 hour", "value": "A" },
+	          { "text": "10 ml/kg over 1 hour, reassess, repeat up to 40 ml/kg", "value": "B" },
+	          { "text": "10 ml/kg over 10 minutes, reassess", "value": "C" },
+	          { "text": "30 ml/kg bolus over 30 minutes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "What is the initial treatment approach for a child in anaphylactic shock?",
+	      "correctAnswer": "C",
+	      "rationale": "The definitive treatment is IM adrenaline (0.01 ml/kg of 1:1000), alongside supportive fluid therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "IV saline 10 ml/kg and oral steroids", "value": "A" },
+	          { "text": "10 ml/kg over 1 hour and antihistamines", "value": "B" },
+	          { "text": "IM adrenaline 0.01 ml/kg of 1:1000 and fluid resuscitation", "value": "C" },
+	          { "text": "High-dose IV antibiotics immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "How should fluid be administered for dehydration-related hypovolaemic shock in a child?",
+	      "correctAnswer": "C",
+	      "rationale": "Dehydration shock should be treated with 30 ml/kg over 30–60 minutes depending on age, followed by reassessment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "10 ml/kg bolus over 20 minutes", "value": "A" },
+	          { "text": "30 ml/kg over 15 minutes", "value": "B" },
+	          { "text": "30 ml/kg over 30 minutes to 1 hour depending on age", "value": "C" },
+	          { "text": "40 ml/kg over 1 hour", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "What is the correct response for shock in a severely malnourished child?",
+	      "correctAnswer": "A",
+	      "rationale": "Aggressive fluid resuscitation is contraindicated in severe acute malnutrition; follow specific guidelines.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Avoid aggressive fluid resuscitation; follow malnutrition guidelines", "value": "A" },
+	          { "text": "Administer 40 ml/kg over 30 minutes", "value": "B" },
+	          { "text": "Give blood immediately", "value": "C" },
+	          { "text": "Start normal IV bolus", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "In the case of shock with anaemia (dissociative shock), what is the correct management step?",
+	      "correctAnswer": "D",
+	      "rationale": "Anaemia-related shock requires blood transfusion, not fluid boluses.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Give IV fluids as in septic shock", "value": "A" },
+	          { "text": "Give IM adrenaline", "value": "B" },
+	          { "text": "Start antibiotics", "value": "C" },
+	          { "text": "Avoid fluid resuscitation; transfuse blood", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "A child in shock is also unconscious with a low blood sugar. What should be done as part of disability assessment?",
+	      "correctAnswer": "B",
+	      "rationale": "Disability includes neurological and glucose status; hypoglycaemia should be treated promptly.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Measure respiratory rate", "value": "A" },
+	          { "text": "Treat hypoglycaemia immediately and assess AVPU or GCS", "value": "B" },
+	          { "text": "Administer mannitol", "value": "C" },
+	          { "text": "Perform CPR", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Paediatric shock",
+	      "text": "Which of the following shock types typically does NOT require fluid resuscitation?",
+	      "correctAnswer": "A",
+	      "rationale": "Anaemia requires transfusion, not fluids, as fluid resuscitation can worsen oxygen delivery problems.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Dissociative (Anaemia)", "value": "A" },
+	          { "text": "Dehydration", "value": "B" },
+	          { "text": "Anaphylactic", "value": "C" },
+	          { "text": "Septic", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Snake bite",
+	      "text": "What is the correct initial management of a snake bite at the primary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "Snake bite is a medical emergency. Immediate response using the ABCCDE approach and starting maintenance fluids is essential.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Apply a tourniquet and delay fluids", "value": "A" },
+	          { "text": "Administer antibiotics and observe for 24 hours", "value": "B" },
+	          { "text": "Use the ABCCDE approach and place the patient on maintenance fluids", "value": "C" },
+	          { "text": "Wait to see symptoms before acting", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Snake bite",
+	      "text": "Which of the following is a key responsibility at the primary care level when managing a snake bite?",
+	      "correctAnswer": "C",
+	      "rationale": "Primary care should focus on stabilizing the patient, giving tetanus toxoid if needed, treating pain, and referring the patient for further management.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Perform surgery to remove venom", "value": "A" },
+	          { "text": "Confirm the snake species before treatment", "value": "B" },
+	          { "text": "Ensure tetanus toxoid is up to date, treat pain, and refer the patient", "value": "C" },
+	          { "text": "Withhold pain medication to monitor for symptoms", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Toxicology",
+	      "text": "What is the correct first step in managing a child with suspected poisoning at the primary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "Primary assessment (ABCCCDE) is essential to identify and manage life-threatening conditions.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Identify the toxin before starting treatment", "value": "A" },
+	          { "text": "Perform the ABCCCDE primary assessment", "value": "B" },
+	          { "text": "Administer antibiotics immediately", "value": "C" },
+	          { "text": "Give anti-toxin based on likely exposure", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Toxicology",
+	      "text": "What is the appropriate initial decontamination method for a child with dermal or ocular exposure to a toxin?",
+	      "correctAnswer": "C",
+	      "rationale": "Tepid water flushing and clothing removal are the correct dermal/ocular decontamination steps.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Apply antiseptic cream", "value": "A" },
+	          { "text": "Use cold water and ice packs", "value": "B" },
+	          { "text": "Flush with tepid water and remove exposed clothing", "value": "C" },
+	          { "text": "Scrub skin with alcohol-based solution", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

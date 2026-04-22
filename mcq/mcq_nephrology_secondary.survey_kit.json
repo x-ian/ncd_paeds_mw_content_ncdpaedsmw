@@ -1,0 +1,627 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Nephrology",
+	      "text": "Multiple Choice for Secondary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "ACUTE KIDNEY INJURY (AKI)",
+	      "text": "At the secondary level, when should a child with suspected acute kidney injury be referred to tertiary care?",
+	      "correctAnswer": "B",
+	      "rationale": "At the secondary care level, patients with features of AKI (such as edema, hypertension, hematuria, or oliguria) should be acutely stabilized first, then referred to a tertiary facility for further investigation and specialized care. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Immediately upon arrival before any intervention", "value": "A" },
+	          { "text": "After acute management and stabilization of the patient", "value": "B" },
+	          { "text": "Only if the child develops seizures", "value": "C" },
+	          { "text": "Once serum creatinine is within normal range", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Chronic Kidney Disease (CKD)",
+	      "text": "Which of the following is an appropriate monitoring strategy for a child with suspected CKD at the secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "At secondary level, close monitoring of vital signs, urine output, and weight is essential in managing CKD and preventing complications. Catheterization should be done only when clinically indicated due to infection risk. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Check blood pressure once daily and discharge if stable", "value": "A" },
+	          { "text": "Monitor blood pressure, urine output, and daily weight regularly", "value": "B" },
+	          { "text": "Avoid documenting fluid losses to reduce workload", "value": "C" },
+	          { "text": "Use urinary catheter for all patients with low urine output", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Chronic Kidney Disease (CKD)",
+	      "text": "When managing a child with CKD at the secondary level, which of the following should be avoided unless the child has symptomatic or severe anaemia (<7 g/dL)?",
+	      "correctAnswer": "C",
+	      "rationale": "Blood transfusion should be avoided unless the child has severe or symptomatic anaemia (<7 g/dL), to reduce the risk of iron overload and sensitization, especially in CKD patients. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Antibiotics", "value": "A" },
+	          { "text": "Antihypertensives", "value": "B" },
+	          { "text": "Blood transfusion", "value": "C" },
+	          { "text": "Oxygen therapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Chronic Kidney Disease (CKD)",
+	      "text": "Which of the following complications should be actively managed in children with CKD at the secondary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "Common and dangerous complications of CKD include pulmonary oedema, hypertension, and UTIs, which must be managed promptly at the secondary level. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Sinusitis and conjunctivitis", "value": "A" },
+	          { "text": "Pulmonary oedema, hypertension, and urinary tract infections", "value": "B" },
+	          { "text": "Skin rashes and joint hypermobility", "value": "C" },
+	          { "text": "Isolated mild dehydration", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Chronic Kidney Disease (CKD)",
+	      "text": "Which of the following is a key principle in preventing further kidney damage in a child with CKD at the secondary care level?",
+	      "correctAnswer": "D",
+	      "rationale": "Preventing further kidney damage involves early identification and treatment of infections, avoiding hypoperfusion, and maintaining strict blood pressure control. These actions help slow CKD progression and avoid complications. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay antibiotic treatment until cultures confirm infection", "value": "A" },
+	          { "text": "Restrict fluids in all patients regardless of hydration status", "value": "B" },
+	          { "text": "Initiate steroids early in all cases of CKD", "value": "C" },
+	          { "text": "Ensure early treatment of infections and strict blood pressure control", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "Which of the following is part of supportive management in children with nephrotic syndrome?",
+	      "correctAnswer": "B",
+	      "rationale": "Monitoring fluid balance through daily weight, BP, and urine output is essential to detect worsening oedema or response to therapy. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Weekly chest X-rays", "value": "A" },
+	          { "text": "Daily weight and urine output monitoring", "value": "B" },
+	          { "text": "Routine use of antibiotics", "value": "C" },
+	          { "text": "Bed rest until remission", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "According to the guideline, when should prednisone be started in a child with nephrotic syndrome?",
+	      "correctAnswer": "C",
+	      "rationale": "It is important to treat intercurrent infections and rule out TB before starting immunosuppressive therapy like steroids. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "After resolution of oedema", "value": "A" },
+	          { "text": "Immediately upon diagnosis", "value": "B" },
+	          { "text": "After excluding tuberculosis and treating infections", "value": "C" },
+	          { "text": "Only if proteinuria persists for more than 4 weeks", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "How should prednisone be administered initially in steroid-sensitive nephrotic syndrome?",
+	      "correctAnswer": "C",
+	      "rationale": "The standard initial regimen is 2 mg/kg/day (max 60 mg) for 4 weeks, followed by a weaning dose of 1.5 mg/kg on alternate days for another 4 weeks. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "2 mg/kg/day for 4 weeks, then stop", "value": "A" },
+	          { "text": "60 mg/m² weekly for 6 weeks", "value": "B" },
+	          { "text": "2 mg/kg/day for 4 weeks, followed by tapering", "value": "C" },
+	          { "text": "1 mg/kg BID for 6 weeks", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "What defines steroid-resistant nephrotic syndrome in this protocol?",
+	      "correctAnswer": "C",
+	      "rationale": "A child who does not go into remission by 6 weeks of steroid therapy is classified as having steroid-resistant nephrotic syndrome. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "No remission after 10 days of steroids", "value": "A" },
+	          { "text": "Persistent oedema after 4 weeks of steroids", "value": "B" },
+	          { "text": "Not in remission after 6 weeks of prednisone", "value": "C" },
+	          { "text": "Relapse after one week off steroids", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "What is the correct response to a child on steroids who develops signs of adrenal insufficiency or cataracts?",
+	      "correctAnswer": "C",
+	      "rationale": "Children on prolonged steroid therapy should be monitored for complications like adrenal suppression and growth delay. Calcium and vitamin D supplementation is also recommended. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stop steroids immediately", "value": "A" },
+	          { "text": "Reduce the dose and add paracetamol", "value": "B" },
+	          { "text": "Monitor, manage complications, and supplement with calcium and vitamin D", "value": "C" },
+	          { "text": "Add another immunosuppressant", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "Which of the following is a contraindication to furosemide use in nephrotic syndrome?",
+	      "correctAnswer": "D",
+	      "rationale": "Furosemide should only be used in children with signs of pulmonary oedema or respiratory distress. Otherwise, it may worsen intravascular depletion and precipitate AKI. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Presence of proteinuria", "value": "A" },
+	          { "text": "Severe oedema", "value": "B" },
+	          { "text": "Hypoalbuminaemia", "value": "C" },
+	          { "text": "No pulmonary oedema or respiratory distress", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Nephrotic Syndrome",
+	      "text": "When should a child with nephrotic syndrome be referred to tertiary care?",
+	      "correctAnswer": "C",
+	      "rationale": "These are key red flags. Failure to enter remission or signs of fluid retention indicate steroid resistance or complications needing specialist input. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "If they have lost appetite", "value": "A" },
+	          { "text": "If they relapse after 6 months", "value": "B" },
+	          { "text": "If gaining weight, has oliguria/anuria, or not in remission at 6 weeks", "value": "C" },
+	          { "text": "If mild proteinuria remains after 2 weeks", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "In a child with glomerulonephritis and hypertension, how frequently should blood pressure ideally be monitored in a high-dependency setting?",
+	      "correctAnswer": "C",
+	      "rationale": "Hypertension in GN is typically due to fluid overload and needs frequent monitoring, ideally every 6 hours or more frequently in an HDU setting. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Once daily", "value": "A" },
+	          { "text": "Every 8 hours", "value": "B" },
+	          { "text": "Every 6 hours or more frequently", "value": "C" },
+	          { "text": "Only when symptoms worsen", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "Which of the following is a key principle of fluid management in a child admitted with glomerulonephritis?",
+	      "correctAnswer": "B",
+	      "rationale": "IV fluids should generally be avoided, but if necessary, potassium-free fluids are preferred due to the risk of hyperkalemia. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Liberal IV fluid administration", "value": "A" },
+	          { "text": "Use potassium-free IV fluids if fluids are needed", "value": "B" },
+	          { "text": "Increase fluid intake to prevent dehydration", "value": "C" },
+	          { "text": "No need to monitor urine output", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "Which dietary recommendation is appropriate for a child with acute glomerulonephritis at secondary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "Salt restriction helps control hypertension and potassium restriction is recommended until serum levels are known due to risk of hyperkalemia. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "High-salt and high-protein diet", "value": "A" },
+	          { "text": "Salt restriction and temporary potassium restriction", "value": "B" },
+	          { "text": "Unrestricted diet to support recovery", "value": "C" },
+	          { "text": "Avoid fluids but increase calorie intake", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "What is the recommended antibiotic for a 6-year-old child with post-streptococcal glomerulonephritis and no penicillin allergy?",
+	      "correctAnswer": "B",
+	      "rationale": "First-line treatment for post-streptococcal glomerulonephritis includes amoxicillin 15 mg/kg/dose 8 hourly for 10 days, among other penicillin options. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Ceftriaxone", "value": "A" },
+	          { "text": "Amoxicillin 15 mg/kg/dose", "value": "B" },
+	          { "text": "Azithromycin single dose", "value": "C" },
+	          { "text": "Ciprofloxacin", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "Which of the following patients with glomerulonephritis requires referral to tertiary care?",
+	      "correctAnswer": "C",
+	      "rationale": "Patients with complications such as refractory seizures or hypertensive encephalopathy require urgent referral to tertiary care. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Child responding well to supportive care after 2 days", "value": "A" },
+	          { "text": "Child with normal BP and stable urine output", "value": "B" },
+	          { "text": "Child with hypertensive encephalopathy and seizures", "value": "C" },
+	          { "text": "Child with mild edema and hematuria only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "GLOMERULONEPHRITIS / NEPHRITIC SYNDROME",
+	      "text": "Which of the following should be routinely monitored in a hospitalized child with glomerulonephritis?",
+	      "correctAnswer": "C",
+	      "rationale": "In glomerulonephritis, fluid balance and hypertension are critical concerns. Daily weight, urine output, and regular BP monitoring are essential for managing fluid status and detecting complications. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Capillary refill time only", "value": "A" },
+	          { "text": "Blood glucose levels every 8 hours", "value": "B" },
+	          { "text": "Daily weight, urine output, and blood pressure", "value": "C" },
+	          { "text": "Heart rate and temperature only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "HAEMOLYTIC URAEMIC SYNDROME (HUS)",
+	      "text": "In a child with suspected Haemolytic Uraemic Syndrome (HUS), when should a blood transfusion be considered at the secondary care level?",
+	      "correctAnswer": "C",
+	      "rationale": "According to guidelines, transfusion is indicated when Hb < 6 g/dL or Hct < 18%, as per the Malawi Blood Transfusion Guidelines. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hemoglobin < 8 g/dL", "value": "A" },
+	          { "text": "Hematocrit < 25%", "value": "B" },
+	          { "text": "Hemoglobin < 6 g/dL or hematocrit < 18%", "value": "C" },
+	          { "text": "Hemoglobin > 10 g/dL with mild symptoms", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "HYPERKALAEMIA",
+	      "text": "A 6-year-old with newly diagnosed hyperkalaemia is admitted to a secondary-level facility. What is the first-line step in preventing worsening of the condition?",
+	      "correctAnswer": "C",
+	      "rationale": "The first critical action in managing hyperkalaemia is to stop all potassium sources — including IV fluids, feeds, and medications like potassium supplements or potassium-sparing diuretics — to prevent worsening of the imbalance. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin IV normal saline with added potassium", "value": "A" },
+	          { "text": "Restrict sodium intake to reduce hypertension", "value": "B" },
+	          { "text": "Discontinue all potassium-containing fluids, feeds, and medications", "value": "C" },
+	          { "text": "Delay intervention until renal function tests return", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "HYPERKALAEMIA",
+	      "text": "Which of the following interventions is used to stabilize the cardiac membrane in a child with hyperkalaemia?",
+	      "correctAnswer": "C",
+	      "rationale": "IV calcium gluconate stabilizes cardiac myocytes and prevents arrhythmias in hyperkalaemia. Other agents (e.g., salbutamol, insulin/glucose) shift potassium intracellularly but do not stabilize the heart. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Intravenous furosemide", "value": "A" },
+	          { "text": "Oral sodium polystyrene sulfonate", "value": "B" },
+	          { "text": "Intravenous calcium gluconate", "value": "C" },
+	          { "text": "Intravenous sodium bicarbonate", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "HYPOKALAEMIA",
+	      "text": "Which of the following is appropriate initial management for a child with hypokalaemia >2.5 mmol/L who is feeding well and has no ongoing losses?",
+	      "correctAnswer": "B",
+	      "rationale": "For potassium levels >2.5 mmol/L, oral supplementation and dietary management are safe and effective first-line treatments if the child can tolerate feeds and has no ongoing losses. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "IV potassium chloride replacement", "value": "A" },
+	          { "text": "Oral potassium supplements and potassium-rich diet", "value": "B" },
+	          { "text": "Immediate referral to tertiary level", "value": "C" },
+	          { "text": "Dialysis and electrolyte correction", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "24"
+	      },
+	      "type": "question",
+	      "title": "HYPOKALAEMIA",
+	      "text": "Which of the following warrants referral to tertiary care in a child with hypokalaemia?",
+	      "correctAnswer": "C",
+	      "rationale": "Severe (<2.5 mmol/L) or persistent hypokalaemia despite treatment indicates a need for specialized care, further investigations, and possibly IV replacement, hence referral is appropriate. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Potassium 3.4 mmol/L, feeding well", "value": "A" },
+	          { "text": "Single episode of vomiting with potassium 2.8 mmol/L", "value": "B" },
+	          { "text": "Persistent hypokalaemia <2.5 mmol/L despite oral treatment", "value": "C" },
+	          { "text": "Mild fatigue with potassium 3.1 mmol/L", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "25"
+	      },
+	      "type": "question",
+	      "title": "HYPERNATRAEMIA",
+	      "text": "Which of the following is an appropriate initial investigation in a child with suspected hypernatraemia at secondary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Serum or plasma electrolytes and renal function tests (BUN and creatinine) are essential to confirm hypernatraemia and assess renal status. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Chest X-ray", "value": "A" },
+	          { "text": "Urinalysis only", "value": "B" },
+	          { "text": "Serum electrolytes and creatinine", "value": "C" },
+	          { "text": "Liver function tests", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "26"
+	      },
+	      "type": "question",
+	      "title": "HYPERNATRAEMIA",
+	      "text": "A child with suspected hypernatraemia has been stabilized and catheterized. What is the next best step at the secondary level after starting empirical treatment for suspected sepsis?",
+	      "correctAnswer": "B",
+	      "rationale": "Once hypernatraemia is suspected or confirmed, the child should be referred to a tertiary facility for advanced monitoring and management, even while supportive treatment is ongoing. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Discharge on oral fluids", "value": "A" },
+	          { "text": "Discuss and refer to tertiary level facility", "value": "B" },
+	          { "text": "Start loop diuretics", "value": "C" },
+	          { "text": "Delay referral until electrolyte results return", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "27"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "Which of the following is the most appropriate management for asymptomatic hyponatraemia in a child at secondary level?",
+	      "correctAnswer": "C",
+	      "rationale": "Asymptomatic hyponatraemia is usually managed conservatively by identifying and treating the underlying cause. Electrolytes should be monitored regularly to assess progress. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer hypertonic saline immediately", "value": "A" },
+	          { "text": "Give free water orally", "value": "B" },
+	          { "text": "Treat the underlying cause and monitor electrolytes", "value": "C" },
+	          { "text": "Restrict fluids strictly regardless of hydration status", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "28"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "What is the recommended maximum rate of sodium correction in mild to moderate symptomatic hyponatraemia?",
+	      "correctAnswer": "B",
+	      "rationale": "Correcting sodium too quickly can lead to serious neurological complications such as osmotic demyelination syndrome. The safe correction rate is ≤0.5 mmol/L/hour. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "1 mmol/L/hour", "value": "A" },
+	          { "text": "0.5 mmol/L/hour", "value": "B" },
+	          { "text": "2 mmol/L/hour", "value": "C" },
+	          { "text": "10 mmol/L/day", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "29"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "In a hypovolaemic child with mild symptomatic hyponatraemia, what is the appropriate fluid choice?",
+	      "correctAnswer": "B",
+	      "rationale": "In hypovolaemic hyponatraemia, volume repletion with isotonic saline (0.9%) is the recommended approach to restore intravascular volume and correct hyponatraemia. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Dextrose 5%", "value": "A" },
+	          { "text": "Normal saline (0.9%)", "value": "B" },
+	          { "text": "Half-normal saline (0.45%)", "value": "C" },
+	          { "text": "Ringer’s lactate", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "30"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "Which clinical action is most appropriate when a child with hyponatraemia begins to show signs of clinical deterioration despite management?",
+	      "correctAnswer": "C",
+	      "rationale": "Deterioration or lack of improvement in hyponatraemia, particularly with neurological symptoms or renal involvement, requires escalation to tertiary care. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase fluid intake", "value": "A" },
+	          { "text": "Continue with current plan and monitor", "value": "B" },
+	          { "text": "Refer to tertiary care", "value": "C" },
+	          { "text": "Switch to hypotonic fluids", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "31"
+	      },
+	      "type": "question",
+	      "title": "HYPONATREMIA",
+	      "text": "A child with hyponatraemia and no signs of hypovolaemia is mildly symptomatic. What is the recommended next step?",
+	      "correctAnswer": "A",
+	      "rationale": "In euvolaemic patients, fluid restriction is the initial management for mild to moderate symptomatic hyponatraemia without hypovolaemia. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Begin fluid restriction", "value": "A" },
+	          { "text": "Give oral rehydration therapy", "value": "B" },
+	          { "text": "Start IV hypertonic saline", "value": "C" },
+	          { "text": "Administer potassium supplements", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "32"
+	      },
+	      "type": "question",
+	      "title": "HYPERTENSION IN CHILDREN",
+	      "text": "Which of the following is the recommended first-line antihypertensive drug for outpatient management of chronic hypertension in children?",
+	      "correctAnswer": "B",
+	      "rationale": "ACE inhibitors or ARBs are the first-line pharmacologic treatment options for chronic hypertension in pediatric patients. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Beta-blockers", "value": "A" },
+	          { "text": "ACE inhibitors or ARBs", "value": "B" },
+	          { "text": "Loop diuretics", "value": "C" },
+	          { "text": "Thiazide diuretics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "33"
+	      },
+	      "type": "question",
+	      "title": "Acute severe hypertension",
+	      "text": "Which medication is preferred as first-line management for acute hypertension in children when available?",
+	      "correctAnswer": "C",
+	      "rationale": "Hydralazine is preferred for acute management (0.1–0.2 mg/kg every 4–6 hours). Nifedipine may be used if hydralazine is unavailable but is not first-line. ",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Enalapril", "value": "A" },
+	          { "text": "Nifedipine", "value": "B" },
+	          { "text": "Hydralazine", "value": "C" },
+	          { "text": "Amlodipine", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

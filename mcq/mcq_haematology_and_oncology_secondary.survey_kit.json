@@ -1,0 +1,663 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": { "id": "1" },
+	      "type": "intro",
+	      "title": "Haematology and oncology",
+	      "text": "Multiple Choice for Secondary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": { "id": "2" },
+	      "type": "question",
+	      "title": "Non-Trauma Bleeding",
+	      "text": "A 4-year-old child presents with spontaneous bruising and mucosal bleeding. There is no history of trauma. What is the most appropriate first-line investigation at secondary level to assess the cause?",
+	      "correctAnswer": "C",
+	      "rationale": "At the secondary level, investigation of non-trauma bleeding includes blood work such as FBC, coagulation tests, and factor assays to determine possible bleeding disorders.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Chest X-ray", "value": "A" },
+	          { "text": "Serum creatinine and BUN", "value": "B" },
+	          { "text": "Full blood count and coagulation profile", "value": "C" },
+	          { "text": "Liver ultrasound", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "3" },
+	      "type": "question",
+	      "title": "Non-Trauma Bleeding",
+	      "text": "A child with suspected bleeding disorder presents with pallor and tachycardia. You initiate IV access and start investigations. What is the correct next step in management?",
+	      "correctAnswer": "D",
+	      "rationale": "Children with active or significant bleeding may require urgent volume and blood replacement before referral. Whole blood transfusion at 20 mL/kg is recommended at secondary level.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer oral iron supplements", "value": "A" },
+	          { "text": "Start broad-spectrum antibiotics", "value": "B" },
+	          { "text": "Monitor and reassess in 48 hours", "value": "C" },
+	          { "text": "Transfuse whole blood at 20 mL/kg", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "4" },
+	      "type": "question",
+	      "title": "Tumour Lysis Syndrome",
+	      "text": "Which of the following patient groups is at highest risk of developing Tumour Lysis Syndrome (TLS)?",
+	      "correctAnswer": "B",
+	      "rationale": "TLS commonly occurs in patients with rapidly dividing tumours such as acute leukaemia or high-grade lymphomas, especially when tumour burden is high.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "A child with iron deficiency anaemia", "value": "A" },
+	          { "text": "A child with high tumour burden from acute leukaemia", "value": "B" },
+	          { "text": "A child with mild viral upper respiratory infection", "value": "C" },
+	          { "text": "A child post-surgical removal of benign tumour", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "5" },
+	      "type": "question",
+	      "title": "Tumour Lysis Syndrome",
+	      "text": "What is the most appropriate initial fluid management for a child at risk of TLS at a secondary level facility?",
+	      "correctAnswer": "B",
+	      "rationale": "Potassium-free fluids like normal saline are used to avoid exacerbating hyperkalaemia, a key concern in TLS.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Dextrose 10% with potassium", "value": "A" },
+	          { "text": "Normal saline without potassium", "value": "B" },
+	          { "text": "Ringer’s lactate with potassium", "value": "C" },
+	          { "text": "Hypotonic saline with added dextrose", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "6" },
+	      "type": "question",
+	      "title": "Spinal Cord Compression",
+	      "text": "Which of the following is the most important initial step in the secondary level management of a child with spinal cord compression?",
+	      "correctAnswer": "C",
+	      "rationale": "Stabilization of airway, breathing, and circulation remains the cornerstone of emergency care at all levels before advanced diagnostics or interventions.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Schedule urgent MRI scan", "value": "A" },
+	          { "text": "Administer high-dose steroids immediately", "value": "B" },
+	          { "text": "Ensure airway, breathing, and circulation (ABCs)", "value": "C" },
+	          { "text": "Refer directly to physiotherapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "7" },
+	      "type": "question",
+	      "title": "Spinal Cord Compression",
+	      "text": "In addition to IV fluids and ABC support, what key supportive intervention should be done early at secondary level care in a patient with spinal cord compression?",
+	      "correctAnswer": "D",
+	      "rationale": "Spinal cord compression often leads to bladder dysfunction. Catheterization helps monitor output and prevent bladder overdistension or urinary retention.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start enteral nutrition", "value": "A" },
+	          { "text": "Position the child prone", "value": "B" },
+	          { "text": "Begin mobility exercises", "value": "C" },
+	          { "text": "Catheterise the patient", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "8" },
+	      "type": "question",
+	      "title": "Superior Vena Cava Compressions Syndrome",
+	      "text": "What is the most appropriate patient position for a child suspected of having Superior Vena Cava (SVC) Compression Syndrome?",
+	      "correctAnswer": "B",
+	      "rationale": "Lying flat can worsen respiratory distress in SVC syndrome. Elevating the upper body improves venous drainage and reduces upper body congestion.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Prone position", "value": "A" },
+	          { "text": "Sitting at a 45° angle", "value": "B" },
+	          { "text": "Supine position with legs elevated", "value": "C" },
+	          { "text": "Trendelenburg position", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "9" },
+	      "type": "question",
+	      "title": "Superior Vena Cava Compressions Syndrome",
+	      "text": "A child presents with facial swelling, distended neck veins, and difficulty breathing. What is the most appropriate next step after securing the airway, breathing, and circulation?",
+	      "correctAnswer": "B",
+	      "rationale": "Tertiary care is needed for imaging, diagnosis, and definitive treatment (e.g., chemotherapy, surgery, or radiotherapy). Early referral prevents delays in life-saving interventions.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start IV furosemide", "value": "A" },
+	          { "text": "Refer urgently to a tertiary centre", "value": "B" },
+	          { "text": "Administer high-dose steroids immediately", "value": "C" },
+	          { "text": "Place the child in a supine position", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "10" },
+	      "type": "question",
+	      "title": "Hyperleukocytosis",
+	      "text": "In managing a child with hyperleukocytosis at the secondary level, what is the recommended intravenous fluid management?",
+	      "correctAnswer": "D",
+	      "rationale": "Aggressive hydration is essential to prevent complications like tumor lysis syndrome. The recommended approach is IV normal saline with 5% dextrose at twice the maintenance rate, avoiding potassium-containing fluids.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start Ringer’s lactate at maintenance rate", "value": "A" },
+	          { "text": "Start IV fluids with potassium chloride", "value": "B" },
+	          { "text": "Start normal saline without dextrose at double maintenance rate", "value": "C" },
+	          { "text": "Start IV normal saline with 5% dextrose at 2 times the maintenance rate", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "11" },
+	      "type": "question",
+	      "title": "Wilms Tumour / Nephroblastoma",
+	      "text": "What is the most appropriate next step in the management of a child diagnosed with Wilms tumour at the secondary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "At the secondary level, the focus is on stabilizing the patient through nutritional support, offering realistic counselling on the diagnosis and the expected long course of treatment, and ensuring timely referral to a tertiary center for specialized care including surgery and oncology input.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start definitive chemotherapy immediately", "value": "A" },
+	          { "text": "Provide nutritional support and counselling", "value": "B" },
+	          { "text": "Schedule a biopsy to confirm histological subtype", "value": "C" },
+	          { "text": "Prescribe oral steroids for tumour reduction", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "12" },
+	      "type": "question",
+	      "title": "Retinoblastoma",
+	      "text": "What is the most appropriate next step at the primary level when a child presents with leukocoria (white pupillary reflex)?",
+	      "correctAnswer": "B",
+	      "rationale": "At the primary level, a child with suspected retinoblastoma (e.g., leukocoria) must be urgently referred after counselling and discussion with an ophthalmologist at a secondary facility.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start topical antibiotics and monitor for improvement", "value": "A" },
+	          { "text": "Counsel the caregiver, discuss with ophthalmology", "value": "B" },
+	          { "text": "Prescribe vitamin A and review in two weeks", "value": "C" },
+	          { "text": "Reassure the family and advise regular eye checks", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "13" },
+	      "type": "question",
+	      "title": "Lymphoma",
+	      "text": "In a child with suspected lymphoma presenting at a secondary care facility, which of the following interventions is contraindicated prior to referral and specialist input?",
+	      "correctAnswer": "C",
+	      "rationale": "Invasive procedures in suspected lymphoma cases should be avoided at secondary level due to potential complications such as hemorrhage or tumor dissemination. They should be performed at tertiary level under controlled and specialized settings.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Initiating full maintenance potassium-free IV fluids", "value": "A" },
+	          { "text": "Stabilizing the patient using the ABC approach", "value": "B" },
+	          { "text": "Performing invasive diagnostic procedures such as biopsy or lumbar puncture", "value": "C" },
+	          { "text": "Consulting with the tertiary care team regarding the patient’s condition", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "14" },
+	      "type": "question",
+	      "title": "Lymphoma",
+	      "text": "Which of the following is the most appropriate initial fluid management for a child with suspected lymphoma at the secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "In a child with suspected lymphoma, potassium-free fluids such as normal saline should be started at full maintenance to avoid complications like tumor lysis syndrome. Potassium is avoided due to the risk of hyperkalemia in these patients.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Ringer's lactate at half maintenance", "value": "A" },
+	          { "text": "Normal saline at full maintenance without potassium", "value": "B" },
+	          { "text": "Dextrose 10% with added potassium", "value": "C" },
+	          { "text": "Half-normal saline with potassium chloride", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "15" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A 15-month-old child with SCD has no prior treatment. What clinical step is essential before initiating hydroxyurea?",
+	      "correctAnswer": "C",
+	      "rationale": "Initiation of hydroxyurea requires basic lab screening to confirm safe bone marrow and liver/kidney function.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Ensure weight is >10kg", "value": "A" },
+	          { "text": "Confirm Hb is below 6g/dL", "value": "B" },
+	          { "text": "Verify ANC > 1,500/μl and normal creatinine", "value": "C" },
+	          { "text": "Administer first dose of penicillin V", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "16" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A child on hydroxyurea for 6 weeks has ANC of 0.8 x 10⁹/L. What is the most appropriate action?",
+	      "correctAnswer": "B",
+	      "rationale": "ANC <1.0 is a red flag for neutropenia. Withhold HU, monitor, and adjust dose after recovery.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase the dose", "value": "A" },
+	          { "text": "Withhold the drug and monitor counts", "value": "B" },
+	          { "text": "Continue same dose", "value": "C" },
+	          { "text": "Stop permanently", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "17" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "Which lab value indicates hydroxyurea can be safely continued without dose change?",
+	      "correctAnswer": "D",
+	      "rationale": "These values are within safe ranges. ALT >2x and platelets <80 are thresholds for withholding HU.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "ALT > 2x normal", "value": "A" },
+	          { "text": "Platelets < 80 x 10⁹/L", "value": "B" },
+	          { "text": "Creatinine slightly above normal", "value": "C" },
+	          { "text": "Hb = 7 g/dL, ANC = 1.8 x 10⁹/L, Platelets = 120 x 10⁹/L", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "18" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A 3-year-old child with SCD and no vaccine history should receive how many doses of PCV13?",
+	      "correctAnswer": "C",
+	      "rationale": "Children aged 2–5 with no history of PCV13 should receive 2 catch-up doses spaced by 8 weeks.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "None – too old", "value": "A" },
+	          { "text": "One dose", "value": "B" },
+	          { "text": "Two doses", "value": "C" },
+	          { "text": "Three doses", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "19" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "Which situation requires urgent blood transfusion in a child with SCD?",
+	      "correctAnswer": "B",
+	      "rationale": "ACS with hypoxia is an emergency. Blood transfusion helps oxygen delivery and reverses sickling.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hb = 7.5 g/dL and no symptoms", "value": "A" },
+	          { "text": "Acute chest syndrome with O₂ saturation < 92%", "value": "B" },
+	          { "text": "Mild pain crisis", "value": "C" },
+	          { "text": "Hb = 8.5 g/dL and stable vitals", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "20" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A 4-year-old with SCD and sudden abdominal swelling, pallor, and tachycardia is likely experiencing:",
+	      "correctAnswer": "C",
+	      "rationale": "Classic signs of acute splenic sequestration—life-threatening due to hypovolemia and Hb drop.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Appendicitis", "value": "A" },
+	          { "text": "Hepatomegaly", "value": "B" },
+	          { "text": "Splenic sequestration", "value": "C" },
+	          { "text": "Constipation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "21" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A child with SCD and Hb = 5.2 g/dL has chest pain and new infiltrate on CXR. Best initial management?",
+	      "correctAnswer": "B",
+	      "rationale": "This is acute chest syndrome with anemia. Transfusion improves oxygen-carrying capacity rapidly.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral amoxicillin", "value": "A" },
+	          { "text": "Blood transfusion", "value": "B" },
+	          { "text": "High-dose folic acid", "value": "C" },
+	          { "text": "Start penicillin V", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "22" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A child with SCD has severe bone pain and poor response to ibuprofen and paracetamol. Next step?",
+	      "correctAnswer": "B",
+	      "rationale": "WHO recommends stepwise pain ladder. Severe pain warrants escalation to opioids under supervision.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Repeat ibuprofen", "value": "A" },
+	          { "text": "Add oral morphine and monitor", "value": "B" },
+	          { "text": "Increase hydration only", "value": "C" },
+	          { "text": "Recheck full blood count", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "23" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "What distinguishes a pain crisis from osteomyelitis in a febrile SCD child?",
+	      "correctAnswer": "C",
+	      "rationale": "Osteomyelitis often has localized findings, imaging changes, and poor pain response—unlike typical crises.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Presence of fever", "value": "A" },
+	          { "text": "Elevated reticulocyte count", "value": "B" },
+	          { "text": "Bone tenderness, positive X-ray, poor response to analgesia", "value": "C" },
+	          { "text": "Mild anemia", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "24" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A 7-year-old with SCD and temperature of 40°C, pallor, and poor perfusion should:",
+	      "correctAnswer": "C",
+	      "rationale": "Red flags include high fever, pallor, and perfusion issues—signs of sepsis, needing urgent admission.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Be monitored at home", "value": "A" },
+	          { "text": "Start oral antibiotics", "value": "B" },
+	          { "text": "Receive IV fluids and be admitted immediately", "value": "C" },
+	          { "text": "Get folic acid", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "25" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A child with Hb 6.2 g/dL and stroke symptoms requires:",
+	      "correctAnswer": "C",
+	      "rationale": "Acute stroke needs urgent blood transfusion to reduce HbS% and restore oxygenation—life-saving.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hydration only", "value": "A" },
+	          { "text": "Oral penicillin and review in 1 day", "value": "B" },
+	          { "text": "Manual exchange transfusion or simple transfusion", "value": "C" },
+	          { "text": "NSAIDs", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "26" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "In acute chest syndrome with O₂ sats <92% on room air, what is the transfusion goal?",
+	      "correctAnswer": "C",
+	      "rationale": "Transfuse to around 10 g/dL. Higher Hb can increase viscosity and worsen symptoms.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hb > 12 g/dL", "value": "A" },
+	          { "text": "Hb = baseline", "value": "B" },
+	          { "text": "Hb ~10 g/dL", "value": "C" },
+	          { "text": "Hb <8 g/dL", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "27" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "What is the most reliable early sign of treatment adherence with hydroxyurea?",
+	      "correctAnswer": "B",
+	      "rationale": "HU raises MCV due to its effect on red cell production. A helpful marker of adherence and effect.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stable heart rate", "value": "A" },
+	          { "text": "Increased MCV on FBC", "value": "B" },
+	          { "text": "Improved appetite", "value": "C" },
+	          { "text": "Weight gain", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "28" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A child on HU develops toxicity at the current dose. What’s the next step if counts don’t recover in 2 weeks?",
+	      "correctAnswer": "A",
+	      "rationale": "Persistent toxicity after 2 weeks of withholding HU indicates need for dose reduction—not discontinuation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Reduce dose by 5mg/kg", "value": "A" },
+	          { "text": "Reassure and repeat in 1 month", "value": "B" },
+	          { "text": "Stop HU completely", "value": "C" },
+	          { "text": "Increase dose slowly", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "29" },
+	      "type": "question",
+	      "title": "Sickle cell disease",
+	      "text": "A child with SCD has a seizure and right-sided weakness. What is the immediate first action?",
+	      "correctAnswer": "C",
+	      "rationale": "In suspected stroke, immediate stabilization of airway, breathing, and circulation (ABCCC) is top priority.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Give morphine", "value": "A" },
+	          { "text": "Perform full neurological exam", "value": "B" },
+	          { "text": "Begin oxygen and follow ABCCC", "value": "C" },
+	          { "text": "Administer antibiotics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "30" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A child with Hb of 8.5 g/dL and no signs of severe illness should be treated with:",
+	      "correctAnswer": "B",
+	      "rationale": "For non-severe anaemia, the guideline recommends starting iron and reassessing in 2 weeks.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Immediate blood transfusion", "value": "A" },
+	          { "text": "Oral iron and follow-up in 14 days", "value": "B" },
+	          { "text": "Iron injection", "value": "C" },
+	          { "text": "Hospital admission for observation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "31" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "In non-severe anaemia, what additional treatment is recommended if the child is ≥1 year and hasn't received it in 6 months?",
+	      "correctAnswer": "B",
+	      "rationale": "Children ≥1 year should receive one dose of mebendazole (500 mg) if not given in the past 6 months.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Deworming with albendazole", "value": "A" },
+	          { "text": "Deworming with mebendazole", "value": "B" },
+	          { "text": "Oral vitamin A", "value": "C" },
+	          { "text": "Oral zinc", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "32" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "Which child meets the criteria for immediate blood transfusion at secondary level?",
+	      "correctAnswer": "D",
+	      "rationale": "Any child with Hct 13–18% (Hb 4–6 g/dL) plus clinical signs like laboured breathing needs transfusion.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hb = 6.2 g/dL, no symptoms", "value": "A" },
+	          { "text": "Hb = 4.8 g/dL, clinically stable", "value": "B" },
+	          { "text": "Hb = 3.8 g/dL, alert and feeding well", "value": "C" },
+	          { "text": "Hct = 14%, with deep breathing", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "33" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "When using packed red cells for transfusion in a child, the correct volume is:",
+	      "correctAnswer": "B",
+	      "rationale": "Packed cells are preferred and should be given slowly to reduce overload risk.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "5 ml/kg over 1 hour", "value": "A" },
+	          { "text": "10 ml/kg over 3–4 hours", "value": "B" },
+	          { "text": "20 ml/kg over 30 minutes", "value": "C" },
+	          { "text": "10 ml/kg over 15 minutes", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "34" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "What should be monitored every 15 minutes during transfusion?",
+	      "correctAnswer": "C",
+	      "rationale": "Frequent monitoring helps detect signs of heart failure or fluid overload early.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Respiratory rate and temperature", "value": "A" },
+	          { "text": "Hb level", "value": "B" },
+	          { "text": "Pulse and respiratory rate", "value": "C" },
+	          { "text": "Weight and appetite", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "35" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "In children with severe acute malnutrition, how should transfusion be adjusted?",
+	      "correctAnswer": "C",
+	      "rationale": "In severe malnutrition, fluid overload risk is high. Give 10 ml/kg and avoid >20 ml/kg in 4 days.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Give standard volume regardless", "value": "A" },
+	          { "text": "Give 20 ml/kg over 2 hours", "value": "B" },
+	          { "text": "Give 10 ml/kg slowly, avoid exceeding 20 ml/kg in 4 days", "value": "C" },
+	          { "text": "Do not transfuse at all", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "36" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A child who doesn't respond to 6 weeks of oral iron therapy should be:",
+	      "correctAnswer": "C",
+	      "rationale": "If there’s no response after 6–8 weeks of iron, referral is required to investigate causes or switch therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Given more iron for 2 more weeks", "value": "A" },
+	          { "text": "Treated with antibiotics", "value": "B" },
+	          { "text": "Referred to tertiary care", "value": "C" },
+	          { "text": "Given blood transfusion", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "37" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A 7-year-old female with heavy menstrual bleeding and anaemia should be:",
+	      "correctAnswer": "C",
+	      "rationale": "Menorrhagia (heavy periods) should prompt a gynaecology referral to treat the underlying cause.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Given oral iron only", "value": "A" },
+	          { "text": "Referred for gastrointestinal evaluation", "value": "B" },
+	          { "text": "Referred for gynaecological evaluation", "value": "C" },
+	          { "text": "Given IV iron", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "38" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "Which of the following is a correct indication to refer a child with anaemia to a tertiary centre?",
+	      "correctAnswer": "B",
+	      "rationale": "Anaemia with additional haematological abnormalities requires specialist evaluation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Hb = 8.9 g/dL after 1 week of iron", "value": "A" },
+	          { "text": "Anaemia with abnormal WBC and platelets", "value": "B" },
+	          { "text": "No history of deworming", "value": "C" },
+	          { "text": "No fever but low appetite", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": { "id": "39" },
+	      "type": "question",
+	      "title": "Anaemia",
+	      "text": "A 4-year-old child with Hb = 8.7 g/dL and no severe acute malnutrition is seen at a tertiary centre. Which of the following is the most appropriate action?",
+	      "correctAnswer": "C",
+	      "rationale": "Hb < 9.3 g/dL without complications should be managed with oral iron and a dose of mebendazole if not given in 6 months.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Admit for blood transfusion", "value": "A" },
+	          { "text": "Start IV iron", "value": "B" },
+	          { "text": "Start oral iron and deworming", "value": "C" },
+	          { "text": "Refer for bone marrow biopsy", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

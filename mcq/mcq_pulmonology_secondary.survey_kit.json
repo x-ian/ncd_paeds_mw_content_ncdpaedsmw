@@ -1,0 +1,342 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Pulmonology",
+	      "text": "Multiple Choice for Secondary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Asthma",
+	      "text": "What is the recommended dose of oral prednisolone for a child over 5 years old with moderate asthma at secondary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "Children >5 years with moderate asthma should receive 30 mg PO OD for 3 days.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "10 mg PO OD for 5 days", "value": "A" },
+	          { "text": "30 mg PO OD for 3 days", "value": "B" },
+	          { "text": "50 mg PO OD for 7 days", "value": "C" },
+	          { "text": "20 mg PO OD for 3 days", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Asthma",
+	      "text": "After three treatments with salbutamol for moderate asthma at secondary level, what should the clinician do?",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline recommends admission if there is no improvement after three treatments, and to assess for life-threatening features.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Discharge the child immediately", "value": "A" },
+	          { "text": "Refer to physiotherapy", "value": "B" },
+	          { "text": "Admit if no improvement and monitor for life-threatening features", "value": "C" },
+	          { "text": "Stop all medications", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Asthma",
+	      "text": "What is the initial oxygen therapy for a child with severe/life-threatening asthma?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline specifies 5 L/min via face mask for severe/life-threatening asthma.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oxygen via nasal prongs", "value": "A" },
+	          { "text": "Oxygen via face mask at 5 L/min", "value": "B" },
+	          { "text": "Oxygen via face mask at 1 L/min", "value": "C" },
+	          { "text": "No oxygen unless saturation < 90%", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Asthma",
+	      "text": "What is the correct initial salbutamol nebuliser dosing for a child older than 4 years with severe asthma?",
+	      "correctAnswer": "C",
+	      "rationale": "The initial dose for >4 years is 5 mg, 3 back-to-back nebulisers.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "2.5 mg every 6 hours", "value": "A" },
+	          { "text": "5 mg every 6 hours", "value": "B" },
+	          { "text": "5 mg, 3 back-to-back nebulisers to start", "value": "C" },
+	          { "text": "2 puffs of salbutamol via spacer only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Asthma",
+	      "text": "In severe asthma, which steroid regimen is an alternative to oral prednisolone?",
+	      "correctAnswer": "A",
+	      "rationale": "The alternative steroid option in severe asthma is IV dexamethasone 0.6 mg/kg STAT.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "IV Dexamethasone", "value": "A" },
+	          { "text": "Paracetamol PO", "value": "B" },
+	          { "text": "Salbutamol IV", "value": "C" },
+	          { "text": "Loratadine PO", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Asthma",
+	      "text": "What is an important component of fluid management for a child with severe life-threatening asthma at secondary level?",
+	      "correctAnswer": "B",
+	      "rationale": "The fluid guideline is to give 2/3 maintenance IV fluids with 20 mmol KCl per litre.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "5% dextrose only", "value": "A" },
+	          { "text": "2/3 maintenance IV fluids", "value": "B" },
+	          { "text": "Full maintenance fluids with no electrolytes", "value": "C" },
+	          { "text": "Oral fluids only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Obstructive Sleep Apnea",
+	      "text": "What is a common surgical treatment for obstructive sleep apnea caused by adenotonsillar hypertrophy?",
+	      "correctAnswer": "B",
+	      "rationale": "Adenotonsillectomy is the first-line surgical intervention for OSA due to adenotonsillar hypertrophy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Tracheostomy", "value": "A" },
+	          { "text": "Adenotonsillectomy", "value": "B" },
+	          { "text": "CPAP therapy", "value": "C" },
+	          { "text": "Maxillomandibular advancement", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Obstructive Sleep Apnea",
+	      "text": "When should a maxillofacial surgeon be consulted in a child with obstructive sleep apnea?",
+	      "correctAnswer": "A",
+	      "rationale": "Maxillofacial surgeons are consulted when structural facial issues are contributing to airway obstruction in OSA.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "When there are structural facial abnormalities", "value": "A" },
+	          { "text": "When adenotonsillar hypertrophy is present", "value": "B" },
+	          { "text": "When the child fails positional therapy", "value": "C" },
+	          { "text": "When obesity is the sole contributing factor", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Obstructive Sleep Apnea",
+	      "text": "Which of the following therapies is commonly used during sleep to manage obstructive sleep apnea?",
+	      "correctAnswer": "C",
+	      "rationale": "CPAP is the mainstay non-invasive treatment for OSA and works by keeping the upper airway open during sleep.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Inhaled bronchodilators", "value": "A" },
+	          { "text": "Oxygen via nasal cannula", "value": "B" },
+	          { "text": "CPAP (Continuous Positive Airway Pressure)", "value": "C" },
+	          { "text": "Corticosteroid therapy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Obstructive Sleep Apnea",
+	      "text": "What positional advice should be given to a child with obstructive sleep apnea?",
+	      "correctAnswer": "D",
+	      "rationale": "Sleeping in a lateral position helps prevent airway collapse, which is more common in the supine position.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Sleep in supine position for better breathing", "value": "A" },
+	          { "text": "Sleep only in prone position", "value": "B" },
+	          { "text": "Alternate between left and right lateral positions", "value": "C" },
+	          { "text": "Sleep in a lateral position instead of supine", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Bronchiectasis",
+	      "text": "What is the recommended approach while awaiting sputum results in an acute exacerbation of bronchiectasis?",
+	      "correctAnswer": "B",
+	      "rationale": "Empiric antibiotics should be started promptly while awaiting sputum results to manage infection and reduce exacerbation severity.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Delay antibiotics until culture is available", "value": "A" },
+	          { "text": "Empirically start antibiotics", "value": "B" },
+	          { "text": "Start corticosteroids immediately", "value": "C" },
+	          { "text": "Initiate antifungal treatment", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Bronchiectasis",
+	      "text": "Which of the following therapies is aimed at optimizing airway clearance in bronchiectasis?",
+	      "correctAnswer": "C",
+	      "rationale": "Chest physiotherapy is key in both acute and long-term management to enhance mucus clearance from airways.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Antihistamines", "value": "A" },
+	          { "text": "Oral bronchodilators", "value": "B" },
+	          { "text": "Chest physiotherapy", "value": "C" },
+	          { "text": "Tracheostomy", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Bronchiectasis",
+	      "text": "What mucolytic therapy may be used in bronchiectasis to assist with sputum clearance?",
+	      "correctAnswer": "B",
+	      "rationale": "Hypertonic saline nebulisers help thin and loosen mucus, facilitating its clearance from the airways.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Isotonic saline nebulisers", "value": "A" },
+	          { "text": "Hypertonic saline nebulisers", "value": "B" },
+	          { "text": "Oral antibiotics", "value": "C" },
+	          { "text": "Normal saline mouth rinse", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Bronchiectasis",
+	      "text": "What prophylactic antibiotic is recommended for immunosuppressed bronchiectasis patients?",
+	      "correctAnswer": "D",
+	      "rationale": "Cotrimoxazole is used as a prophylactic antibiotic in immunosuppressed individuals to prevent infections.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Amoxicillin", "value": "A" },
+	          { "text": "Clarithromycin", "value": "B" },
+	          { "text": "Ceftriaxone", "value": "C" },
+	          { "text": "Cotrimoxazole", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Bronchiectasis",
+	      "text": "What therapy is part of growth and development management in children with bronchiectasis and cystic fibrosis?",
+	      "correctAnswer": "C",
+	      "rationale": "Children with cystic fibrosis often require pancreatic enzyme replacement to support nutrition and growth.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Regular chest X-rays", "value": "A" },
+	          { "text": "Corticosteroids", "value": "B" },
+	          { "text": "Pancreatic enzyme replacement therapy", "value": "C" },
+	          { "text": "Antiviral prophylaxis", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Bronchiectasis",
+	      "text": "What is the dosing regimen for azithromycin as an immune modulator in bronchiectasis?",
+	      "correctAnswer": "C",
+	      "rationale": "Azithromycin is given at 10 mg/kg three times per week for 3 months initially; continued if effective.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "10 mg/kg daily for 1 week", "value": "A" },
+	          { "text": "5 mg/kg 3 times a week for 1 month", "value": "B" },
+	          { "text": "10 mg/kg 3 times a week for 3 months", "value": "C" },
+	          { "text": "10 mg/kg once weekly for 6 months", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Bronchiectasis",
+	      "text": "When are inhaled corticosteroids recommended in the management of bronchiectasis?",
+	      "correctAnswer": "A",
+	      "rationale": "Inhaled corticosteroids are considered if wheezing is present, to reduce airway inflammation and improve symptoms.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "In all patients If the patient has wheezing", "value": "A" },
+	          { "text": "When infection is suspected", "value": "B" },
+	          { "text": "For children under 5 years", "value": "C" },
+	          { "text": "In all patients", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

@@ -1,0 +1,50 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Neurodevelopmental disorders",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Psychosis",
+	      "text": "What is the appropriate action for a primary care provider who suspects psychosis in a child?",
+	      "correctAnswer": "B",
+	      "rationale": "Primary care providers should screen for psychosis and promptly refer any suspected cases to tertiary services for specialized evaluation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Start antipsychotic medication immediately",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Screen for psychosis and refer to tertiary care",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Observe for a few weeks before deciding on a plan",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Manage symptoms with supportive counseling only",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    }
+	  ]
+	}

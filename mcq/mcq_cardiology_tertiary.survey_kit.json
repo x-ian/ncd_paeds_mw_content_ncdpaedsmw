@@ -1,0 +1,826 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+	
+	
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Cardiology",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "What is the correct dosage of intramuscular benzathine penicillin for a child weighing over 25 kg with ARF? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Children >25 kg should receive 1,200,000 IU IM as a stat dose. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "600,000 IU",
+	            "value": "A"
+	          },
+	          {
+	            "text": "1,200,000 IU",
+	            "value": "B"
+	          },
+	          {
+	            "text": "300,000 IU",
+	            "value": "C"
+	          },
+	          {
+	            "text": "800,000 IU",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "What is the recommended first-line treatment for joint pain in ARF? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Ibuprofen 10 mg/kg TDS for 7 days (or until joint symptoms resolve) is the guideline-recommended anti-inflammatory treatment. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Paracetamol",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Ibuprofen 5 mg/kg once daily",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Ibuprofen 10 mg/kg three times a day for 7 days",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Steroids",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "Which of the following is an appropriate treatment for severe or distressing chorea in ARF? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Haloperidol or sodium valproate are used to treat severe chorea. Mild chorea may not require treatment. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Oral penicillin",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Haloperidol or sodium valproate",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Paracetamol",
+	            "value": "C"
+	          },
+	            {
+	            "text": "Ibuprofen only",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "In cases of severe chorea, which medication can be added to haloperidol or valproate? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Prednisone (2 mg/kg daily) can be added in severe or distressing cases of chorea, then tapered. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Amoxicillin",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Furosemide",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Prednisone",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Diazepam",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Acute rheumatic fever & rheumatic heart disease",
+	      "text": "What is the minimum recommended duration of prophylactic benzathine penicillin in mild cases of rheumatic heart disease? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Mild cases should receive secondary prophylaxis until 21 years of age; moderate to severe cases require life-long prophylaxis. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "5 years",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Until age 18",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Until age 21",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Life-long",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Myocarditis",
+	      "text": "Which of the following best describes the appropriate treatment at secondary and tertiary care levels for a child with suspected myocarditis? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Treatment at secondary and tertiary levels includes: stabilization, heart failure management if symptoms are present, and antibiotics if there is clinical evidence of bacterial infection. Tertiary care adds cardiology review, but the core treatment overlaps. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Monitor for 72 hours and refer only if symptoms worsen",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Stabilize the patient, treat as heart failure if symptomatic, and start antibiotics if bacterial infection is suspected",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Immediately refer without any intervention",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Begin antiviral therapy and schedule cardiology review later",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Dilated Cardiomyopathy",
+	      "text": "What is the appropriate management of a child diagnosed with dilated cardiomyopathy at the secondary or tertiary care level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline emphasizes stabilizing the patient and managing them as heart failure if symptoms are present. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Begin corticosteroids and reassess in one week",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Stabilize the patient and treat as heart failure if symptoms are present",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Delay treatment until echocardiogram confirms diagnosis",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Start antibiotics routinely for all cases",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Pulmonary hypertension",
+	      "text": "What is a distinct intervention available at the tertiary care level for managing pulmonary hypertension? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Vasodilators like sildenafil can be initiated at the tertiary level with pulmonology/cardiology input, not earlier. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Routine use of corticosteroids",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Initiation of vasodilator therapy such as sildenafil after specialist consultation",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Physical therapy for endurance building",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Avoid oxygen therapy unless critical",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Pulmonary hypertension",
+	      "text": "What additional supportive service should be involved at the tertiary level for children with advanced pulmonary hypertension? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline specifies involving palliative care at the tertiary level as part of comprehensive management for advanced or severe cases. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Dermatology",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Physiotherapy",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Palliative care",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Occupational therapy",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Congenital Heart diseases",
+	      "text": "A child with congenital heart disease is admitted to a tertiary facility with signs of fluid overload and respiratory distress. What is the recommended first-line medication regimen for heart failure management? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline specifies furosemide and spironolactone as the standard heart failure treatment, with dosage tailored to weight and IV or oral route based on availability. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Intravenous antibiotics and corticosteroids",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Oral paracetamol and bedrest",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Furosemide 1–2 mg/kg/dose IV BD and spironolactone 1–2 mg/kg/dose PO BD",
+	            "value": "C"
+	          },
+	          {
+	            "text": "CPAP and bronchodilators",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Congenital Heart diseases",
+	      "text": "Which of the following tertiary-level interventions is appropriate for a child with CHD and severe hypoxia and respiratory distress? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "CPAP is indicated in tertiary care for severe respiratory distress or hypoxia, as part of acute stabilization. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Discharge on oxygen",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Use of CPAP for respiratory support",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Corticosteroids for inflammation",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Begin antibiotics and reassess in 24 hours",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Hypercyanotic Spell in Tetralogy of Fallot",
+	      "text": "A child with a hypercyanotic spell has been stabilized with oxygen, positioning, and fluids. Arterial blood gas shows severe metabolic acidosis. What is the correct next step? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "In cases of severe metabolic acidosis, the guideline recommends giving IV sodium bicarbonate to correct pH imbalance. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Start oral iron supplementation",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Administer IV sodium bicarbonate 1 mEq/kg STAT",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Increase fluid boluses beyond 3 times",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Give high-dose corticosteroids",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Hypercyanotic Spell in Tetralogy of Fallot",
+	      "text": "What is the appropriate escalation step for a child with a resistant Tet spell despite initial tertiary-level interventions? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Resistant spells require escalation to PICU and consideration of IV phenylephrine or ketamine, guided by a cardiologist. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Refer back to secondary care",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Begin diuretics and sedatives",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Admit to PICU and consider IV phenylephrine or ketamine with cardiology input",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Repeat morphine every 15 minutes indefinitely",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Congestive Heart Failure",
+	      "text": "A child with severe fluid overload due to CHF is not responding adequately to standard diuretic dosing. What is the appropriate escalation strategy at the tertiary level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "In severe fluid overload, continuous IV furosemide infusion may be used at tertiary level under monitoring. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Increase oral fluids",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Switch to corticosteroids",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Start continuous IV infusion of furosemide (0.1–0.5 mg/kg/hour)",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Stop diuretics and give IV maintenance fluids only",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Congestive Heart Failure",
+	      "text": "When using ACE inhibitors like enalapril or captopril in CHF management, what must be carefully monitored? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "ACE inhibitors reduce afterload but carry a risk of hypotension and hyperkalemia, so BP and potassium must be monitored. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Hemoglobin levels",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Liver enzymes",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Blood pressure and serum potassium",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Oxygen saturation and respiratory rate",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Congestive Heart Failure",
+	      "text": "A child with pericardial effusion presents with tachycardia, hypotension, elevated JVP, and muffled heart sounds. What urgent tertiary-level intervention should be considered? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "These are classic signs of cardiac tamponade, and pericardiocentesis may be required if a large pericardial effusion is confirmed. Always done in consultation with a cardiologist. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Start oral propranolol",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Perform pericardiocentesis in consultation with a cardiologist",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Give intramuscular steroids",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Start antibiotics and observe",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Congestive Heart Failure",
+	      "text": "Which of the following reflects appropriate multidisciplinary care for a child with terminal CHF at the tertiary level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "In terminal cardiac failure, early palliative care input is important. Morphine also acts as a venodilator, improving pulmonary oedema. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Withhold all diuretics and stop oxygen",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Refer only to surgical team",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Involve palliative care team and consider morphine for preload reduction",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Restrict fluids and delay further follow-up",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Paediatric Arrhythimias",
+	      "text": "A child is admitted with bradycardia and signs of poor perfusion. Despite initial stabilization, the heart rate remains very low. Which of the following is an appropriate pharmacological intervention at the tertiary level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "IV atropine is the first-line medication for symptomatic bradycardia. Doses may be repeated, not exceeding 3 mg total. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Oral propranolol",
+	            "value": "A"
+	          },
+	          {
+	            "text": "IV atropine 0.02 mg/kg/dose, up to a total of 3 mg",
+	            "value": "B"
+	          },
+	          {
+	            "text": "High-dose diuretics",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Immediate synchronized cardioversion",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Paediatric Arrhythimias",
+	      "text": "A child with symptomatic bradycardia and hemodynamic instability does not respond to atropine. Which of the following therapies is most appropriate to consider next? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "If atropine is ineffective, the next step is to initiate IV adrenaline (0.02 mcg/kg/min) or dopamine (2–10 mcg/kg/min) as indicated in the guideline. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Oral amiodarone",
+	            "value": "A"
+	          },
+	          {
+	            "text": "IV adrenaline infusion or dopamine infusion, titrated to response",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Oxygen therapy only",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Delay treatment and repeat ECG in 6 hours",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Paediatric Arrhythimias",
+	      "text": "Which of the following statements is correct regarding the management of hemodynamically stable bradycardia in a child at tertiary level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "In hemodynamically stable bradycardia with normal BP, no immediate medical treatment is necessary. Cardiology referral is still important. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "It requires immediate IV medications",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Synchronized cardioversion is recommended",
+	            "value": "B"
+	          },
+	          {
+	            "text": "No medical treatment is needed if blood pressure is normal",
+	            "value": "C"
+	          },
+	          {
+	            "text": "All cases should receive fluid bolus therapy",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Supraventricular Tachycardia",
+	      "text": "Which of the following is the correct initial dose of IV adenosine for treating stable SVT in a child at tertiary level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "The recommended starting dose of IV adenosine is 0.1 mg/kg (max 6 mg), followed by a flush. Doses may be increased every 2 minutes if needed. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "0.01 mg/kg IV push, max 3 mg",
+	            "value": "A"
+	          },
+	          {
+	            "text": "0.1 mg/kg IV rapid push, max 6 mg",
+	            "value": "B"
+	          },
+	          {
+	            "text": "0.5 mg/kg IV over 10 minutes",
+	            "value": "C"
+	          },
+	          {
+	            "text": "5 mg/kg oral bolus",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "23"
+	      },
+	      "type": "question",
+	      "title": "Supraventricular Tachycardia",
+	      "text": "A child with SVT is hemodynamically unstable and in shock. What is the appropriate first-line intervention? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "In unstable SVT with shock, synchronized DC cardioversion (0.5–1 J/kg) is the recommended emergency intervention. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Start oral propranolol",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Administer IV adenosine slowly",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Perform synchronized cardioversion at 0.5–1 joule/kg",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Begin IV fluids and wait for spontaneous resolution",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "24"
+	      },
+	      "type": "question",
+	      "title": "Supraventricular Tachycardia",
+	      "text": "Which of the following is a required safety measure when administering IV amiodarone for SVT at the tertiary level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Because of potential for arrhythmia and hypotension, IV amiodarone must be given under continuous cardiac monitoring in HDU or ICU. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Perform in an outpatient clinic with ECG every 8 hours",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Give oral loading dose before infusion",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Place the patient on continuous cardiac monitoring in HDU/ICU",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Only administer after failed calcium channel blocker therapy",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "25"
+	      },
+	      "type": "question",
+	      "title": "Chest Pain",
+	      "text": "In evaluating pediatric chest pain at a secondary or tertiary facility, which of the following warrants referral to a cardiologist? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Chest pain that is triggered or worsened by activity may suggest an underlying cardiac cause and should be referred to cardiology. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Normal ECG and no family history of cardiac conditions",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Chest pain localized to a single rib with reproducible tenderness",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Chest pain associated with physical exertion",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Pain that resolves with paracetamol",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "26"
+	      },
+	      "type": "question",
+	      "title": "Chest Pain",
+	      "text": "Which of the following findings would most strongly indicate the need for cardiology referral in a child with chest pain? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "ECG abnormalities and a family history of cardiomyopathy, long QT syndrome, or sudden death are clear indications for cardiology referral. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Mild cough and normal chest X-ray",
+	            "value": "A"
+	          },
+	          {
+	            "text": "ECG abnormalities or positive family history of cardiomyopathy",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Localized muscle tenderness",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Normal cardiovascular examination and no systemic symptoms",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "27"
+	      },
+	      "type": "question",
+	      "title": "Syncope",
+	      "text": "What is the correct next step when managing a child with recurrent syncope at the tertiary level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "The tertiary-level role is to investigate the underlying cause (e.g. ECG, labs, imaging) and consult cardiology as needed. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Administer anti-seizure medication empirically",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Begin physiotherapy for postural control",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Investigate for underlying cause and consult a cardiologist",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Prescribe iron supplements for one month",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    }
+	  ]
+	}

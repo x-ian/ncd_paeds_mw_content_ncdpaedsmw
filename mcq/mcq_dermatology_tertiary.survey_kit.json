@@ -1,0 +1,418 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Dermatology",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Atopic Dermatitis / Eczema",
+	      "text": "Which topical corticosteroid regimen is appropriate for a child with moderate/severe atopic dermatitis at the tertiary care level?",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline specifies medium–high potency steroids for affected areas, but low potency only for the face, neck, and folds.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Low-potency TCS twice daily on all body areas including the face", "value": "A" },
+	          { "text": "Medium- to high-potency TCS on affected areas (excluding face, neck, and skin folds) for 2–4 weeks", "value": "B" },
+	          { "text": "High-potency TCS applied continuously for more than 4 weeks", "value": "C" },
+	          { "text": "Only emollients should be used; steroids are avoided at this level", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Atopic Dermatitis / Eczema",
+	      "text": "Which of the following is a recommended next step if a patient with atopic dermatitis does not respond to standard topical therapy?",
+	      "correctAnswer": "C",
+	      "rationale": "Refractory disease should trigger specialist consultation and possibly escalated therapy options.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Increase bathing frequency", "value": "A" },
+	          { "text": "Refer the patient for cosmetic skin therapy", "value": "B" },
+	          { "text": "Consult a dermatologist and consider topical calcineurin inhibitors or systemic therapy", "value": "C" },
+	          { "text": "Discontinue all medications and monitor for spontaneous remission", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Atopic Dermatitis / Eczema",
+	      "text": "What is the role of phototherapy in tertiary care for atopic dermatitis?",
+	      "correctAnswer": "C",
+	      "rationale": "UV phototherapy is used as a non-pharmacological option for refractory cases in tertiary settings.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "It is the first-line treatment in mild disease", "value": "A" },
+	          { "text": "It is used routinely in children under 2 years", "value": "B" },
+	          { "text": "It is an option for refractory moderate/severe cases", "value": "C" },
+	          { "text": "It replaces all pharmacological treatments", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Atopic Dermatitis / Eczema",
+	      "text": "In severe cases of atopic dermatitis that do not respond to topical agents, what systemic treatment approach is recommended?",
+	      "correctAnswer": "B",
+	      "rationale": "Systemic immunomodulators (non-corticosteroid) may be considered when the condition is severe and refractory.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Systemic corticosteroids as long-term maintenance therapy", "value": "A" },
+	          { "text": "Non-corticosteroid systemic immunomodulatory medications", "value": "B" },
+	          { "text": "Oral antihistamines only", "value": "C" },
+	          { "text": "No systemic treatment should be considered", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Miliaria",
+	      "text": "What is the first-line approach to managing miliaria in children?",
+	      "correctAnswer": "B",
+	      "rationale": "Reducing heat and sweat is the cornerstone of treatment, as miliaria is caused by sweat duct blockage and irritation.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Apply high-potency topical steroids", "value": "A" },
+	          { "text": "Minimize exposure to heat and humidity", "value": "B" },
+	          { "text": "Prescribe systemic antibiotics", "value": "C" },
+	          { "text": "Use antifungal cream on affected areas", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Miliaria",
+	      "text": "What should caregivers be reassured about when managing a typical case of miliaria?",
+	      "correctAnswer": "C",
+	      "rationale": "Miliaria is typically self-limiting and resolves quickly with environmental adjustments.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "The condition requires long-term topical steroid use", "value": "A" },
+	          { "text": "It is likely to leave permanent scarring", "value": "B" },
+	          { "text": "It usually resolves within 2 days after changing to a cooler environment", "value": "C" },
+	          { "text": "It requires specialist referral in all cases", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
+	      "type": "question",
+	      "title": "Miliaria",
+	      "text": "Which of the following topical treatments is recommended in the management of miliaria?",
+	      "correctAnswer": "B",
+	      "rationale": "Calamine lotion is commonly used for its soothing, cooling effect and helps relieve itching and irritation in miliaria.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Antiviral cream", "value": "A" },
+	          { "text": "Calamine lotion", "value": "B" },
+	          { "text": "Antifungal ointment", "value": "C" },
+	          { "text": "High-potency steroid cream", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
+	      "type": "question",
+	      "title": "Miliaria",
+	      "text": "When should a child with miliaria be referred to a dermatologist?",
+	      "correctAnswer": "B",
+	      "rationale": "Most cases resolve with basic care; referral is indicated only if symptoms persist.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "If the rash spreads to the trunk", "value": "A" },
+	          { "text": "If the condition persists despite conservative management", "value": "B" },
+	          { "text": "If the child is younger than 6 months", "value": "C" },
+	          { "text": "As soon as the diagnosis is made", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
+	      "type": "question",
+	      "title": "Urticaria",
+	      "text": "In a child with severe anaphylaxis and bronchospasm not responding to IM epinephrine, which of the following is the recommended next step?",
+	      "correctAnswer": "B",
+	      "rationale": "Salbutamol is indicated if bronchospasm persists despite IM epinephrine.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Administer IV antibiotics", "value": "A" },
+	          { "text": "Start salbutamol nebulizer 2.5–5 mg, repeat every 15 minutes if needed", "value": "B" },
+	          { "text": "Increase oral antihistamine dose", "value": "C" },
+	          { "text": "Switch to oral steroids immediately", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Urticaria",
+	      "text": "Which of the following H1 antihistamines can be used intravenously in the management of severe anaphylaxis?",
+	      "correctAnswer": "B",
+	      "rationale": "IV diphenhydramine is one of the tertiary-level antihistamine options for rapid relief of symptoms.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Oral loratadine", "value": "A" },
+	          { "text": "IV diphenhydramine 1 mg/kg over 5 minutes", "value": "B" },
+	          { "text": "IM dexamethasone", "value": "C" },
+	          { "text": "Topical promethazine", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
+	      "type": "question",
+	      "title": "Urticaria",
+	      "text": "What is the next step in managing refractory anaphylaxis if a child is not responding to repeated IM adrenaline?",
+	      "correctAnswer": "C",
+	      "rationale": "For refractory shock, continuous adrenaline infusion is indicated and may need to be titrated to maintain perfusion.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Stop all treatment and observe", "value": "A" },
+	          { "text": "Administer a second-generation oral antihistamine", "value": "B" },
+	          { "text": "Start an adrenaline infusion at 0.1–1 mcg/kg/min, titrated to effect", "value": "C" },
+	          { "text": "Intubate and discharge once airway is secure", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
+	      "type": "question",
+	      "title": "Urticaria",
+	      "text": "When is ICU admission indicated for a child with anaphylaxis?",
+	      "correctAnswer": "D",
+	      "rationale": "ICU admission is required if airway control is necessary or if there’s persistent shock despite treatment.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "For every case of mild urticaria", "value": "A" },
+	          { "text": "When the child is vomiting", "value": "B" },
+	          { "text": "Only if more than three antihistamines are used", "value": "C" },
+	          { "text": "If there is airway compromise requiring intubation", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
+	      "type": "question",
+	      "title": "Psoriasis",
+	      "text": "What is the recommended initial step in the management of any child presenting with suspected psoriasis?",
+	      "correctAnswer": "B",
+	      "rationale": "Proper assessment of disease extent (BSA) guides the choice between topical and systemic therapy.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Start oral immunosuppressants immediately", "value": "A" },
+	          { "text": "Assess disease severity using estimated body surface area (BSA) affected", "value": "B" },
+	          { "text": "Perform a skin biopsy to confirm diagnosis", "value": "C" },
+	          { "text": "Begin topical antibiotics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Psoriasis",
+	      "text": "Which of the following is an appropriate first-line treatment for mild psoriasis (BSA <3–5%)?",
+	      "correctAnswer": "A",
+	      "rationale": "Mild psoriasis is typically managed with topical agents such as corticosteroids, calcipotriene, or retinoids.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Topical corticosteroids or calcipotriene", "value": "A" },
+	          { "text": "Narrowband UV-B therapy", "value": "B" },
+	          { "text": "Systemic methotrexate", "value": "C" },
+	          { "text": "Oral antibiotics and emollients only", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "16"
+	      },
+	      "type": "question",
+	      "title": "Psoriasis",
+	      "text": "Which treatment is appropriate for moderate to severe psoriasis (BSA >3–5%)?",
+	      "correctAnswer": "B",
+	      "rationale": "Systemic pharmacotherapy and phototherapy are recommended for more extensive disease.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Moisturizers and coal tar shampoo", "value": "A" },
+	          { "text": "Systemic therapy and/or narrowband UV-B phototherapy", "value": "B" },
+	          { "text": "Antihistamines and oral antibiotics", "value": "C" },
+	          { "text": "Topical antibiotics and antifungal creams", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "17"
+	      },
+	      "type": "question",
+	      "title": "Psoriasis",
+	      "text": "What must be done for all suspected cases of psoriasis, regardless of severity?",
+	      "correctAnswer": "D",
+	      "rationale": "The guideline clearly states that all suspected psoriasis cases must be discussed with dermatology specialists.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Prescribe high-potency steroids without delay", "value": "A" },
+	          { "text": "Refer directly to surgery", "value": "B" },
+	          { "text": "Start antibiotics to rule out bacterial causes", "value": "C" },
+	          { "text": "Discuss the case with the dermatology department", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "18"
+	      },
+	      "type": "question",
+	      "title": "Oculocutaneous Albinism",
+	      "text": "Which of the following best describes the correct use of sunscreen for someone with oculocutaneous albinism?",
+	      "correctAnswer": "D",
+	      "rationale": "Frequent application of sunscreen with at least SPF 30 is crucial for UV protection in albinism.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Apply sunscreen once in the morning only", "value": "A" },
+	          { "text": "Use sunscreen only on cloudy days", "value": "B" },
+	          { "text": "Apply sunscreen with SPF 15 every 6 hours", "value": "C" },
+	          { "text": "Apply SPF 30 or higher liberally every 2 hours when in the sun", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "19"
+	      },
+	      "type": "question",
+	      "title": "Oculocutaneous Albinism",
+	      "text": "Which of the following medications should be avoided or used cautiously in patients with albinism due to increased photosensitivity?",
+	      "correctAnswer": "B",
+	      "rationale": "Medications such as tetracyclines, NSAIDs, and some diuretics can increase photosensitivity and should be avoided when possible.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Paracetamol", "value": "A" },
+	          { "text": "Tetracycline", "value": "B" },
+	          { "text": "Iron supplements", "value": "C" },
+	          { "text": "Probiotics", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "20"
+	      },
+	      "type": "question",
+	      "title": "Oculocutaneous Albinism",
+	      "text": "How often should children with oculocutaneous albinism undergo routine skin examination?",
+	      "correctAnswer": "C",
+	      "rationale": "Regular skin checks beginning in adolescence help detect early signs of skin cancer.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Every 2–3 years starting at age 18", "value": "A" },
+	          { "text": "Monthly from infancy", "value": "B" },
+	          { "text": "Every 6–12 months starting in adolescence", "value": "C" },
+	          { "text": "Only when symptoms appear", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "21"
+	      },
+	      "type": "question",
+	      "title": "Oculocutaneous Albinism",
+	      "text": "What should caregivers of children with albinism be educated to look for during skin self-exams?",
+	      "correctAnswer": "B",
+	      "rationale": "Awareness of changes like non-healing or symptomatic lesions helps in early detection of skin cancer.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "Peeling skin during dry seasons", "value": "A" },
+	          { "text": "New or changing lesions, especially in sun-exposed areas", "value": "B" },
+	          { "text": "Fungal infections on the scalp", "value": "C" },
+	          { "text": "Normal freckling on the arms and legs", "value": "D" }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "22"
+	      },
+	      "type": "question",
+	      "title": "Oculocutaneous Albinism",
+	      "text": "When a child with oculocutaneous albinism is referred for optometry or ophthalmology evaluation, what is the most likely purpose of the assessment?",
+	      "correctAnswer": "D",
+	      "rationale": "Children with albinism often have visual impairments due to nystagmus, refractive errors, or foveal hypoplasia—optometry/ophthalmology helps improve functional vision.",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          { "text": "To assess for cataract surgery", "value": "A" },
+	          { "text": "To perform genetic testing", "value": "B" },
+	          { "text": "To evaluate for laser treatment of retinal vessels", "value": "C" },
+	          { "text": "To correct refractive errors and provide low vision aids", "value": "D" }
+	        ]
+	      }
+	    }
+	  ]
+	}

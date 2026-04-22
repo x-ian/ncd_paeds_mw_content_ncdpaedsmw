@@ -1,0 +1,204 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "ChildProtection",
+	      "text": "Multiple Choice for Tertiary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Child protection",
+	      "text": "When is a child eligible to receive PEP (Post-Exposure Prophylaxis) following suspected sexual abuse? [cite: 1]",
+	      "correctAnswer": "A",
+	      "rationale": "PEP should be given if the child is HIV-negative and presents within 72 hours, regardless of the assailant’s test result, due to the possibility of window-period transmission. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "When the child is HIV-negative and presents within 72 hours, regardless of the assailant’s HIV status",
+	            "value": "A"
+	          },
+	          {
+	            "text": "When the child presents more than 72 hours after the incident and the assailant is HIV-positive",
+	            "value": "B"
+	          },
+	          {
+	            "text": "When the child is HIV-negative and the assailant has a known positive HIV status",
+	            "value": "C"
+	          },
+	          {
+	            "text": "When the child is under 10 years old and the caregiver agrees to HIV testing",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Child protection",
+	      "text": "What is the correct timing for giving PEP in a child suspected of sexual abuse? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "The guideline is clear: do not delay. Test and treat during the same clinical encounter. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "After HIV test results are reviewed by a consultant",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Only after police consent is obtained",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Immediately—HIV test and PEP should be given at the same visit",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Within 7 days of the incident",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
+	      "type": "question",
+	      "title": "Child protection",
+	      "text": "Which of the following is the correct approach to documenting a medical report for suspected abuse? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Documentation may serve as evidence. The report must be factual, legible, and include verbatim quotes and clear injury descriptions. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Use only your own interpretation of the child’s statements",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Avoid sketches and focus on brief text notes",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Write legibly, summarize physical findings in detail, and use direct quotations",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Only record the final diagnosis and treatment given",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
+	      "type": "question",
+	      "title": "Child protection",
+	      "text": "Which of the following is part of the antibiotic regimen to prevent or treat STIs in a child after sexual abuse? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline outlines a multi-drug regimen to cover a range of pathogens. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Only oral amoxicillin for 5 days",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Metronidazole, Erythromycin/Azithromycin, Gentamicin, and Benzathine Penicillin",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Ceftriaxone and oral doxycycline",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Azithromycin as a single drug therapy",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
+	      "type": "question",
+	      "title": "Child protection",
+	      "text": "What is an essential action to take alongside medical treatment for suspected abuse? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Early involvement of social and legal authorities is a critical part of the response. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Discharge the child immediately after stabilizing",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Keep the case confidential and avoid involving authorities",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Inform and involve social workers and police as early as possible",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Wait until follow-up to notify any non-medical services",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
+	      "type": "question",
+	      "title": "Child protection",
+	      "text": "According to the guideline, which antiretroviral regimens are recommended for PEP in children following suspected sexual abuse? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Children should receive ABC/3TC + DTG or TDF/3TC/DTG depending on weight (TDF combo is typically for children over 30 kg). The regimen must start immediately and continue for 30 days. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Zidovudine and Nevirapine",
+	            "value": "A"
+	          },
+	          {
+	            "text": "ABC/3TC + DTG or TDF/3TC/DTG based on the child's body weight",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Tenofovir only, regardless of weight",
+	            "value": "C"
+	          },
+	          {
+	            "text": "DTG monotherapy to reduce pill burden",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    }
+	  ]
+	}

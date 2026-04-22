@@ -1,0 +1,81 @@
+{
+	"id": "1",
+	"type": "navigable",
+	"rules": [
+
+	],
+
+	  "steps": [
+	    {
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "ChildProtection",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
+	      "type": "question",
+	      "title": "Child protection",
+	      "text": "What is the recommended initial approach for a child who appears unstable at the primary care level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "The ABCDE approach (Airway, Breathing, Circulation, Disability, Exposure) is used for rapid assessment and stabilization of critically ill patients. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Conduct a full physical examination before referral",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Begin the ABCDE assessment",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Give oral medication and observe for 24 hours",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Start IV fluids immediately without assessment",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
+	      "type": "question",
+	      "title": "Child protection",
+	      "text": "What should a primary care provider do after taking a brief history from a child suspected of having a serious condition? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "According to the guideline: DO NOT EXAMINE the patient at the primary level—refer immediately after a brief history if instability is suspected. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Perform a full clinical examination",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Start treatment and schedule follow-up in one week",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Refer the patient immediately without examination",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Wait for laboratory results before making any referral",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    }
+	  ]
+	}
