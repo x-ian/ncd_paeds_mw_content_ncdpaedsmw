@@ -4,195 +4,455 @@
 	"rules": [
 
 	],
-	"steps": [
-		{
-			"stepIdentifier": {
-				"id": "1"
-			},
-			"type": "intro",
-			"title": "Cardiology",
-			"text": "Multiple Choice for Primary Level Care",
-			"buttonText": "Start!"
-		},
+
+
+	
+	  "steps": [
 	    {
-	      "stepIdentifier": { "id": "2" },
+	      "stepIdentifier": {
+	        "id": "1"
+	      },
+	      "type": "intro",
+	      "title": "Cardiology",
+	      "text": "Multiple Choice for Primary Care",
+	      "buttonText": "Start!"
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "2"
+	      },
 	      "type": "question",
 	      "title": "Acute rheumatic fever & rheumatic heart disease",
-	      "text": "A 10-year-old child presents at a health centre with fever, swollen joints, and a history of sore throat 3 weeks ago. On examination, there is a new heart murmur. What is the most appropriate immediate action at the primary care level?",
+	      "text": "A 10-year-old child presents at a health centre with fever, swollen joints, and a history of sore throat 3 weeks ago. On examination, there is a new heart murmur. What is the most appropriate immediate action at the primary care level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary care level, the correct action is to stabilize the child, administer a stat dose of IM benzathine penicillin, and refer. Starting ibuprofen or delaying referral may miss the window for specialist care. Referral without penicillin risks progression of infection. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Start ibuprofen and oral penicillin, monitor for 48 hours, then refer if no improvement", "value": "A" },
-	          { "text": "Give a stat IM dose of benzathine penicillin, start ibuprofen, and refer the patient", "value": "B" },
-	          { "text": "Stabilize the patient, give a stat dose of IM benzathine penicillin, and refer to a higher-level facility", "value": "C" },
-	          { "text": "Refer immediately to tertiary care without giving treatment to avoid masking symptoms", "value": "D" }
+	          {
+	            "text": "Start ibuprofen and oral penicillin, monitor for 48 hours, then refer if no improvement",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Give a stat IM dose of benzathine penicillin, start ibuprofen, and refer the patient",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Stabilize the patient, give a stat dose of IM benzathine penicillin, and refer to a higher-level facility",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Refer immediately to tertiary care without giving treatment to avoid masking symptoms",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "7" },
+	      "stepIdentifier": {
+	        "id": "3"
+	      },
 	      "type": "question",
 	      "title": "Myocarditis",
-	      "text": "What is the most appropriate management step for suspected myocarditis at the primary care level ?",
+	      "text": "What is the most appropriate management step for suspected myocarditis at the primary care level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the guideline recommends stabilizing the patient and referring — definitive diagnosis and treatment occur at higher levels. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Start corticosteroids immediately", "value": "A" },
-	          { "text": "Order an echocardiogram and monitor at the facility", "value": "B" },
-	          { "text": "Stabilize the patient and refer to a higher-level facility", "value": "C" },
-	          { "text": "Begin long-term heart failure medications", "value": "D" }
+	          {
+	            "text": "Start corticosteroids immediately",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Order an echocardiogram and monitor at the facility",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Stabilize the patient and refer to a higher-level facility",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Begin long-term heart failure medications",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "9" },
+	      "stepIdentifier": {
+	        "id": "4"
+	      },
 	      "type": "question",
 	      "title": "Dilated Cardiomyopathy",
-	      "text": "What is the correct management approach for a child presenting with signs suggestive of dilated cardiomyopathy at the primary care level?",
+	      "text": "What is the correct management approach for a child presenting with signs suggestive of dilated cardiomyopathy at the primary care level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the key responsibility is to stabilize the child and refer for further evaluation and treatment. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Start long-term heart failure medication and monitor", "value": "A" },
-	          { "text": "Administer corticosteroids and observe", "value": "B" },
-	          { "text": "Stabilize the patient and refer to higher-level care", "value": "C" },
-	          { "text": "Delay intervention until echocardiography is available", "value": "D" }
+	          {
+	            "text": "Start long-term heart failure medication and monitor",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Administer corticosteroids and observe",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Stabilize the patient and refer to higher-level care",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Delay intervention until echocardiography is available",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "11" },
+	      "stepIdentifier": {
+	        "id": "5"
+	      },
 	      "type": "question",
 	      "title": "Pulmonary hypertension",
-	      "text": "What is the most appropriate course of action at the primary care level when a child is suspected to have pulmonary hypertension?",
+	      "text": "What is the most appropriate course of action at the primary care level when a child is suspected to have pulmonary hypertension? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the focus is on initial stabilization and referral to a higher-level facility for specialist input. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Start vasodilators and observe response", "value": "A" },
-	          { "text": "Begin diuretics and discharge if improved", "value": "B" },
-	          { "text": "Stabilize the patient and refer for pulmonologist and/or cardiologist review", "value": "C" },
-	          { "text": "Delay referral until heart failure develops", "value": "D" }
+	          {
+	            "text": "Start vasodilators and observe response",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Begin diuretics and discharge if improved",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Stabilize the patient and refer for pulmonologist and/or cardiologist review",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Delay referral until heart failure develops",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "15" },
+	      "stepIdentifier": {
+	        "id": "6"
+	      },
 	      "type": "question",
 	      "title": "Congenital Heart diseases",
-	      "text": "What is the appropriate course of action at the primary care level for a neonate suspected to have congenital heart disease?",
+	      "text": "What is the appropriate course of action at the primary care level for a neonate suspected to have congenital heart disease? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "At primary care level, the role is to stabilize the patient using ABCDE and then refer for further evaluation. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Start heart failure medications and monitor", "value": "A" },
-	          { "text": "Perform chest X-ray and defer referral", "value": "B" },
-	          { "text": "Stabilize using ABCDE approach and refer to secondary care", "value": "C" },
-	          { "text": "Begin CPAP and provide long-term follow-up", "value": "D" }
+	          {
+	            "text": "Start heart failure medications and monitor",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Perform chest X-ray and defer referral",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Stabilize using ABCDE approach and refer to secondary care",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Begin CPAP and provide long-term follow-up",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "19" },
+	      "stepIdentifier": {
+	        "id": "7"
+	      },
 	      "type": "question",
 	      "title": "Hypercyanotic Spell in Tetralogy of Fallot",
-	      "text": "Why is a child with a hypercyanotic spell placed in a knee–chest position or held on the caregiver’s shoulder with knees tucked?",
+	      "text": "Why is a child with a hypercyanotic spell placed in a knee–chest position or held on the caregiver’s shoulder with knees tucked? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "This positioning helps manage a Tet spell by reducing systemic venous return (decreasing preload) and increasing systemic vascular resistance, which improves pulmonary blood flow and oxygenation. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "To reduce pulmonary pressure and increase heart rate", "value": "A" },
-	          { "text": "To calm the child and improve airway patency", "value": "B" },
-	          { "text": "To increase systemic venous return and increase systemic vascular resistance", "value": "C" },
-	          { "text": "To promote deeper breathing and increase oxygen uptake", "value": "D" }
+	          {
+	            "text": "To reduce pulmonary pressure and increase heart rate",
+	            "value": "A"
+	          },
+	          {
+	            "text": "To calm the child and improve airway patency",
+	            "value": "B"
+	          },
+	          {
+	            "text": "To increase systemic venous return and increase systemic vascular resistance",
+	            "value": "C"
+	          },
+	          {
+	            "text": "To promote deeper breathing and increase oxygen uptake",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "20" },
+	      "stepIdentifier": {
+	        "id": "8"
+	      },
 	      "type": "question",
 	      "title": "Hypercyanotic Spell in Tetralogy of Fallot",
-	      "text": "A child with Tetralogy of Fallot presents with a cyanotic spell. Which of the following interventions can be performed at the primary level to support stabilization?",
+	      "text": "A child with Tetralogy of Fallot presents with a cyanotic spell. Which of the following interventions can be performed at the primary level to support stabilization? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "Key interventions at the primary level include positioning, oxygen, and fluid bolus to improve preload and systemic resistance. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "IV propranolol and morphine", "value": "A" },
-	          { "text": "Knee–chest position, 100% oxygen, and fluid bolus (RL or NS 20 ml/kg)", "value": "B" },
-	          { "text": "Transfer immediately without intervention", "value": "C" },
-	          { "text": "Administer corticosteroids and diuretics", "value": "D" }
+	          {
+	            "text": "IV propranolol and morphine",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Knee–chest position, 100% oxygen, and fluid bolus (RL or NS 20 ml/kg)",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Transfer immediately without intervention",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Administer corticosteroids and diuretics",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "21" },
+	      "stepIdentifier": {
+	        "id": "9"
+	      },
 	      "type": "question",
 	      "title": "Hypercyanotic Spell in Tetralogy of Fallot",
-	      "text": "A child with Tetralogy of Fallot is having a hypercyanotic spell and remains poorly perfused after initial stabilization. According to the guideline, how should fluid resuscitation be administered at the primary care level?",
+	      "text": "A child with Tetralogy of Fallot is having a hypercyanotic spell and remains poorly perfused after initial stabilization. According to the guideline, how should fluid resuscitation be administered at the primary care level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "The guideline advises giving a 20 ml/kg bolus of RL or NS over 30 minutes, with a maximum of 2 boluses if the child does not improve. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "10 ml/kg over 1 hour, repeat once if needed", "value": "A" },
-	          { "text": "20 ml/kg rapid IV bolus over 30 minutes, repeat once if no improvement (maximum 2 boluses)", "value": "B" },
-	          { "text": "Continuous maintenance fluids only", "value": "C" },
-	          { "text": "30 ml/kg over 15 minutes, repeat up to 3 times", "value": "D" }
+	          {
+	            "text": "10 ml/kg over 1 hour, repeat once if needed",
+	            "value": "A"
+	          },
+	          {
+	            "text": "20 ml/kg rapid IV bolus over 30 minutes, repeat once if no improvement (maximum 2 boluses)",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Continuous maintenance fluids only",
+	            "value": "C"
+	          },
+	          {
+	            "text": "30 ml/kg over 15 minutes, repeat up to 3 times",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "26" },
+	      "stepIdentifier": {
+	        "id": "10"
+	      },
 	      "type": "question",
 	      "title": "Congestive Heart Failure",
-	      "text": "A 1-year-old presents with signs of congestive heart failure. What is the most appropriate action at the primary care level?",
+	      "text": "A 1-year-old presents with signs of congestive heart failure. What is the most appropriate action at the primary care level? [cite: 1]",
+	      "correctAnswer": "B",
+	      "rationale": "At the primary level, the guideline advises stabilization (ABCDE), giving furosemide 1 mg/kg stat if available (IV or oral), and referral to secondary care. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Start long-term diuretics and monitor for 72 hours", "value": "A" },
-	          { "text": "Stabilize using ABCDE, give a stat dose of furosemide if available", "value": "B" },
-	          { "text": "Begin oxygen and corticosteroids, then discharge", "value": "C" },
-	          { "text": "Refer immediately without providing any treatment", "value": "D" }
+	          {
+	            "text": "Start long-term diuretics and monitor for 72 hours",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Stabilize using ABCDE, give a stat dose of furosemide if available",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Begin oxygen and corticosteroids, then discharge",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Refer immediately without providing any treatment",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "38" },
+	      "stepIdentifier": {
+	        "id": "11"
+	      },
+	      "type": "question",
+	      "title": "Paediatric Arrhythimias",
+	      "text": "A 7-year-old presents to a primary care facility with altered consciousness and a heart rate over 220 bpm. The child appears pale, cold, and poorly perfused. What is the most appropriate action? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "This is an unstable arrhythmia. At the primary level, the correct response is to stabilize using ABCs and refer immediately to tertiary care. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Administer oral beta-blocker and monitor for 2 hours",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Perform a 12-lead ECG and refer the next day",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Begin ABC stabilization and urgently refer to tertiary care",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Attempt vagal maneuvers and discharge if heart rate improves",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "12"
+	      },
 	      "type": "question",
 	      "title": "Supraventricular Tachycardia",
-	      "text": "A 5-year-old presents with a rapid heart rate (>220 bpm), is alert but appears fatigued. What is the appropriate approach at the primary care level?",
+	      "text": "A 5-year-old presents with a rapid heart rate (>220 bpm), is alert but appears fatigued. What is the appropriate approach at the primary care level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "At the primary level, the role is to stabilize the patient using the ABCDE approach and consult or refer for further evaluation and management. Medication and advanced interventions are handled at higher levels. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Administer IV adenosine immediately", "value": "A" },
-	          { "text": "Perform synchronized cardioversion", "value": "B" },
-	          { "text": "Stabilize using ABCDE approach and consult/refer to secondary care", "value": "C" },
-	          { "text": "Start oral beta-blockers and monitor for 12 hours", "value": "D" }
+	          {
+	            "text": "Administer IV adenosine immediately",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Perform synchronized cardioversion",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Stabilize using ABCDE approach and consult/refer to secondary care",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Start oral beta-blockers and monitor for 12 hours",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "44" },
+	      "stepIdentifier": {
+	        "id": "13"
+	      },
 	      "type": "question",
 	      "title": "Chest Pain",
-	      "text": "Which aspect of history is most important to assess in a child presenting with chest pain?",
+	      "text": "Which aspect of history is most important to assess in a child presenting with chest pain? [cite: 1]",
+	      "correctAnswer": "A",
+	      "rationale": "A detailed description of the pain’s characteristics is essential to guide diagnosis and determine urgency of referral. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Duration, intensity, location, and radiation of pain", "value": "A" },
-	          { "text": "Family history of asthma or eczema", "value": "B" },
-	          { "text": "Recent antibiotic use", "value": "C" },
-	          { "text": "Sleep quality and school performance", "value": "D" }
+	          {
+	            "text": "Duration, intensity, location, and radiation of pain",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Family history of asthma or eczema",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Recent antibiotic use",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Sleep quality and school performance",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    },
 	    {
-	      "stepIdentifier": { "id": "45" },
+	      "stepIdentifier": {
+	        "id": "14"
+	      },
 	      "type": "question",
 	      "title": "Chest Pain",
-	      "text": "According to primary care guidelines, which of the following warrants referral of a child with chest pain to a secondary facility?",
+	      "text": "According to primary care guidelines, which of the following warrants referral of a child with chest pain to a secondary facility? [cite: 1]",
+	      "correctAnswer": "D",
+	      "rationale": "Exertional chest pain and abnormal cardiac findings may indicate a cardiac cause and should prompt referral. [cite: 1]",
 	      "answerFormat": {
 	        "type": "single",
 	        "textChoices": [
-	          { "text": "Chest pain that worsens with deep breathing", "value": "A" },
-	          { "text": "Tenderness on palpation of the chest wall", "value": "B" },
-	          { "text": "Occasional complaints of mild pain at rest", "value": "C" },
-	          { "text": "Pain worsened by physical activity or abnormal cardiac exam", "value": "D" }
+	          {
+	            "text": "Chest pain that worsens with deep breathing",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Tenderness on palpation of the chest wall",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Occasional complaints of mild pain at rest",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Pain worsened by physical activity or abnormal cardiac exam",
+	            "value": "D"
+	          }
+	        ]
+	      }
+	    },
+	    {
+	      "stepIdentifier": {
+	        "id": "15"
+	      },
+	      "type": "question",
+	      "title": "Syncope",
+	      "text": "A child presents with a brief loss of consciousness but has a normal exam and vitals. What is the most appropriate action at the primary or secondary level? [cite: 1]",
+	      "correctAnswer": "C",
+	      "rationale": "Syncope may have cardiac or neurological causes. Evaluation by a cardiologist or neurologist at a tertiary center is advised. [cite: 1]",
+	      "answerFormat": {
+	        "type": "single",
+	        "textChoices": [
+	          {
+	            "text": "Discharge without follow-up",
+	            "value": "A"
+	          },
+	          {
+	            "text": "Begin oral rehydration therapy",
+	            "value": "B"
+	          },
+	          {
+	            "text": "Refer to a tertiary facility for cardiology or neurology evaluation",
+	            "value": "C"
+	          },
+	          {
+	            "text": "Order a 24-hour EEG before deciding next steps",
+	            "value": "D"
+	          }
 	        ]
 	      }
 	    }
-	]
+	  ]
+	
+
+
 }
