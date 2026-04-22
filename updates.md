@@ -1,6 +1,10 @@
 **NCD Paeds MW content updates**
 ***
 
+##### 22.04.2026
+
+* Quiz sections for each chapter added
+
 ##### 02.04.2026
 
 * Second -Happy Easter- Edition
