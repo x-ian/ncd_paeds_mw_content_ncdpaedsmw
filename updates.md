@@ -1,6 +1,10 @@
 **NCD Paeds MW content updates**
 ***
 
+##### 03.03.2026
+
+* Endocrinology Quiz fixed
+
 ##### 22.04.2026
 
 * Quiz sections for each chapter added (only available in version 2 of NCD Paeds MW)
